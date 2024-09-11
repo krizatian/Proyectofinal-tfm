@@ -1,0 +1,1881 @@
+DepartamentoDelPredio,MunicipioDelPredio,CodigoDANE,DiscapacidadDelSolicitante,NumeroDeTitularesConAlgunaDiscapacidad
+Santander,Cerrito,68162,No,9
+Antioquia,Turbo,05837,No,2218
+Valle Del Cauca,Restrepo,76606,No,16
+Arauca,Puerto Rondón,81591,Si,4
+Antioquia,Puerto Nare,05585,Si,6
+Cauca,Cajibío,19130,No,525
+Meta,Puerto Rico,50590,Si,102
+Chocó,San José Del Palmar,27660,Si,22
+Cundinamarca,Cabrera,25120,Si,3
+Atlántico,Polonuevo,08558,No,4
+Boyacá,Buenavista,15109,No,1
+Cesar,El Copey,20238,No,561
+Bolívar,Altos Del Rosario,13030,Si,5
+Tolima,Natagaima,73483,Si,27
+Bolívar,San Juan Nepomuceno,13657,No Reporta,1
+Córdoba,Cotorra,23300,No,2
+Cundinamarca,Nilo,25488,No,3
+Cauca,Paez,19517,Si,22
+Boyacá,Páez,15514,Si,6
+Cesar,Becerril,20045,Si,50
+Putumayo,San Francisco,86755,Si,8
+Antioquia,Apartadó,05045,No,657
+Cesar,El Paso,20250,Si,10
+Valle Del Cauca,Guacarí,76318,No,16
+Antioquia,Dabeiba,05234,No,452
+Cauca,Morales,19473,Si,27
+Caquetá,Solano,18756,Si,50
+Caldas,Samaná,17662,No,946
+Bolívar,Santa Catalina,13673,No,9
+Cundinamarca,Paratebueno,25530,No,37
+Tolima,Alpujarra,73024,Si,6
+Tolima,Honda,73349,Si,1
+Antioquia,Tarazá,05790,Si,73
+Magdalena,Santa Ana,47707,No,109
+Huila,Palestina,41530,Si,1
+Bolívar,Norosí,13490,Si,7
+Córdoba,Los Córdobas,23419,No,20
+Santander,Santa Bárbara,68705,No,1
+Antioquia,San Francisco,05652,Si,12
+Antioquia,Zaragoza,05895,Si,27
+Risaralda,La Celia,66383,Si,2
+Antioquia,Concepción,05206,No,23
+Antioquia,La Unión,05400,No,29
+Norte Santander,Abrego,54003,No,205
+Bolívar,Cantagallo,13160,Si,13
+Bolívar,Tiquisio,13810,Si,13
+Cundinamarca,Uutica,25851,No,2
+Boyacá,Quípama,15580,No,19
+Putumayo,Puerto Leguízamo,86573,Si,71
+Valle Del Cauca,Trujillo,76828,No,278
+Santander,Gambita,68298,No,5
+Tolima,Ambalema,73030,No,68
+Norte Santander,Salazar,54660,Si,8
+Santander,Florián,68271,No,5
+Antioquia,Yalí,05885,Si,4
+Santander,Charalá,68167,Si,2
+Antioquia,El Carmen De Viboral,05148,Si,21
+Antioquia,Sabanalarga,05628,No,26
+Atlántico,Manatí,08436,No,12
+Sucre,Palmito,70523,Si,3
+Amazonas,Puerto Alegría,91530,No,5
+Cauca,Inzá,19355,Si,12
+Putumayo,Puerto Caicedo,86569,Si,102
+Norte Santander,Sardinata,54720,Si,55
+La Guajira,Distracción,44098,Si,7
+Risaralda,Santa Rosa De Cabal,66682,No,6
+Nariño,La Llanada,52385,Si,2
+Tolima,Ibagué,73001,No,280
+Guainía,Inírida,94001,Si,2
+Santander,Barrancabermeja,68081,No,631
+Boyacá,Macanal,15425,No,4
+Huila,Colombia,41206,Si,14
+Bolívar,Pinillos,13549,No,20
+Valle Del Cauca,Yotoco,76890,Si,3
+La Guajira,Dibulla,44090,Si,28
+Cauca,Cajibío,19130,Si,193
+La Guajira,Riohacha,44001,No,272
+Vichada,Puerto Carreño,99001,No,54
+Cundinamarca,Soacha,25754,Si,11
+Norte Santander,Gramalote,54313,Si,2
+Vaupés,Yavaraté,97889,No,1
+Meta,Puerto López,50573,Si,27
+Nariño,Mallama,52435,No,47
+Cundinamarca,La Mesa,25386,No,7
+Magdalena,Plato,47555,No,225
+Bolívar,Talaigua Nuevo,13780,No,4
+Tolima,Coello,73200,Si,1
+Cesar,San Martín,20770,No Reporta,1
+Boyacá,Almeida,15022,No,2
+Putumayo,San Miguel,86757,No,801
+Antioquia,Ituango,05361,Si,61
+Huila,Pitalito,41551,Si,17
+Bolívar,Simití,13744,Si,13
+Córdoba,Puerto Escondido,23574,Si,7
+Antioquia,Yondó,05893,No Reporta,1
+Caquetá,San Vicente Del Caguán,18753,No,808
+Antioquia,Sonsón,05756,Si,50
+Cauca,Popayán,19001,No,322
+Caldas,Anserma,17042,Si,11
+Cesar,Río De Oro,20614,Si,11
+Tolima,Icononzo,73352,Si,11
+Antioquia,Betulia,05093,No,60
+Atlántico,Galapa,08296,No,8
+Risaralda,Quinchía,66594,No,262
+Valle Del Cauca,San Pedro,76670,Si,7
+Antioquia,Venecia,05861,No,13
+Sucre,Majagual,70429,No,68
+Santander,Macaravita,68425,No,25
+Nariño,Cumbitara,52233,No,184
+Cundinamarca,Sibaté,25740,No,6
+Norte Santander,La Playa,54398,Si,2
+Bolívar,El Guamo,13248,No,42
+Córdoba,Montelíbano,23466,No,251
+Casanare,Monterrey,85162,Si,10
+Magdalena,Zona Bananera,47980,Si,45
+Cundinamarca,Guayabal De Siquima,25328,No,18
+Huila,Hobo,41349,Si,1
+Santander,Macaravita,68425,Si,2
+Meta,Castilla La Nueva,50150,No,10
+Nariño,La Tola,52390,Si,8
+Norte Santander,Lourdes,54418,No,3
+Chocó,Riosucio,27615,No,1202
+Córdoba,San Bernardo Del Viento,23675,Si,1
+Nariño,Los Andes,52418,Si,27
+Cundinamarca,Guayabetal,25335,No,14
+Santander,Molagavita,68468,No,6
+Huila,Baraya,41078,No,193
+Nariño,Magüi,52427,No,108
+Magdalena,Pedraza,47541,Si,1
+Huila,Algeciras,41020,No,208
+Nariño,La Unión,52399,Si,17
+Cundinamarca,Gutiérrez,25339,Si,1
+Boyacá,Caldas,15131,No,2
+Norte Santander,Silos,54743,No,2
+Bolívar,Arjona,13052,Si,9
+Córdoba,San Bernardo Del Viento,23675,No,14
+Cauca,López,19418,Si,16
+Santander,Tona,68820,No,1
+Amazonas,El Encanto,91263,Si,1
+Cundinamarca,Tibacuy,25805,Si,4
+Antioquia,Turbo,05837,No Reporta,1
+Meta,Vistahermosa,50711,Si,92
+Antioquia,Yondó,05893,Si,35
+Córdoba,San Pelayo,23686,Si,1
+Boyacá,Berbeo,15090,No,4
+Sucre,San Onofre,70713,Si,36
+Antioquia,Alejandría,05021,Si,1
+Bolívar,Barranco De Loba,13074,No,60
+Cundinamarca,Fusagasugá,25290,No,26
+Caldas,Palestina,17524,No,3
+Huila,Algeciras,41020,Si,35
+Norte Santander,Arboledas,54051,Si,14
+Risaralda,Mistrató,66456,No,84
+Tolima,Saldaña,73671,Si,2
+Boyacá,Aquitania,15047,No,39
+Bolívar,San Fernando,13650,No,1
+Boyacá,Tutazá,15839,No,1
+Magdalena,Sitionuevo,47745,Si,25
+Santander,Charalá,68167,No,5
+Valle Del Cauca,Cali,76001,No,275
+Cundinamarca,Facatativá,25269,No,1
+Antioquia,Ituango,05361,No,269
+Antioquia,Caramanta,05145,No,18
+Cesar,Aguachica,20011,Si,31
+Cundinamarca,El Peñón,25258,No,61
+Cauca,Mercaderes,19450,Si,3
+Cundinamarca,Tocancipá,25817,Si,1
+Antioquia,Apartadó,05045,Si,102
+Cesar,Aguachica,20011,No,187
+Córdoba,Valencia,23855,Si,98
+La Guajira,San Juan Del Cesar,44650,No,65
+Casanare,Pore,85263,No,98
+Antioquia,Sopetrán,05761,Si,2
+Tolima,Villahermosa,73870,Si,24
+Risaralda,Guática,66318,Si,9
+Cauca,San Sebastián,19693,No,63
+Casanare,Sabanalarga,85300,Si,1
+Antioquia,Puerto Nare,05585,No,50
+Magdalena,El Retén,47268,No,18
+Cundinamarca,Apulo,25599,No,9
+Antioquia,San Luis,05660,No,319
+Risaralda,Dosquebradas,66170,No,20
+Huila,Garzón,41298,No,86
+Chocó,Nóvita,27491,Si,5
+Córdoba,Ure,23682,No,364
+Antioquia,Rionegro,05615,Si,1
+Bolívar,Magangué,13430,Si,2
+Cundinamarca,La Palma,25394,No,710
+Antioquia,Arboletes,05051,No Reporta,1
+Boyacá,Socotá,15755,Si,22
+Santander,Lebríja,68406,Si,21
+Caldas,Villamaría,17873,No,17
+Nariño,Albán,52019,No,176
+Bolívar,El Peñón,13268,No,5
+Boyacá,Zetaquira,15897,Si,1
+Cundinamarca,Paime,25518,No,10
+Cauca,Patía,19532,Si,44
+Norte Santander,Santiago,54680,Si,2
+Magdalena,El Retén,47268,Si,2
+Huila,Villavieja,41872,No,28
+Santander,Curití,68229,No,0
+Bolívar,Turbaná,13838,Si,2
+Tolima,Cunday,73226,No,125
+Córdoba,Puerto Libertador,23580,Si,24
+Boyacá,Susacón,15774,No,4
+Sucre,Sampués,70670,No,8
+Quindío,Circasia,63190,No,5
+Huila,Rivera,41615,Si,5
+Bolívar,Cantagallo,13160,No,103
+Cauca,El Tambo,19256,No,731
+Norte Santander,Tibú,54810,No,1420
+Bolívar,Córdoba,13212,Si,36
+Santander,Páramo,68533,No,1
+Putumayo,Puerto Caicedo,86569,No,612
+Nariño,San Bernardo,52685,No,8
+Cauca,Sucre,19785,No,51
+Boyacá,Paipa,15516,Si,5
+Santander,Suratá,68780,Si,3
+Boyacá,Tunja,15001,No,2
+Córdoba,Cereté,23162,No,11
+Boyacá,Páez,15514,No,71
+Nariño,Los Andes,52418,No,479
+Huila,Neiva,41001,No,181
+Magdalena,Ciénaga,47189,No,800
+Atlántico,Luruaco,08421,No,10
+Huila,Oporapa,41503,No,18
+Antioquia,Barbosa,05079,No,44
+Nariño,Arboleda,52051,No,2
+Antioquia,Santa Bárbara,05679,No,25
+Sucre,San Pedro,70717,No,101
+Cundinamarca,Fomeque,25279,No,6
+Norte Santander,Puerto Santander,54553,No,7
+Santander,Bucaramanga,68001,No,44
+Santander,Matanza,68444,No,60
+Cesar,Manaure,20443,No,58
+Valle Del Cauca,Jamundí,76364,Si,42
+Antioquia,Caracolí,05142,No,6
+Amazonas,La Chorrera,91405,No,1
+Boyacá,Guayatá,15325,No,3
+Sucre,Corozal,70215,No,31
+Cesar,La Gloria,20383,No,483
+Magdalena,Fundación,47288,No,350
+Córdoba,Moñitos,23500,Si,1
+Cundinamarca,Guayabal De Siquima,25328,Si,1
+Cauca,El Tambo,19256,Si,100
+Boyacá,Puerto Boyacá,15572,Si,8
+Nariño,Roberto Payán,52621,Si,24
+Córdoba,Valencia,23855,No Reporta,3
+Santander,El Playón,68255,Si,18
+Tolima,Espinal,73268,No,2
+Cundinamarca,Topaipí,25823,No,44
+Sucre,Buenavista,70110,No,22
+Cundinamarca,Guayabetal,25335,Si,4
+Antioquia,Santo Domingo,05690,No,69
+Vichada,La Primavera,99524,No,118
+Atlántico,Usiacurí,08849,No,1
+Magdalena,Ariguaní,47058,Si,10
+Huila,Tarqui,41791,No,8
+Meta,San Juan De Arama,50683,No,183
+Boyacá,Panqueba,15522,Si,0
+Nariño,Santacruz,52699,Si,9
+Antioquia,San Rafael,05667,No,199
+Santander,Málaga,68432,No,8
+Putumayo,Puerto Leguízamo,86573,No,442
+Bolívar,Montecristo,13458,Si,14
+Norte Santander,Pamplona,54518,Si,2
+Córdoba,Chimá,23168,Si,4
+Antioquia,Puerto Berrío,05579,Si,6
+Norte Santander,Toledo,54820,Si,4
+Cundinamarca,Beltrán,25086,No,8
+Antioquia,Murindó,05475,Si,1
+Sucre,Morroa,70473,No,406
+Córdoba,Buenavista,23079,Si,3
+Valle Del Cauca,Vijes,76869,No,16
+Bolívar,Córdoba,13212,No,226
+Tolima,Cunday,73226,Si,14
+Cundinamarca,Guaduas,25320,Si,2
+Córdoba,Pueblo Nuevo,23570,No,262
+Antioquia,Vegachí,05858,Si,6
+Bolívar,El Carmen De Bolívar,13244,Si,154
+Caquetá,Cartagena Del Chairá,18150,Si,155
+Antioquia,Santa Rosa De Osos,05686,Si,3
+Huila,Neiva,41001,Si,40
+Guainía,Morichal,94888,No,1
+Cundinamarca,Nocaima,25491,Si,1
+Casanare,La Salina,85136,Si,1
+Tolima,Villahermosa,73870,No,123
+Casanare,Sácama,85315,Si,1
+Magdalena,Aracataca,47053,Si,47
+Chocó,Río Iro,27580,No,57
+Meta,Puerto Gaitán,50568,No,516
+Vichada,Cumaribo,99773,No,787
+Tolima,San Luis,73678,No,60
+Cauca,Miranda,19455,No,57
+Putumayo,Sibundoy,86749,Si,1
+Quindío,Quimbaya,63594,Si,1
+Cesar,El Copey,20238,Si,64
+Meta,Castilla La Nueva,50150,Si,2
+Bogotá D.C.,Bogotá,11001,No,284
+Boyacá,Socotá,15755,No,29
+Córdoba,Planeta Rica,23555,No,38
+Tolima,Murillo,73461,No,36
+Meta,Puerto Concordia,50450,No,215
+Casanare,Monterrey,85162,No,86
+Guaviare,El Retorno,95025,No,215
+Valle Del Cauca,Alcalá,76020,Si,1
+Antioquia,San José De La Montaña,05658,No,2
+Norte Santander,Ocaña,54498,Si,25
+Norte Santander,Cachirá,54128,Si,14
+Tolima,Coyaima,73217,No,212
+Chocó,Tadó,27787,No,193
+Córdoba,Tierralta,23807,No,932
+Antioquia,Concepción,05206,Si,4
+Cauca,Totoró,19824,No,22
+Guainía,Puerto Colombia,94884,No,1
+Cauca,Totoró,19824,Si,63
+Magdalena,Pivijay,47551,No,663
+Antioquia,Girardota,05308,Si,2
+Valle Del Cauca,Buenaventura,76109,Si,125
+Casanare,Villanueva,85440,Si,2
+Cundinamarca,Sasaima,25718,No,21
+Huila,San Agustín,41668,No,61
+Putumayo,Orito,86320,Si,152
+Boyacá,San Mateo,15673,Si,1
+Tolima,Coyaima,73217,Si,27
+Cauca,Silvia,19743,Si,6
+Santander,Charta,68169,Si,2
+Huila,Pital,41548,Si,1
+Santander,California,68132,No,3
+Cundinamarca,La Vega,25402,No,2
+Nariño,Belén,52083,Si,5
+Córdoba,Ciénaga De Oro,23189,No,6
+Bolívar,Santa Rosa,13683,Si,1
+La Guajira,El Molino,44110,Si,5
+Valle Del Cauca,San Pedro,76670,No,66
+Norte Santander,Cachirá,54128,No,61
+Nariño,Colón,52203,Si,4
+Nariño,Cumbitara,52233,Si,14
+Huila,Santa María,41676,Si,6
+Chocó,Acandí,27006,No,144
+Norte Santander,Toledo,54820,No,34
+Santander,Simacota,68745,No,225
+Nariño,Ricaurte,52612,No,91
+Santander,Coromoro,68217,Si,1
+Cauca,Puracé,19585,No,70
+Cesar,Gamarra,20295,No,40
+Chocó,Atrato,27050,Si,1
+Boyacá,Guacamayas,15317,No,1
+Valle Del Cauca,Andalucía,76036,Si,1
+Bolívar,Turbaná,13838,No,32
+Huila,Acevedo,41006,No,91
+Casanare,Paz De Ariporo,85250,Si,12
+Santander,El Playón,68255,No,94
+Valle Del Cauca,Guacarí,76318,Si,4
+Huila,La Argentina,41378,Si,8
+Atlántico,Barranquilla,08001,No,138
+Antioquia,Guadalupe,05315,No,4
+Nariño,Leiva,52405,Si,14
+Bolívar,San Pablo,13670,Si,24
+Putumayo,Colón,86219,Si,1
+Santander,Málaga,68432,Si,3
+Tolima,Melgar,73449,Si,2
+Casanare,Pore,85263,Si,8
+Tolima,Icononzo,73352,No,109
+Casanare,San Luis De Palenque,85325,Si,3
+Santander,Sabana De Torres,68655,Si,61
+Boyacá,Campohermoso,15135,No,4
+Cauca,Puracé,19585,Si,10
+Meta,Mesetas,50330,No,423
+Antioquia,Sonsón,05756,No,436
+Antioquia,San Francisco,05652,No,196
+Antioquia,Angostura,05038,No,45
+Huila,Paicol,41518,No,4
+Meta,Barranca De Upía,50110,Si,1
+Antioquia,Armenia,05059,No,16
+Sucre,San Juan De Betulia,70702,No,16
+Antioquia,Amagá,05030,No,16
+Boyacá,Boavita,15097,Si,1
+Valle Del Cauca,Jamundí,76364,No,235
+Antioquia,Chigorodó,05172,No,410
+Cauca,Piendamó,19548,No,36
+Caldas,Chinchiná,17174,No,4
+Antioquia,Cáceres,05120,No,975
+Cauca,San Sebastián,19693,Si,7
+Meta,Puerto Lleras,50577,No,346
+Meta,Restrepo,50606,Si,3
+Cauca,Almaguer,19022,No,79
+Santander,San Joaquín,68682,Si,1
+Cundinamarca,Tibacuy,25805,No,20
+Córdoba,Montería,23001,No,1125
+Santander,Betulia,68092,No,99
+La Guajira,Albania,44035,No,22
+Cauca,Mercaderes,19450,No,94
+Antioquia,Fredonia,05282,Si,1
+Bolívar,El Peñón,13268,Si,1
+Chocó,Acandí,27006,Si,21
+Quindío,Salento,63690,Si,2
+Valle Del Cauca,La Victoria,76403,No,4
+Cesar,Pelaya,20550,Si,44
+Magdalena,El Banco,47245,No,37
+Cesar,Valledupar,20001,Si,93
+Risaralda,Pueblo Rico,66572,No,250
+Magdalena,Ciénaga,47189,Si,80
+Santander,Sabana De Torres,68655,No,427
+Magdalena,Puebloviejo,47570,Si,22
+Boyacá,Belén,15087,No,1
+Huila,San Agustín,41668,Si,9
+Nariño,El Charco,52250,No,91
+Cesar,Pailitas,20517,Si,32
+Cundinamarca,Gachalá,25293,Si,2
+Amazonas,El Encanto,91263,No,3
+Casanare,Tauramena,85410,No,115
+Santander,Valle De San José,68855,No,1
+Meta,Puerto Concordia,50450,Si,18
+Cesar,La Jagua De Ibirico,20400,Si,77
+Caquetá,Curillo,18205,Si,23
+Cundinamarca,Guataquí,25324,Si,1
+Huila,Suaza,41770,Si,3
+Antioquia,Carepa,05147,No,208
+Huila,Tello,41799,No,78
+Chocó,Bojayá,27099,No,51
+Meta,El Castillo,50251,Si,85
+Bolívar,Simití,13744,No,178
+Caldas,Marulanda,17446,No,23
+Cauca,Santander De Quilichao,19698,Si,23
+Huila,Teruel,41801,No,7
+Cundinamarca,Caparrapí,25148,No,67
+Cauca,Corinto,19212,No,92
+Caldas,Salamina,17653,Si,4
+Boyacá,San Luis De Gaceno,15667,Si,3
+Antioquia,Jericó,05368,Si,1
+Cesar,Becerril,20045,No,481
+Risaralda,La Virginia,66400,No,4
+Cauca,Piamonte,19533,No,374
+Tolima,Piedras,73547,No,26
+Nariño,Aldana,52022,Si,1
+Casanare,Orocué,85230,No,117
+Antioquia,Titiribí,05809,Si,1
+Bolívar,Montecristo,13458,No,78
+Chocó,Medio Atrato,27425,Si,13
+Antioquia,Chigorodó,05172,Si,62
+Boyacá,Cubará,15223,No,20
+Caldas,Pensilvania,17541,No,367
+Bolívar,San Jacinto Del Cauca,13655,Si,3
+Santander,El Peñón,68250,Si,11
+Caquetá,La Montañita,18410,Si,73
+Bolívar,Cicuco,13188,No,1
+Santander,San Joaquín,68682,No,2
+Magdalena,Chibolo,47170,Si,39
+Antioquia,Betulia,05093,Si,5
+Valle Del Cauca,Obando,76497,Si,3
+Antioquia,San Juan De Urabá,05659,No,34
+Bogotá D.C.,Bogotá,11001,Si,69
+Boyacá,Viracachá,15879,No,1
+Cauca,Corinto,19212,Si,10
+Risaralda,La Virginia,66400,Si,2
+Córdoba,Puerto Libertador,23580,No Reporta,1
+Bolívar,Soplaviento,13760,No,3
+Huila,Aipe,41016,Si,6
+Cundinamarca,Arbeláez,25053,Si,23
+Boyacá,San Eduardo,15660,No,2
+Magdalena,Fundación,47288,Si,46
+Huila,Iquira,41357,No,66
+Cauca,Argelia,19050,No,347
+Casanare,Trinidad,85430,Si,3
+Huila,Palermo,41524,Si,8
+Norte Santander,El Tarra,54250,No,150
+Magdalena,Pijiño Del Carmen,47545,No,19
+Caquetá,Morelia,18479,No,69
+Bolívar,Clemencia,13222,No,22
+Nariño,Santacruz,52699,No,69
+Boyacá,Pesca,15542,Si,2
+Antioquia,Caldas,05129,Si,3
+Caldas,Manzanares,17433,No,28
+Cundinamarca,La Peña,25398,No,24
+Nariño,Consaca,52207,Si,1
+Bolívar,Turbaco,13836,Si,3
+Caquetá,Morelia,18479,Si,14
+Cundinamarca,Villapinzón,25873,No,4
+Magdalena,El Piñon,47258,No,148
+Cundinamarca,Tena,25797,Si,2
+Cundinamarca,San Antonio Del Tequendama,25645,No,1
+Cesar,Chimichagua,20175,No,163
+Sucre,Coloso,70204,No,212
+Antioquia,Necoclí,05490,No,652
+Magdalena,Pijiño Del Carmen,47545,Si,3
+Antioquia,La Unión,05400,Si,7
+Cundinamarca,Vergara,25862,No,20
+Cundinamarca,El Peñón,25258,Si,3
+Magdalena,Concordia,47205,Si,1
+Santander,San Vicente De Chucurí,68689,Si,44
+Cundinamarca,San Antonio Del Tequendama,25645,Si,1
+Tolima,Roncesvalles,73622,No,128
+Valle Del Cauca,Tuluá,76834,No,445
+Cauca,Florencia,19290,Si,1
+Santander,El Carmen De Chucurí,68235,Si,47
+Guaviare,Miraflores,95200,Si,116
+Córdoba,Puerto Libertador,23580,No,177
+Sucre,Morroa,70473,Si,39
+Atlántico,Sabanalarga,08638,No,18
+Cundinamarca,Albán,25019,No,11
+Sucre,Sucre,70771,No,52
+Cundinamarca,Pacho,25513,Si,4
+Santander,Confines,68209,No,1
+Nariño,El Tablón De Gómez,52258,Si,74
+Arauca,Arauca,81001,No,119
+Nariño,Tangua,52788,No,165
+Tolima,Honda,73349,No,14
+Valle Del Cauca,Riofrío,76616,No,112
+Tolima,Coello,73200,No,1
+Meta,Puerto Gaitán,50568,Si,54
+Boyacá,Puerto Boyacá,15572,No,67
+Arauca,Cravo Norte,81220,Si,9
+Nariño,Francisco Pizarro,52520,No,37
+Cundinamarca,Quipile,25596,Si,5
+Antioquia,San Pedro,05664,No,6
+Antioquia,Peque,05543,Si,6
+Cundinamarca,Pulí,25580,Si,8
+Atlántico,Ponedera,08560,Si,1
+Boyacá,Arcabuco,15051,No,1
+Valle Del Cauca,Restrepo,76606,Si,5
+Nariño,El Tambo,52260,No,21
+Valle Del Cauca,Calima,76126,No,106
+Cundinamarca,Nariño,25483,Si,1
+Córdoba,La Apartada,23350,No,15
+Cundinamarca,Jerusalén,25368,No,8
+Sucre,San Marcos,70708,Si,8
+Córdoba,Valencia,23855,No,889
+Bolívar,San Estanislao,13647,Si,10
+Guaviare,San José Del Guaviare,95001,No,763
+Cundinamarca,Sesquilé,25736,Si,1
+Santander,Oiba,68500,No,7
+Cundinamarca,Guachetá,25317,No,1
+Antioquia,Arboletes,05051,Si,18
+Sucre,Ovejas,70508,No,808
+Bolívar,Norosí,13490,No,25
+Cundinamarca,Jerusalén,25368,Si,1
+Cauca,Buenos Aires,19110,No,157
+Caquetá,Solano,18756,No,187
+Norte Santander,San Calixto,54670,No,77
+Cesar,San Alberto,20710,No,397
+Huila,Altamira,41026,No,3
+Tolima,Carmen De Apicalá,73148,No,3
+Norte Santander,Bochalema,54099,No,5
+Norte Santander,Villa Del Rosario,54874,Si,10
+Valle Del Cauca,Guadalajara De Buga,76111,No,205
+Bolívar,Santa Catalina,13673,Si,2
+Antioquia,Buriticá,05113,Si,1
+Magdalena,Sabanas de San Ángel,47660,No,407
+Cauca,La Sierra,19392,No,92
+Chocó,El Carmen De Atrato,27245,Si,13
+Caldas,Samaná,17662,Si,132
+Guainía,San Felipe,94883,No,3
+Boyacá,Labranzagrande,15377,Si,9
+Huila,Colombia,41206,No,103
+Norte Santander,El Zulia,54261,No,185
+Magdalena,Nueva Granada,47460,Si,0
+Valle Del Cauca,Florida,76275,Si,10
+Tolima,Guamo,73319,No,14
+Huila,La Plata,41396,No,85
+Nariño,Ipiales,52356,No,227
+Huila,Isnos,41359,Si,6
+Antioquia,Giraldo,05306,No,17
+Cundinamarca,La Peña,25398,Si,7
+Nariño,Guachucal,52317,No,2
+Bolívar,Santa Rosa Del Sur,13688,No,110
+Cesar,Pailitas,20517,No,334
+Cesar,Astrea,20032,No,78
+Casanare,Yopal,85001,Si,16
+Meta,Fuente De Oro,50287,Si,4
+Sucre,La Unión,70400,No,4
+Bolívar,Mahates,13433,Si,8
+Santander,Villanueva,68872,No,2
+Norte Santander,Hacarí,54344,No,58
+Meta,Mapiripán,50325,Si,136
+Cundinamarca,Bituima,25095,No,9
+Nariño,Ancuyá,52036,Si,3
+Antioquia,Argelia,05055,No,322
+Cundinamarca,Quetame,25594,No,4
+Risaralda,Marsella,66440,No,4
+Magdalena,Guamal,47318,Si,2
+Cesar,Gamarra,20295,Si,2
+Antioquia,Cáceres,05120,Si,103
+Córdoba,San Carlos,23678,No,7
+Antioquia,Ebéjico,05240,No,7
+Tolima,Santa Isabel,73686,No,38
+Santander,Simacota,68745,Si,32
+Vaupés,Mitú,97001,No,53
+Santander,Vélez,68861,Si,2
+Meta,Villavicencio,50001,No,205
+Córdoba,Canalete,23090,Si,16
+Bolívar,San Estanislao,13647,No,41
+Nariño,La Llanada,52385,No,84
+Santander,Cabrera,68121,No,1
+Antioquia,Necoclí,05490,Si,87
+Antioquia,Tarso,05792,Si,0
+Vaupés,Carurú,97161,Si,10
+Santander,Los Santos,68418,No,4
+Caquetá,San José Del Fragua,18610,Si,23
+Magdalena,Sabanas de San Ángel,47660,Si,57
+Cundinamarca,Soacha,25754,No,42
+Caquetá,San Vicente Del Caguán,18753,Si,128
+Santander,Encino,68264,No,3
+Norte Santander,Cucutilla,54223,No,14
+Guaviare,El Retorno,95025,Si,36
+Bolívar,Talaigua Nuevo,13780,Si,1
+Cundinamarca,Puerto Salgar,25572,No,27
+Norte Santander,San Cayetano,54673,No,7
+Cauca,Miranda,19455,Si,9
+Huila,Tarqui,41791,Si,1
+Atlántico,Malambo,08433,Si,0
+Huila,Guadalupe,41319,No,23
+Cundinamarca,Quebradanegra,25592,No,8
+Antioquia,La Pintada,05390,No,7
+Cauca,Silvia,19743,No,48
+Sucre,Sincé,70742,No,35
+Norte Santander,La Esperanza,54385,No,126
+Huila,Hobo,41349,No,12
+Boyacá,Pajarito,15518,No,39
+Córdoba,Tuchín,23815,No,0
+Santander,Galán,68296,No,7
+Antioquia,Anorí,05040,Si,19
+Atlántico,Suan,08770,Si,1
+Meta,San Juanito,50686,Si,2
+Caldas,Pácora,17513,No,29
+Casanare,La Salina,85136,No,6
+Risaralda,Quinchía,66594,Si,46
+Nariño,Chachagüí,52240,No,5
+Cauca,Inzá,19355,No,78
+Chocó,Alto Baudó,27025,Si,8
+Cauca,Jambaló,19364,Si,7
+Caquetá,Puerto Rico,18592,No,468
+Atlántico,Tubará,08832,Si,9
+Santander,San Gil,68679,No,4
+Santander,Charalá,68167,No Reporta,2
+Cesar,González,20310,No,1
+Bolívar,Santa Rosa,13683,No,18
+Cundinamarca,Supatá,25777,No,1
+Tolima,Melgar,73449,No,8
+Magdalena,Tenerife,47798,No,134
+Magdalena,Ariguaní,47058,No,91
+Caldas,Supía,17777,Si,2
+Nariño,Ancuyá,52036,No,16
+Antioquia,Abejorral,05002,Si,6
+Valle Del Cauca,La Cumbre,76377,Si,9
+Sucre,Los Palmitos,70418,No,141
+Meta,El Calvario,50245,No,21
+Antioquia,Valdivia,05854,No,118
+Santander,San Andrés,68669,No,9
+Boyacá,Jericó,15368,Si,1
+La Guajira,Villanueva,44874,No,63
+Guaviare,San José Del Guaviare,95001,Si,96
+Boyacá,Tota,15822,Si,1
+Huila,Yaguará,41885,No,1
+Casanare,Yopal,85001,No,147
+Casanare,Paz De Ariporo,85250,No,92
+Risaralda,Mistrató,66456,Si,11
+Antioquia,Urrao,05847,No,164
+Meta,Acacías,50006,Si,43
+Cesar,La Paz,20621,Si,30
+Nariño,Policarpa,52540,Si,38
+Huila,Isnos,41359,No,47
+Antioquia,San Carlos,05649,Si,160
+Antioquia,Guarne,05318,Si,2
+Norte Santander,Hacarí,54344,Si,14
+Antioquia,Hispania,05353,No,2
+Santander,Puerto Parra,68573,No,149
+Risaralda,Santuario,66687,No,48
+Bolívar,Arroyohondo,13062,No,11
+Antioquia,Tarazá,05790,No,518
+Casanare,Trinidad,85430,No,70
+Valle Del Cauca,Versalles,76863,Si,7
+Antioquia,Santa Rosa De Osos,05686,No,18
+Córdoba,Sahagún,23660,No,6
+Nariño,Cuaspud,52224,Si,1
+Caquetá,Florencia,18001,No,493
+Boyacá,Guayatá,15325,Si,1
+Antioquia,Cañasgordas,05138,No,111
+Boyacá,Labranzagrande,15377,No,41
+Norte Santander,Chinácota,54172,No,7
+Guaviare,Calamar,95015,No,173
+Tolima,Prado,73563,Si,12
+Quindío,La Tebaida,63401,No,7
+Santander,El Carmen De Chucurí,68235,No,294
+Nariño,Ipiales,52356,Si,18
+Sucre,El Roble,70233,No,31
+Santander,Oiba,68500,Si,0
+Nariño,Samaniego,52678,No,102
+Meta,San Juanito,50686,No,11
+Chocó,El Litoral Del San Juan,27250,No,26
+Casanare,Aguazul,85010,Si,18
+Caquetá,Albania,18029,Si,4
+Antioquia,Carolina,05150,No,1
+Huila,Agrado,41013,No,4
+Antioquia,Ciudad Bolívar,05101,No,31
+Nariño,Iles,52352,No,1
+Tolima,Herveo,73347,No,38
+Córdoba,San Pelayo,23686,No,4
+Huila,Elías,41244,No,1
+Cundinamarca,Chocontá,25183,No,1
+Nariño,El Tambo,52260,Si,0
+Bolívar,San Juan Nepomuceno,13657,Si,41
+Meta,Puerto Rico,50590,No,613
+Amazonas,Puerto Arica,91536,No,2
+Huila,Baraya,41078,Si,25
+Boyacá,Pesca,15542,No,4
+Norte Santander,La Esperanza,54385,Si,12
+Cesar,Chiriguaná,20178,No,214
+Tolima,San Antonio,73675,No,234
+La Guajira,Fonseca,44279,Si,6
+Cundinamarca,San Juan De Río Seco,25662,No,37
+Nariño,Contadero,52210,No,2
+Magdalena,Salamina,47675,No,124
+Cundinamarca,Anolaima,25040,No,6
+Nariño,Sandoná,52683,Si,1
+Bolívar,Hatillo De Loba,13300,No,29
+Nariño,La Unión,52399,No,324
+Vaupés,Taraira,97666,No,1
+Santander,Carcasí,68152,No,3
+Cundinamarca,Medina,25438,Si,15
+Sucre,Sincelejo,70001,No,74
+Valle Del Cauca,Cartago,76147,Si,1
+Arauca,Fortul,81300,Si,7
+Cauca,Guachené,19300,No,2
+La Guajira,Uribia,44847,Si,1
+Santander,Barrancabermeja,68081,Si,82
+Cundinamarca,Viotá,25878,Si,13
+Antioquia,Belmira,05086,No,5
+Santander,Rionegro,68615,No,221
+Boyacá,Turmequé,15835,No,1
+Meta,Vistahermosa,50711,No,778
+Santander,California,68132,Si,3
+Cundinamarca,Albán,25019,Si,1
+Cesar,Pueblo Bello,20570,No,191
+Valle Del Cauca,Caicedonia,76122,Si,1
+Caldas,La Merced,17388,No,13
+La Guajira,La Jagua Del Pilar,44420,Si,4
+Nariño,El Rosario,52256,No,356
+Nariño,Pasto,52001,Si,36
+San Andrés,San Andrés,88001,No,1
+Cauca,Santander De Quilichao,19698,No,193
+Arauca,Cravo Norte,81220,No,63
+Nariño,Roberto Payán,52621,No,122
+Nariño,Linares,52411,Si,2
+Cundinamarca,El Colegio,25245,No,7
+Tolima,Herveo,73347,Si,18
+Meta,Puerto López,50573,No,219
+Cundinamarca,Medina,25438,No,124
+Santander,Capitanejo,68147,No,7
+Antioquia,Caucasia,05154,Si,39
+Arauca,Arauquita,81065,No,347
+Guainía,Barranco Minas,94343,Si,3
+Atlántico,Juan De Acosta,08372,Si,1
+Tolima,Falán,73270,Si,7
+Magdalena,Plato,47555,Si,23
+Magdalena,Puebloviejo,47570,No,242
+Putumayo,Colón,86219,No,4
+Risaralda,Pereira,66001,Si,8
+Santander,Cerrito,68162,Si,1
+Boyacá,Moniquirá,15469,Si,1
+Antioquia,Vegachí,05858,No,96
+Cesar,Pelaya,20550,No,355
+Cauca,Sucre,19785,Si,9
+Antioquia,Salgar,05642,No,76
+Antioquia,Guatapé,05321,Si,2
+Nariño,Yacuanquer,52885,No,2
+Quindío,Filandia,63272,Si,1
+Huila,Timaná,41807,No,4
+Santander,Zapatoca,68895,No,34
+Nariño,Puerres,52573,Si,2
+Chocó,Cértegui,27160,Si,1
+Bolívar,Morales,13473,No,99
+Antioquia,Cocorná,05197,No,276
+Antioquia,Retiro,05607,Si,1
+Santander,Albania,68020,Si,1
+Sucre,Sincé,70742,Si,3
+Putumayo,Puerto Guzmán,86571,Si,195
+Arauca,Saravena,81736,No,147
+Chocó,El Cantón Del San Pablo,27135,Si,2
+Cundinamarca,Mosquera,25473,No,1
+Cauca,Suárez,19780,Si,12
+Bolívar,Arenal,13042,Si,4
+Casanare,Chameza,85015,Si,1
+Cundinamarca,Villagómez,25871,No,6
+Bolívar,Arroyohondo,13062,Si,3
+Boyacá,Cuítiva,15226,Si,8
+Risaralda,Balboa,66075,No,5
+Cauca,Caldono,19137,No,49
+Cundinamarca,Sasaima,25718,Si,4
+Antioquia,San Pedro de Urabá,05665,No,339
+Boyacá,Toguouí,15816,Si,1
+Huila,Gigante,41306,No,88
+Bolívar,Pinillos,13549,Si,3
+Caldas,Risaralda,17616,Si,2
+Chocó,Lloró,27413,Si,2
+Atlántico,Repelón,08606,Si,4
+Antioquia,Andes,05034,Si,5
+Antioquia,Abejorral,05002,No,67
+Nariño,Cumbal,52227,Si,11
+Caldas,Anserma,17042,No,61
+Santander,Betulia,68092,Si,10
+Cundinamarca,Tena,25797,No,2
+Putumayo,Valle Del Guamuez,86865,Si,190
+Valle Del Cauca,El Cerrito,76248,No,27
+Chocó,Bajo Baudó,27077,Si,2
+Tolima,Murillo,73461,Si,2
+Norte Santander,Villa Del Rosario,54874,No,47
+Valle Del Cauca,Toro,76823,No,15
+Santander,Floridablanca,68276,No,15
+Boyacá,Santa Sofía,15696,No,1
+Norte Santander,La Playa,54398,No,29
+Caquetá,Valparaíso,18860,No,238
+Chocó,San José Del Palmar,27660,No,158
+Risaralda,Belén De Umbría,66088,No,46
+Valle Del Cauca,El Cairo,76246,Si,7
+Valle Del Cauca,Dagua,76233,No,253
+Córdoba,Moñitos,23500,No,15
+Boyacá,Gachantivá,15293,No,2
+Bolívar,Achí,13006,No,105
+Cauca,Toribio,19821,No,51
+Cundinamarca,Cachipay,25123,Si,1
+Nariño,Santa Bárbara,52696,No,386
+Quindío,Pijao,63548,Si,1
+Santander,Guaca,68318,No,8
+Nariño,Cuaspud,52224,No,2
+Cundinamarca,Silvania,25743,Si,6
+Córdoba,Montería,23001,No Reporta,4
+Tolima,Lérida,73408,Si,29
+Casanare,Tauramena,85410,Si,25
+Cundinamarca,Anapoima,25035,Si,1
+Cundinamarca,Gachetá,25297,No,4
+Risaralda,Apía,66045,No,30
+Santander,Tona,68820,Si,6
+Cesar,La Gloria,20383,Si,55
+Casanare,Nunchía,85225,No,62
+Chocó,Unguía,27800,No,193
+Boyacá,Jenesano,15367,No,0
+Cundinamarca,Nilo,25488,Si,1
+Tolima,Roncesvalles,73622,Si,22
+Putumayo,Valle Del Guamuez,86865,No,1795
+Norte Santander,Chitagá,54174,Si,1
+Nariño,Policarpa,52540,No,479
+Antioquia,Santa Bárbara,05679,Si,5
+Nariño,Pupiales,52585,No,1
+Boyacá,Samacá,15646,No,1
+Boyacá,Chitaraque,15185,No,1
+Boyacá,Covarachía,15218,No,1
+Bolívar,Morales,13473,Si,13
+Santander,Socorro,68755,No,2
+Sucre,Santiago De Tolú,70820,Si,4
+Caquetá,La Montañita,18410,No,392
+Santander,San Miguel,68686,Si,1
+Caquetá,El Paujil,18256,Si,13
+Atlántico,Santo Tomás,08685,No,1
+Antioquia,Alejandría,05021,No,32
+Chocó,Quibdó,27001,No,137
+Boyacá,Campohermoso,15135,Si,0
+Nariño,Córdoba,52215,No,7
+Huila,Saladoblanco,41660,No,35
+Casanare,Támara,85400,Si,7
+Risaralda,Guática,66318,No,47
+Cundinamarca,Yacopí,25885,No,249
+Guaviare,Miraflores,95200,No,647
+Valle Del Cauca,Argelia,76054,No,6
+Putumayo,Villa Garzón,86885,No,556
+Boyacá,Chiscas,15180,Si,2
+Antioquia,Abriaquí,05004,No,15
+Caquetá,Cartagena Del Chairá,18150,No,862
+Caldas,Risaralda,17616,No,13
+Magdalena,Pivijay,47551,Si,90
+Arauca,Saravena,81736,Si,30
+Antioquia,Puerto Triunfo,05591,Si,6
+Boyacá,Muzo,15480,No,17
+Santander,Jesús María,68368,No,4
+Caldas,Neira,17486,Si,1
+Boyacá,Almeida,15022,Si,0
+Nariño,Francisco Pizarro,52520,Si,3
+Cesar,El Paso,20250,No,85
+Cauca,Rosas,19622,Si,17
+Cundinamarca,Agua De Dios,25001,Si,2
+Cundinamarca,Caqueza,25151,No,4
+Cundinamarca,Pasca,25535,Si,4
+Cundinamarca,Facatativá,25269,Si,1
+Cundinamarca,Topaipí,25823,Si,12
+Cauca,Sotará,19760,Si,3
+Huila,Pital,41548,No,2
+Guainía,Barranco Minas,94343,No,42
+Risaralda,Pereira,66001,No,52
+Santander,El Guacamayo,68245,Si,1
+Arauca,Puerto Rondón,81591,No,68
+Nariño,El Charco,52250,Si,15
+Santander,Puerto Parra,68573,Si,16
+Magdalena,Guamal,47318,No,13
+Chocó,Nuquí,27495,Si,2
+Atlántico,Santo Tomás,08685,Si,1
+Caquetá,Solita,18785,No,108
+Tolima,Flandes,73275,Si,0
+Santander,Contratación,68211,No,1
+Valle Del Cauca,El Aguila,76243,Si,5
+Córdoba,Planeta Rica,23555,Si,3
+Boyacá,Tipacoque,15810,No,1
+Bolívar,Regidor,13580,Si,3
+Santander,Santa Bárbara,68705,Si,1
+Cesar,Valledupar,20001,No,1088
+Meta,San Carlos De Guaroa,50680,No,22
+Antioquia,El Santuario,05697,Si,2
+Cundinamarca,San Juan De Río Seco,25662,Si,5
+Quindío,Armenia,63001,No,26
+Cundinamarca,Venecia,25506,Si,4
+Tolima,Suárez,73770,Si,1
+Cauca,Sotará,19760,No,42
+Santander,Hato,68344,Si,1
+Huila,La Argentina,41378,No,11
+Boyacá,Chita,15183,Si,2
+La Guajira,Villanueva,44874,Si,12
+Casanare,Orocué,85230,Si,9
+Antioquia,Envigado,05266,No,12
+Caldas,La Merced,17388,Si,1
+Boyacá,Umbita,15842,No,3
+La Guajira,La Jagua Del Pilar,44420,No,9
+Chocó,Condoto,27205,Si,3
+Nariño,El Peñol,52254,Si,3
+Córdoba,Chinú,23182,Si,3
+Antioquia,Frontino,05284,No,163
+Cundinamarca,Cogua,25200,No,1
+Bolívar,Clemencia,13222,Si,8
+Córdoba,Ciénaga De Oro,23189,Si,2
+Valle Del Cauca,Pradera,76563,Si,10
+Quindío,Salento,63690,No,6
+Magdalena,San Zenón,47703,Si,1
+La Guajira,Urumita,44855,Si,2
+Tolima,Saldaña,73671,No,9
+Bolívar,Achí,13006,Si,9
+Boyacá,El Cocuy,15244,Si,1
+Cauca,Jambaló,19364,No,13
+Caquetá,Puerto Rico,18592,Si,95
+Risaralda,Pueblo Rico,66572,Si,41
+Sucre,Caimito,70124,No,5
+Sucre,Los Palmitos,70418,Si,16
+Nariño,Sandoná,52683,No,14
+Santander,Guadalupe,68320,No,1
+Huila,Teruel,41801,Si,6
+Antioquia,Mutatá,05480,Si,82
+Quindío,Calarcá,63130,Si,5
+Antioquia,El Bagre,05250,Si,82
+Antioquia,El Santuario,05697,No,18
+Antioquia,Caicedo,05125,Si,2
+Caldas,Belalcázar,17088,No,9
+Atlántico,Campo De La Cruz,08137,No,1
+Boyacá,Pauna,15531,Si,3
+Santander,Guaca,68318,Si,3
+Antioquia,Guatapé,05321,No,18
+Magdalena,Santa Marta,47001,Si,69
+La Guajira,Maicao,44430,Si,11
+Nariño,Ricaurte,52612,Si,13
+Antioquia,Puerto Triunfo,05591,No,66
+Cundinamarca,Zipaquirá,25899,No,6
+Antioquia,Granada,05313,No,891
+Sucre,El Roble,70233,Si,2
+Boyacá,Muzo,15480,Si,2
+Bolívar,Río Viejo,13600,No,43
+Sucre,Guaranda,70265,Si,2
+Valle Del Cauca,El Dovio,76250,Si,14
+Santander,Bucaramanga,68001,Si,12
+Antioquia,Vigía Del Fuerte,05873,No Reporta,1
+Boyacá,Soatá,15753,No,1
+Córdoba,Canalete,23090,No,101
+Cundinamarca,Beltrán,25086,Si,0
+Nariño,San Pedro De Cartago,52694,No,4
+Tolima,Ataco,73067,Si,149
+Boyacá,Mongua,15464,No,5
+Chocó,El Litoral Del San Juan,27250,Si,1
+Meta,Cabuyaro,50124,Si,7
+Casanare,Hato Corozal,85125,Si,20
+Sucre,San Benito Abad,70678,No,80
+Norte Santander,Cúcuta,54001,Si,83
+Magdalena,Zapayán,47960,Si,6
+Atlántico,Sabanalarga,08638,Si,3
+Antioquia,Granada,05313,Si,138
+Norte Santander,El Carmen,54245,Si,18
+Boyacá,Zetaquira,15897,No,2
+Caquetá,Solita,18785,Si,28
+Casanare,Recetor,85279,No,16
+Antioquia,San Roque,05670,Si,19
+Antioquia,Pueblorrico,05576,Si,4
+Valle Del Cauca,La Cumbre,76377,No,40
+Antioquia,Marinilla,05440,Si,1
+Santander,Guouepsa,68327,No,1
+Bolívar,Arenal,13042,No,31
+Sucre,Buenavista,70110,Si,2
+Boyacá,Floresta,15276,No,1
+Quindío,Buenavista,63111,No,2
+Valle Del Cauca,Bugalagrande,76113,Si,20
+Quindío,Filandia,63272,No,1
+Risaralda,Santuario,66687,Si,5
+Tolima,Planadas,73555,No,354
+Norte Santander,Lourdes,54418,Si,1
+Antioquia,Arboletes,05051,No,501
+Antioquia,Jericó,05368,No,7
+Huila,Tesalia,41797,Si,1
+Antioquia,Puerto Berrío,05579,No,75
+Atlántico,Piojó,08549,Si,4
+Cundinamarca,Cabrera,25120,No,25
+Cauca,Timbío,19807,No,175
+Huila,Agrado,41013,Si,1
+Cundinamarca,Yacopí,25885,Si,35
+Santander,Chipatá,68179,Si,1
+Antioquia,Turbo,05837,Si,235
+Caldas,Salamina,17653,No,73
+Antioquia,Betania,05091,Si,6
+Antioquia,San Luis,05660,Si,34
+Huila,Palermo,41524,No,38
+Huila,Altamira,41026,Si,1
+Antioquia,San Roque,05670,No,218
+Valle Del Cauca,Bugalagrande,76113,No,273
+Nariño,Colón,52203,No,66
+Cauca,Bolívar,19100,No,237
+Valle Del Cauca,El Dovio,76250,No,114
+Boyacá,Pisba,15550,No,4
+Santander,Cimitarra,68190,Si,54
+Putumayo,Puerto Asís,86568,Si,98
+Norte Santander,Ocaña,54498,No,207
+Norte Santander,Puerto Santander,54553,Si,1
+Cauca,Morales,19473,No,154
+Nariño,El Tablón De Gómez,52258,No,1077
+Tolima,Ibagué,73001,Si,47
+Norte Santander,Gramalote,54313,No,1
+Santander,Los Santos,68418,Si,1
+Bolívar,El Guamo,13248,Si,11
+Tolima,Planadas,73555,Si,58
+Bolívar,Villanueva,13873,Si,25
+Norte Santander,Tibú,54810,Si,233
+Norte Santander,Bucarasica,54109,No,25
+Antioquia,Caramanta,05145,Si,3
+Cundinamarca,Junín,25372,Si,1
+Putumayo,San Miguel,86757,Si,97
+Nariño,Potosí,52560,Si,1
+Meta,El Calvario,50245,Si,5
+Quindío,La Tebaida,63401,Si,1
+Nariño,Funes,52287,No,12
+Caldas,La Dorada,17380,No,55
+Antioquia,Copacabana,05212,No,21
+Antioquia,La Estrella,05380,Si,1
+Santander,Aratoca,68051,No,1
+Huila,Nátaga,41483,No,39
+Santander,Gambita,68298,Si,1
+Caldas,Filadelfia,17272,Si,2
+Cesar,Bosconia,20060,Si,7
+Magdalena,Salamina,47675,Si,12
+Tolima,Villarrica,73873,No,112
+Boyacá,Paya,15533,No,32
+Santander,Onzaga,68502,Si,3
+Magdalena,Tenerife,47798,Si,39
+Cundinamarca,Funza,25286,No,5
+Casanare,Támara,85400,No,33
+Boyacá,El Espino,15248,Si,1
+Antioquia,Jardín,05364,Si,1
+Antioquia,San Vicente,05674,Si,3
+Bolívar,Río Viejo,13600,Si,8
+Boyacá,Miraflores,15455,Si,1
+Bolívar,Cartagena,13001,No,192
+Norte Santander,Teorama,54800,No,77
+Caldas,Chinchiná,17174,Si,1
+Antioquia,MEDELLÍN,05001,No,887
+Valle Del Cauca,Tuluá,76834,Si,64
+Valle Del Cauca,Versalles,76863,No,9
+Huila,Rivera,41615,No,20
+Santander,San Vicente De Chucurí,68689,No,293
+Caldas,San José,17665,No,5
+Quindío,Montenegro,63470,Si,2
+Santander,San Benito,68673,No,2
+Córdoba,Lorica,23417,No,21
+Santander,Chima,68176,No,8
+La Guajira,Manaure,44560,No,1
+Antioquia,Santo Domingo,05690,Si,5
+Nariño,Nariño,52480,No,1
+Antioquia,Jardín,05364,No,5
+Boyacá,Paipa,15516,No,1
+Cauca,Suárez,19780,No,96
+Cundinamarca,Uutica,25851,Si,2
+Boyacá,El Espino,15248,No,7
+Meta,Villavicencio,50001,Si,26
+Córdoba,Montería,23001,Si,110
+Tolima,Dolores,73236,No,154
+Cundinamarca,La Palma,25394,Si,66
+Caldas,La Dorada,17380,Si,4
+Valle Del Cauca,La Unión,76400,Si,2
+Huila,La Plata,41396,Si,18
+Nariño,Potosí,52560,No,11
+Nariño,Linares,52411,No,40
+Antioquia,Campamento,05134,Si,4
+Antioquia,Gómez Plata,05310,Si,3
+Putumayo,Orito,86320,No,984
+Valle Del Cauca,Palmira,76520,No,96
+Boyacá,Chiquinquirá,15176,Si,1
+Boyacá,Aquitania,15047,Si,7
+Meta,El Castillo,50251,No,406
+Tolima,Valle De San Juan,73854,No,123
+Antioquia,Carepa,05147,Si,37
+Córdoba,Tierralta,23807,Si,78
+Santander,Santa Helena Del Opón,68720,No,18
+Córdoba,Buenavista,23079,No,31
+Cundinamarca,El Rosal,25260,No,1
+Bolívar,Zambrano,13894,Si,33
+Cundinamarca,Arbeláez,25053,No,34
+Cundinamarca,La Mesa,25386,Si,2
+Chocó,Alto Baudó,27025,No,23
+Cundinamarca,Gutiérrez,25339,No,6
+La Guajira,Fonseca,44279,No,40
+Huila,Pitalito,41551,No,74
+Cundinamarca,Fomeque,25279,Si,2
+Norte Santander,Abrego,54003,Si,41
+Antioquia,Argelia,05055,Si,56
+Cundinamarca,Nocaima,25491,No,1
+Antioquia,Rionegro,05615,No,21
+Quindío,Córdoba,63212,Si,1
+Caldas,Villamaría,17873,Si,2
+Antioquia,Yolombó,05890,Si,10
+Córdoba,San Antero,23672,Si,1
+Cundinamarca,Guatavita,25326,No,0
+Santander,Landázuri,68385,Si,13
+Boyacá,Mongua,15464,Si,2
+Chocó,Riosucio,27615,Si,157
+Norte Santander,Salazar,54660,No,17
+Sucre,San Juan De Betulia,70702,Si,2
+Tolima,Rovira,73624,Si,40
+Valle Del Cauca,Sevilla,76736,No,68
+Córdoba,Montelíbano,23466,Si,26
+Antioquia,Yolombó,05890,No,113
+Sucre,Santiago De Tolú,70820,No,31
+Norte Santander,Arboledas,54051,No,50
+Antioquia,Venecia,05861,Si,1
+Tolima,Anzoátegui,73043,Si,22
+Antioquia,Frontino,05284,Si,14
+Amazonas,Puerto Santander,91669,Si,2
+Nariño,San Bernardo,52685,Si,1
+Chocó,Unión Panamericana,27810,No,10
+Chocó,Sipí,27745,Si,1
+Nariño,La Tola,52390,No,25
+Bolívar,Mompós,13468,Si,1
+Córdoba,Chinú,23182,No,13
+Chocó,Atrato,27050,No,10
+Norte Santander,Sardinata,54720,No,258
+Tolima,Prado,73563,No,125
+Meta,San Martín,50689,No,186
+Chocó,Bahía Solano,27075,Si,4
+Antioquia,Remedios,05604,No,170
+Atlántico,Soledad,08758,Si,4
+Quindío,Córdoba,63212,No,19
+Cauca,Villa Rica,19845,No,7
+Caldas,Viterbo,17877,No,7
+Valle Del Cauca,Yumbo,76892,No,8
+Santander,Hato,68344,No,8
+Córdoba,Ayapel,23068,No,115
+Boyacá,Maripí,15442,No,5
+Tolima,Ortega,73504,No,222
+Vichada,Cumaribo,99773,Si,87
+Antioquia,Cisneros,05190,No,2
+Cauca,López,19418,No,110
+Cesar,González,20310,Si,2
+Santander,Chima,68176,Si,2
+Chocó,Medio Atrato,27425,No,26
+Córdoba,San Antero,23672,No,5
+Boyacá,Ramiriquí,15599,No,1
+Antioquia,Maceo,05425,No,78
+Norte Santander,Santiago,54680,No,6
+Nariño,Samaniego,52678,Si,7
+Antioquia,Cisneros,05190,Si,1
+Magdalena,Santa Marta,47001,No,541
+Cundinamarca,Villa De San Diego De Ubaté,25843,No,1
+Tolima,Rioblanco,73616,No,674
+Cauca,La Sierra,19392,Si,10
+Cauca,Puerto Tejada,19573,No,14
+Boyacá,Pajarito,15518,Si,2
+La Guajira,Hatonuevo,44378,No,5
+Tolima,Rovira,73624,No,210
+Arauca,Fortul,81300,No,58
+Antioquia,Pueblorrico,05576,No,13
+Antioquia,San Pedro de Urabá,05665,Si,25
+La Guajira,Barrancas,44078,Si,14
+Meta,El Dorado,50270,No,210
+Santander,Rionegro,68615,Si,36
+Tolima,Venadillo,73861,No,99
+Cauca,Buenos Aires,19110,Si,25
+Atlántico,Piojó,08549,No,84
+Nariño,Buesaco,52110,No,70
+Antioquia,Montebello,05467,Si,36
+Santander,Charta,68169,No,17
+Huila,Garzón,41298,Si,17
+Tolima,Casabianca,73152,Si,12
+Cesar,La Paz,20621,No,205
+Santander,Guavatá,68324,No,3
+Santander,Cimitarra,68190,No,309
+Antioquia,San Carlos,05649,No,1478
+Atlántico,Candelaria,08141,No,1
+Antioquia,Uramita,05842,Si,5
+Caldas,Aguadas,17013,Si,13
+La Guajira,Riohacha,44001,Si,27
+Antioquia,Don Matías,05237,No,6
+Cesar,Chimichagua,20175,Si,20
+Caldas,Belalcázar,17088,Si,2
+Valle Del Cauca,La Victoria,76403,Si,1
+Norte Santander,Labateca,54377,No,6
+Antioquia,MEDELLÍN,05001,No Reporta,4
+Casanare,Nunchía,85225,Si,12
+Cauca,Inzá,19355,No Reporta,2
+Cesar,Manaure,20443,Si,9
+Cauca,Caloto,19142,Si,8
+Valle Del Cauca,Palmira,76520,Si,37
+Cauca,Almaguer,19022,Si,6
+Bolívar,El Carmen De Bolívar,13244,No Reporta,1
+Cundinamarca,Yacopí,25885,No Reporta,0
+Tolima,Chaparral,73168,Si,69
+Tolima,Armero,73055,No,54
+Valle Del Cauca,El Cerrito,76248,Si,5
+Valle Del Cauca,Yumbo,76892,Si,1
+Santander,Concepción,68207,No,21
+Antioquia,Concordia,05209,No,33
+Risaralda,La Celia,66383,No,29
+Arauca,Tame,81794,Si,62
+Magdalena,Chibolo,47170,No,364
+Cundinamarca,Nimaima,25489,Si,2
+Caldas,Victoria,17867,Si,13
+Cauca,Rosas,19622,No,113
+Cundinamarca,La Calera,25377,No,3
+Valle Del Cauca,Riofrío,76616,Si,16
+La Guajira,Barrancas,44078,No,115
+Nariño,San Pablo,52693,Si,4
+Tolima,Santa Isabel,73686,Si,8
+Caldas,Riosucio,17614,No,59
+Valle Del Cauca,Roldanillo,76622,Si,2
+Putumayo,Villa Garzón,86885,Si,94
+Caquetá,San José Del Fragua,18610,No,181
+Cesar,Tamalameque,20787,No,143
+Magdalena,Zona Bananera,47980,No,353
+Huila,Santa María,41676,No,31
+Antioquia,Nariño,05483,Si,29
+Meta,Mapiripán,50325,No,1250
+Antioquia,Armenia,05059,Si,1
+Caquetá,Milán,18460,No,157
+Boyacá,Otanche,15507,Si,5
+Cauca,La Vega,19397,No,272
+Antioquia,MEDELLÍN,05001,Si,172
+Boyacá,Panqueba,15522,No,1
+Nariño,Albán,52019,Si,5
+Cundinamarca,Gama,25299,No,2
+Cundinamarca,Guataquí,25324,No,10
+Córdoba,Pueblo Nuevo,23570,Si,25
+Antioquia,Vigía Del Fuerte,05873,Si,5
+Cundinamarca,Chipaque,25178,No,8
+Chocó,Bajo Baudó,27077,No,15
+Santander,El Peñón,68250,No,49
+Nariño,Barbacoas,52079,No,237
+Arauca,Tame,81794,No,452
+Nariño,Mallama,52435,Si,9
+Huila,Gigante,41306,Si,7
+Norte Santander,Convención,54206,Si,15
+La Guajira,El Molino,44110,No,59
+Valle Del Cauca,Ginebra,76306,No,39
+Cundinamarca,Cajicá,25126,No,3
+Cesar,La Jagua De Ibirico,20400,No,467
+Cauca,Santa Rosa,19701,Si,53
+Cundinamarca,Tabio,25785,No,1
+Cundinamarca,Villa De San Diego De Ubaté,25843,Si,1
+Tolima,Villarrica,73873,Si,24
+Caquetá,Belén De Los Andaquies,18094,Si,22
+Norte Santander,Teorama,54800,Si,18
+Córdoba,Cotorra,23300,Si,1
+Atlántico,Juan De Acosta,08372,No,4
+Córdoba,Ayapel,23068,Si,13
+Antioquia,Guadalupe,05315,Si,4
+Boyacá,Santa María,15690,No,1
+Boyacá,Chita,15183,No,20
+Chocó,Bagadó,27073,No,76
+Antioquia,Nechí,05495,No,354
+Vaupés,Pacoa,97511,Si,1
+Santander,Lebríja,68406,No,130
+Cesar,San Alberto,20710,Si,36
+Caldas,Pácora,17513,Si,4
+Antioquia,Belmira,05086,Si,2
+Antioquia,Anza,05044,Si,3
+Valle Del Cauca,Alcalá,76020,No,8
+Antioquia,Santafé De Antioquia,05042,Si,4
+Quindío,Génova,63302,Si,4
+Antioquia,Concordia,05209,Si,1
+Bolívar,San Martín De Loba,13667,Si,10
+Casanare,Hato Corozal,85125,No,119
+Cauca,Guapí,19318,Si,9
+Meta,Cubarral,50223,No,47
+Huila,Campoalegre,41132,Si,10
+Amazonas,Tarapacá,91798,No,1
+Santander,Enciso,68266,No,4
+Magdalena,Aracataca,47053,No,449
+Valle Del Cauca,Ansermanuevo,76041,Si,3
+Tolima,Mariquita,73443,Si,9
+Santander,Albania,68020,No,11
+Atlántico,Soledad,08758,No,19
+Cundinamarca,Junín,25372,No,5
+Antioquia,Yondó,05893,No,212
+Cauca,Balboa,19075,Si,18
+Boyacá,Santa María,15690,Si,1
+Cundinamarca,Cachipay,25123,No,1
+Cesar,Tamalameque,20787,Si,10
+Tolima,Ortega,73504,Si,40
+Sucre,La Unión,70400,Si,1
+Nariño,Tumaco,52835,No,1399
+Antioquia,La Ceja,05376,No,6
+Tolima,Flandes,73275,No,3
+Cauca,Padilla,19513,No,8
+Córdoba,San Andrés Sotavento,23670,No,4
+Boyacá,Maripí,15442,Si,1
+Valle Del Cauca,Argelia,76054,Si,1
+Magdalena,San Sebastián De Buenavista,47692,Si,1
+Sucre,Palmito,70523,No,9
+Antioquia,Sopetrán,05761,No,10
+Antioquia,Nariño,05483,No,172
+Huila,Tesalia,41797,No,6
+Vichada,Santa Rosalía,99624,Si,5
+Cundinamarca,Cota,25214,No,4
+Cundinamarca,Viotá,25878,No,127
+Nariño,Santa Bárbara,52696,Si,23
+Cesar,Curumaní,20228,No,338
+Santander,San José De Miranda,68684,No,1
+Arauca,Arauquita,81065,Si,52
+Antioquia,Girardota,05308,No,47
+Cundinamarca,Simijaca,25745,No,3
+Boyacá,Jericó,15368,No,3
+Atlántico,Sabanagrande,08634,No,4
+Antioquia,Titiribí,05809,No,2
+Cundinamarca,Supatá,25777,Si,1
+Meta,Uribe,50370,Si,67
+Nariño,San Pablo,52693,No,64
+Sucre,Coloso,70204,Si,18
+Cauca,Caloto,19142,No,60
+Antioquia,Liborina,05411,No,5
+Quindío,Circasia,63190,Si,1
+Santander,Girón,68307,No,87
+Risaralda,Belén De Umbría,66088,Si,5
+Boyacá,Pisba,15550,Si,5
+Atlántico,Suan,08770,No,1
+Cundinamarca,Manta,25436,No,2
+Chocó,Unión Panamericana,27810,Si,1
+Antioquia,Envigado,05266,Si,2
+Antioquia,Giraldo,05306,Si,3
+Antioquia,Caldas,05129,No,23
+Caquetá,Milán,18460,Si,30
+Cundinamarca,Paratebueno,25530,Si,7
+Amazonas,Puerto Santander,91669,No,14
+Valle Del Cauca,Caicedonia,76122,No,5
+Putumayo,San Francisco,86755,No Reporta,1
+Tolima,Líbano,73411,No,375
+Caquetá,Florencia,18001,Si,83
+Magdalena,Sitionuevo,47745,No,464
+Bolívar,San Juan Nepomuceno,13657,No,519
+Cesar,Agustín Codazzi,20013,No,560
+Santander,Onzaga,68502,No,3
+Tolima,Ambalema,73030,Si,4
+Boyacá,Paya,15533,Si,2
+Valle Del Cauca,Bolívar,76100,No,279
+Casanare,Paz De Ariporo,85250,No Reporta,1
+Norte Santander,Bucarasica,54109,Si,3
+Meta,Uribe,50370,No,431
+Tolima,Lérida,73408,No,142
+Chocó,Medio Baudó,27430,No,36
+Valle Del Cauca,Bolívar,76100,Si,22
+Caquetá,Belén De Los Andaquies,18094,No,137
+Antioquia,La Ceja,05376,Si,1
+Santander,Guadalupe,68320,Si,1
+Sucre,Sincelejo,70001,Si,10
+Norte Santander,Ragonvalia,54599,No,7
+Vaupés,Pacoa,97511,No,12
+Sucre,San Pedro,70717,Si,1
+Magdalena,San Zenón,47703,No,3
+Cundinamarca,La Vega,25402,Si,1
+Sucre,San Benito Abad,70678,Si,6
+Boyacá,Tununguá,15832,No,1
+Santander,Aguada,68013,Si,1
+Sucre,Majagual,70429,Si,17
+Nariño,El Peñol,52254,No,16
+Cesar,Curumaní,20228,Si,38
+Chocó,Cértegui,27160,No,13
+Caldas,Marmato,17442,No,9
+Santander,Suaita,68770,No,17
+Nariño,Mosquera,52473,Si,5
+Cundinamarca,Choachí,25181,Si,1
+Tolima,Chaparral,73168,No,434
+Chocó,Carmen del Darién,27150,Si,12
+Antioquia,Mutatá,05480,No,564
+Antioquia,Angelópolis,05036,Si,1
+Tolima,Ataco,73067,No,1097
+Bolívar,San Jacinto,13654,Si,78
+Bolívar,San Cristóbal,13620,No,12
+Sucre,Ovejas,70508,Si,74
+Nariño,Olaya Herrera,52490,No,73
+Putumayo,Puerto Asís,86568,No,807
+Valle Del Cauca,Ulloa,76845,No,7
+Nariño,Tumaco,52835,Si,188
+Antioquia,Montebello,05467,No,434
+Santander,Puerto Wilches,68575,No,220
+Cauca,Piamonte,19533,Si,56
+Quindío,Quimbaya,63594,No,2
+Boyacá,Otanche,15507,No,37
+Tolima,Fresno,73283,No,63
+Bolívar,El Carmen De Bolívar,13244,No,2305
+Valle Del Cauca,Ginebra,76306,Si,5
+Chocó,Medio San Juan,27450,No,21
+Santander,Chipatá,68179,No,1
+Nariño,San Lorenzo,52687,Si,1
+Cesar,Bosconia,20060,No,66
+Cesar,Agustín Codazzi,20013,Si,46
+Meta,La Macarena,50350,Si,63
+Bolívar,Altos Del Rosario,13030,No,38
+Boyacá,La Victoria,15401,No,1
+Córdoba,Puerto Escondido,23574,No,22
+Santander,Coromoro,68217,No,5
+Boyacá,Villa De Leyva,15407,Si,3
+Valle Del Cauca,Pradera,76563,No,120
+Antioquia,Cañasgordas,05138,Si,9
+La Guajira,Dibulla,44090,No,272
+Cauca,Patía,19532,No,221
+Santander,Piedecuesta,68547,No,27
+Norte Santander,Convención,54206,No,102
+Putumayo,Mocoa,86001,Si,31
+Putumayo,Puerto Guzmán,86571,No,1218
+Antioquia,Valparaíso,05856,No,5
+Bolívar,San Jacinto,13654,No,973
+Valle Del Cauca,Trujillo,76828,Si,34
+Cauca,Timbiquí,19809,No,64
+Cesar,Astrea,20032,Si,4
+Chocó,Istmina,27361,Si,7
+Córdoba,Los Córdobas,23419,No Reporta,0
+Casanare,Aguazul,85010,No,117
+Cundinamarca,Tenjo,25799,No,1
+Huila,Nátaga,41483,Si,4
+Amazonas,Leticia,91001,No,9
+Antioquia,Caucasia,05154,No,374
+Antioquia,El Bagre,05250,No,838
+Caquetá,Curillo,18205,No,228
+Bolívar,Zambrano,13894,No,308
+Boyacá,La Victoria,15401,Si,3
+Risaralda,Dosquebradas,66170,Si,4
+Chocó,El Cantón Del San Pablo,27135,No,5
+Magdalena,Cerro San Antonio,47161,Si,2
+Caldas,Pensilvania,17541,Si,66
+Meta,San Carlos De Guaroa,50680,Si,1
+Santander,Mogotes,68464,Si,2
+Cesar,Chiriguaná,20178,Si,33
+Amazonas,Miriti - Paraná,91460,No,1
+Meta,Mesetas,50330,Si,73
+Putumayo,Mocoa,86001,No,152
+Valle Del Cauca,Dagua,76233,Si,43
+Antioquia,Zaragoza,05895,No,202
+Cauca,Toribio,19821,Si,7
+Cundinamarca,Puerto Salgar,25572,Si,4
+Norte Santander,El Zulia,54261,Si,23
+Cauca,Paez,19517,No,125
+Nariño,Leiva,52405,No,106
+Chocó,Juradó,27372,No,40
+Cauca,Balboa,19075,No,124
+Nariño,Pasto,52001,No,364
+Cauca,Santa Rosa,19701,No,312
+Bolívar,San Pablo,13670,No,302
+Tolima,Palocabildo,73520,Si,7
+Tolima,Falán,73270,No,36
+Cundinamarca,Villeta,25875,No,7
+Valle Del Cauca,Buenaventura,76109,No,700
+Antioquia,Peque,05543,No,38
+Santander,Zapatoca,68895,Si,6
+La Guajira,Albania,44035,Si,5
+Meta,La Macarena,50350,No,494
+Boyacá,Berbeo,15090,Si,4
+Huila,Campoalegre,41132,No,42
+Santander,Puerto Wilches,68575,Si,25
+Córdoba,Momil,23464,No,1
+Norte Santander,Cúcuta,54001,No,567
+Tolima,Natagaima,73483,No,240
+Antioquia,El Carmen De Viboral,05148,No,133
+Risaralda,Santa Rosa De Cabal,66682,Si,4
+Sucre,Guaranda,70265,No,29
+Huila,Tello,41799,Si,17
+Cundinamarca,Anapoima,25035,No,5
+Nariño,Funes,52287,Si,1
+Cundinamarca,Quetame,25594,Si,3
+Cundinamarca,Vianí,25867,No,7
+Santander,Galán,68296,Si,1
+Quindío,Calarcá,63130,No,25
+Vaupés,Taraira,97666,Si,1
+Guainía,Inírida,94001,No,14
+Santander,Cepitá,68160,No,1
+Córdoba,Purísima,23586,No,3
+Atlántico,Baranoa,08078,No,2
+Meta,San Martín,50689,Si,18
+Antioquia,San Juan De Urabá,05659,Si,0
+Cundinamarca,Choachí,25181,No,3
+Cundinamarca,Bituima,25095,Si,1
+Chocó,Río Quito,27600,No,13
+Caldas,Riosucio,17614,Si,14
+Cauca,Piendamó,19548,Si,6
+Antioquia,San Jerónimo,05656,Si,2
+Córdoba,Lorica,23417,Si,1
+Cundinamarca,Anolaima,25040,Si,1
+Cundinamarca,Sesquilé,25736,No,2
+Risaralda,Apía,66045,Si,6
+Santander,Puente Nacional,68572,No,5
+Cundinamarca,Ubalá,25839,Si,4
+Chocó,Lloró,27413,No,19
+Boyacá,San Luis De Gaceno,15667,No,11
+Santander,Mogotes,68464,No,10
+Cundinamarca,Ubalá,25839,No,27
+Santander,Sucre,68773,Si,6
+Nariño,La Cruz,52378,No,21
+Cundinamarca,Gachalá,25293,No,18
+Bolívar,San Pablo,13670,No Reporta,1
+Antioquia,Peñol,05541,No,27
+Cauca,Guapí,19318,No,89
+Antioquia,Heliconia,05347,No,73
+Caldas,Marquetalia,17444,No,26
+Cundinamarca,San Bernardo,25649,No,11
+Tolima,Suárez,73770,No,6
+Cesar,Pueblo Bello,20570,Si,17
+Atlántico,Tubará,08832,No,59
+Antioquia,Ciudad Bolívar,05101,Si,14
+Tolima,Casabianca,73152,No,57
+Antioquia,Amalfi,05031,No,104
+Caldas,Neira,17486,No,9
+Putumayo,Santiago,86760,Si,10
+Antioquia,Briceño,05107,No,77
+Meta,Cumaral,50226,Si,4
+Antioquia,Angostura,05038,Si,6
+Antioquia,Maceo,05425,Si,12
+Valle Del Cauca,Candelaria,76130,No,11
+Cundinamarca,Guaduas,25320,No,20
+Antioquia,Valdivia,05854,Si,9
+Guainía,Mapiripana,94663,No,14
+Santander,Concepción,68207,Si,1
+Boyacá,San Pablo De Borbur,15681,Si,5
+Nariño,Olaya Herrera,52490,Si,25
+Antioquia,La Estrella,05380,No,8
+Antioquia,Toledo,05819,Si,7
+Antioquia,Dabeiba,05234,Si,72
+Meta,Acacías,50006,No,199
+Casanare,Chameza,85015,No,20
+Antioquia,Heliconia,05347,Si,2
+Antioquia,Segovia,05736,No,115
+Caquetá,El Paujil,18256,No,102
+Antioquia,Uramita,05842,No,34
+Cundinamarca,Ubaque,25841,No,4
+Huila,Guadalupe,41319,Si,9
+Bolívar,Magangué,13430,No,24
+Nariño,Puerres,52573,No,11
+Tolima,Fresno,73283,Si,8
+Boyacá,Chiscas,15180,No,12
+Valle Del Cauca,Calima,76126,Si,14
+Atlántico,Baranoa,08078,Si,4
+Antioquia,Amagá,05030,Si,3
+Santander,Santa Helena Del Opón,68720,Si,6
+Norte Santander,Durania,54239,No,11
+Atlántico,Puerto Colombia,08573,No,9
+Nariño,La Florida,52381,No,24
+Antioquia,Liborina,05411,Si,3
+Sucre,Corozal,70215,Si,6
+Antioquia,Anorí,05040,No,105
+Magdalena,Cerro San Antonio,47161,No,16
+Antioquia,Itaguí,05360,No,20
+Atlántico,Ponedera,08560,No,93
+Meta,Lejanías,50400,No,152
+Atlántico,Luruaco,08421,Si,1
+Quindío,Génova,63302,No,28
+Sucre,Sucre,70771,Si,8
+Norte Santander,Ragonvalia,54599,Si,2
+Magdalena,El Piñon,47258,Si,9
+Nariño,Magüi,52427,Si,16
+Antioquia,Fredonia,05282,No,13
+Huila,Saladoblanco,41660,Si,7
+Córdoba,Tierralta,23807,No Reporta,3
+Antioquia,Buriticá,05113,No,23
+Santander,Vélez,68861,No,16
+Córdoba,Ure,23682,Si,14
+Caldas,Marquetalia,17444,Si,2
+Putumayo,Santiago,86760,No,109
+Antioquia,Yalí,05885,No,38
+Antioquia,Yarumal,05887,No,79
+Bolívar,San Jacinto Del Cauca,13655,No,53
+Sucre,Tolú Viejo,70823,No,101
+La Guajira,Uribia,44847,No,2
+Quindío,Montenegro,63470,No,4
+Chocó,Río Quito,27600,Si,4
+Valle Del Cauca,Guadalajara De Buga,76111,Si,19
+Santander,La Belleza,68377,No,18
+Caldas,Marulanda,17446,Si,3
+Cauca,Argelia,19050,Si,40
+Cundinamarca,Tocaima,25815,No,9
+Antioquia,Briceño,05107,Si,24
+Vichada,Puerto Carreño,99001,Si,14
+Guaviare,Calamar,95015,Si,20
+Antioquia,San Andrés,05647,Si,8
+Meta,Guamal,50318,No,29
+Quindío,Armenia,63001,Si,3
+Caquetá,Valparaíso,18860,Si,48
+Huila,Suaza,41770,No,33
+Huila,Villavieja,41872,Si,12
+Tolima,San Luis,73678,Si,22
+Santander,Capitanejo,68147,Si,3
+Nariño,San Lorenzo,52687,No,37
+Antioquia,Támesis,05789,No,60
+Huila,Iquira,41357,Si,9
+Antioquia,Campamento,05134,No,36
+Cauca,La Vega,19397,Si,49
+Santander,Aguada,68013,No,4
+Norte Santander,Herrán,54347,No,2
+Chocó,Nóvita,27491,No,37
+Boyacá,Guouicán,15332,No,11
+Cundinamarca,Nimaima,25489,No,7
+Vaupés,Mitú,97001,Si,7
+Sucre,Tolú Viejo,70823,Si,22
+Valle Del Cauca,Cali,76001,Si,42
+Boyacá,Cubará,15223,Si,5
+Cauca,Timbío,19807,Si,23
+Meta,El Dorado,50270,Si,15
+Boyacá,Miraflores,15455,No,13
+Tolima,San Antonio,73675,Si,36
+Caquetá,Albania,18029,No,36
+Norte Santander,Pamplona,54518,No,4
+Cundinamarca,Chaguaní,25168,Si,8
+Valle Del Cauca,Andalucía,76036,No,13
+Nariño,La Florida,52381,Si,2
+Tolima,Cajamarca,73124,No,64
+Meta,Lejanías,50400,Si,17
+Boyacá,Sotaquirá,15763,No,5
+Meta,Cabuyaro,50124,No,45
+Santander,Florián,68271,Si,2
+Nariño,Taminango,52786,No,12
+Bolívar,Villanueva,13873,No,85
+Antioquia,Necoclí,05490,No Reporta,3
+Bolívar,Mompós,13468,No,15
+Cundinamarca,Une,25845,No,2
+Chocó,Sipí,27745,No,18
+Chocó,Juradó,27372,Si,15
+Bolívar,Calamar,13140,Si,18
+Boyacá,San Mateo,15673,No,7
+Chocó,Río Iro,27580,Si,10
+Magdalena,San Sebastián De Buenavista,47692,No,12
+La Guajira,Maicao,44430,No,52
+Cesar,San Martín,20770,Si,16
+Chocó,Bagadó,27073,Si,18
+Antioquia,Amalfi,05031,Si,11
+Santander,Piedecuesta,68547,Si,5
+Antioquia,Itaguí,05360,Si,4
+Antioquia,Toledo,05819,No,22
+Valle Del Cauca,Sevilla,76736,Si,11
+Caldas,Filadelfia,17272,No,18
+Cundinamarca,Carmen De Carupa,25154,Si,1
+Santander,Girón,68307,Si,5
+Antioquia,Támesis,05789,Si,13
+Norte Santander,Los Patios,54405,No,30
+Caldas,Supía,17777,No,22
+Cundinamarca,Guasca,25322,No,5
+Sucre,San Marcos,70708,No,20
+Meta,Puerto Lleras,50577,Si,39
+Antioquia,Segovia,05736,Si,24
+Antioquia,San Vicente,05674,No,19
+Huila,Acevedo,41006,Si,10
+Cauca,Puerto Tejada,19573,Si,1
+Cundinamarca,Pacho,25513,No,66
+Bolívar,Mahates,13433,No,38
+Cundinamarca,Caqueza,25151,Si,2
+Cundinamarca,Fusagasugá,25290,Si,5
+Magdalena,Nueva Granada,47460,No,28
+Bolívar,María La Baja,13442,Si,46
+Chocó,Medio San Juan,27450,Si,3
+Cauca,Caldono,19137,Si,10
+Cundinamarca,Caparrapí,25148,Si,6
+Meta,Granada,50313,Si,12
+Antioquia,Vigía Del Fuerte,05873,No,31
+Cauca,Timbiquí,19809,Si,18
+Santander,La Belleza,68377,Si,1
+Santander,El Guacamayo,68245,No,1
+Antioquia,Remedios,05604,Si,40
+Santander,Floridablanca,68276,Si,1
+Putumayo,Sibundoy,86749,No,9
+Antioquia,Urrao,05847,Si,36
+Antioquia,Nechí,05495,Si,34
+Magdalena,Santa Ana,47707,Si,6
+Bolívar,Cartagena,13001,Si,9
+Cundinamarca,Quipile,25596,No,37
+Cundinamarca,Ricaurte,25612,No,3
+Tolima,Purificación,73585,No,42
+Sucre,Galeras,70235,No,118
+Magdalena,Algarrobo,47030,Si,7
+Valle Del Cauca,Ansermanuevo,76041,No,12
+Meta,Restrepo,50606,No,18
+Boyacá,Guateque,15322,No,8
+Caquetá,El Doncello,18247,No,117
+Atlántico,Malambo,08433,No,9
+Nariño,Buesaco,52110,Si,9
+Nariño,El Rosario,52256,Si,26
+Nariño,Cumbal,52227,No,30
+Nariño,Guaitarilla,52320,No,6
+Tolima,Palocabildo,73520,No,42
+La Guajira,San Juan Del Cesar,44650,Si,7
+Casanare,Maní,85139,Si,10
+Cundinamarca,Granada,25312,No,10
+Cauca,Popayán,19001,Si,119
+Tolima,Cajamarca,73124,Si,12
+Bolívar,Turbaco,13836,No,62
+Tolima,Dolores,73236,Si,23
+Atlántico,Barranquilla,08001,Si,16
+Atlántico,Palmar De Varela,08520,No,2
+Norte Santander,Los Patios,54405,Si,4
+Cundinamarca,Chía,25175,No,8
+Boyacá,Chivor,15236,No,19
+Sucre,Galeras,70235,Si,10
+Valle Del Cauca,Cartago,76147,No,25
+Caquetá,El Doncello,18247,Si,19
+Cundinamarca,Fosca,25281,No,6
+Magdalena,Pedraza,47541,No,13
+Norte Santander,El Carmen,54245,No,134
+Bolívar,Santa Rosa Del Sur,13688,Si,15
+Chocó,Tadó,27787,Si,19
+Magdalena,Concordia,47205,No,4
+Antioquia,Bello,05088,No,145
+Bolívar,Regidor,13580,No,35
+Sucre,Chalán,70230,Si,13
+Cauca,Bolívar,19100,Si,32
+Antioquia,Marinilla,05440,No,10
+Antioquia,Gómez Plata,05310,No,21
+Bolívar,San Martín De Loba,13667,No,84
+Cundinamarca,San Cayetano,25653,No,11
+Antioquia,Santafé De Antioquia,05042,No,22
+Casanare,San Luis De Palenque,85325,No,65
+Cundinamarca,Chaguaní,25168,No,46
+Cundinamarca,Agua De Dios,25001,No,3
+Cundinamarca,Pasca,25535,No,20
+Santander,Bolívar,68101,Si,9
+Meta,Barranca De Upía,50110,No,34
+Cundinamarca,San Francisco,25658,No,6
+Tolima,Líbano,73411,Si,44
+Nariño,Barbacoas,52079,Si,29
+Cundinamarca,Pulí,25580,No,35
+Caldas,Palestina,17524,Si,1
+Casanare,Sácama,85315,No,17
+Santander,La Paz,68397,No,10
+Norte Santander,El Tarra,54250,Si,35
+Cundinamarca,Silvania,25743,No,61
+Meta,Cubarral,50223,Si,7
+Valle Del Cauca,La Unión,76400,No,17
+Tolima,Mariquita,73443,No,48
+Boyacá,Quípama,15580,Si,8
+Santander,Suratá,68780,No,30
+Casanare,Sabanalarga,85300,No,36
+Santander,Landázuri,68385,No,113
+Boyacá,San Pablo De Borbur,15681,No,15
+Chocó,Unguía,27800,Si,26
+Tolima,Alvarado,73026,Si,12
+Boyacá,Briceño,15106,No,6
+Antioquia,Olaya,05501,No,5
+Cundinamarca,Girardot,25307,Si,5
+Cesar,San Martín,20770,No,187
+Bolívar,María La Baja,13442,No,390
+Norte Santander,Chitagá,54174,No,50
+Antioquia,Caicedo,05125,No,9
+Antioquia,Cocorná,05197,Si,15
+Valle Del Cauca,Yotoco,76890,No,14
+Nariño,La Cruz,52378,Si,3
+Casanare,Maní,85139,No,130
+Cundinamarca,Ubaque,25841,Si,1
+Cesar,San Diego,20750,Si,19
+Vichada,La Primavera,99524,Si,11
+Huila,Palestina,41530,No,16
+Meta,Granada,50313,No,86
+Valle Del Cauca,Florida,76275,No,53
+Santander,Bolívar,68101,No,90
+Amazonas,La Pedrera,91407,No,2
+Nariño,Túquerres,52838,No,6
+Norte Santander,Pamplonita,54520,No,2
+Arauca,Arauca,81001,Si,24
+Meta,Fuente De Oro,50287,No,95
+Cesar,Río De Oro,20614,No,154
+Tolima,Purificación,73585,Si,8
+Sucre,Coveñas,70221,No,6
+Vichada,Santa Rosalía,99624,No,42
+Nariño,Consaca,52207,No,20
+Tolima,Anzoátegui,73043,No,146
+Chocó,Bojayá,27099,Si,9
+Magdalena,El Banco,47245,Si,9
+Antioquia,San Andrés,05647,No,54
+Chocó,Medio Baudó,27430,Si,6
+Chocó,Istmina,27361,No,45
+Cesar,San Diego,20750,No,283
+Bolívar,Arjona,13052,No,115
+Antioquia,San Jerónimo,05656,No,19
+Nariño,Tangua,52788,Si,11
+Cundinamarca,Paime,25518,Si,4
+Cundinamarca,Sutatausa,25781,No,2
+Caldas,Manizales,17001,No,35
+Chocó,Condoto,27205,No,23
+Valle Del Cauca,Zarzal,76895,No,21
+Meta,San Juan De Arama,50683,Si,26
+Cundinamarca,Girardot,25307,No,4
+Bolívar,Tiquisio,13810,No,96
+Tolima,Armero,73055,Si,5
+Antioquia,Barbosa,05079,Si,7
+Chocó,Nuquí,27495,No,17
+Putumayo,San Francisco,86755,No,57
+Boyacá,Chiquinquirá,15176,No,2
+Meta,Cumaral,50226,No,28
+Santander,Sucre,68773,No,28
+Antioquia,Sabanalarga,05628,Si,9
+Boyacá,Sogamoso,15759,No,4
+Valle Del Cauca,El Cairo,76246,No,35
+Atlántico,Repelón,08606,No,34
+Córdoba,Chimá,23168,No,4
+Valle Del Cauca,Roldanillo,76622,No,39
+Cauca,Guachené,19300,Si,4
+Bolívar,Hatillo De Loba,13300,Si,2
+Amazonas,La Victoria,91430,No,5
+Valle Del Cauca,El Aguila,76243,No,25
+Tolima,Venadillo,73861,Si,33
+Boyacá,El Cocuy,15244,No,5
+Antioquia,Peñol,05541,Si,5
+Boyacá,Pauna,15531,No,14
+Chocó,Bahía Solano,27075,No,33
+Caldas,Norcasia,17495,Si,10
+Quindío,Pijao,63548,No,8
+Caldas,Aranzazu,17050,No,6
+Boyacá,Guouicán,15332,Si,3
+Santander,Barbosa,68077,No,8
+Antioquia,Angelópolis,05036,No,15
+Cundinamarca,Venecia,25506,No,40
+Atlántico,Polonuevo,08558,Si,1
+Caldas,Norcasia,17495,No,35
+Antioquia,Betania,05091,No,50
+Bolívar,Calamar,13140,No,103
+Antioquia,Retiro,05607,No,12
+Magdalena,Santa Bárbara De Pinto,47720,No,4
+Antioquia,Tarso,05792,No,16
+Chocó,El Carmen De Atrato,27245,No,162
+Santander,Matanza,68444,Si,8
+Antioquia,Guarne,05318,No,39
+Sucre,Chalán,70230,No,131
+Norte Santander,San Calixto,54670,Si,17
+Sucre,San Onofre,70713,No,290
+Cundinamarca,Nariño,25483,No,2
+Caldas,Manizales,17001,Si,16
+Antioquia,Andes,05034,No,26
+La Guajira,Urumita,44855,No,24
+Santander,San Miguel,68686,No,25
+Tolima,Alvarado,73026,No,72
+Valle Del Cauca,Obando,76497,No,28
+Antioquia,Murindó,05475,No,11
+Antioquia,San Rafael,05667,Si,33
+Tolima,Rioblanco,73616,Si,94
+Huila,Aipe,41016,No,26
+Cauca,Florencia,19290,No,12
+Caldas,Aguadas,17013,No,45
+La Guajira,Distracción,44098,No,47
+Nariño,Mosquera,52473,No,41
+Caldas,Victoria,17867,No,41
+Casanare,Villanueva,85440,No,30
+Magdalena,Zapayán,47960,No,30
+Vaupés,Carurú,97161,No,39
+Tolima,Valle De San Juan,73854,Si,36
+Caldas,Manzanares,17433,Si,7
+Antioquia,Anza,05044,No,18
+Antioquia,Entrerrios,05264,No,10
+Magdalena,Remolino,47605,No,610
+Valle Del Cauca,Zarzal,76895,Si,2
+Chocó,Quibdó,27001,Si,19
+Antioquia,Bello,05088,Si,26
+Nariño,Belén,52083,No,12
+Santander,San Andrés,68669,Si,3
+Santander,La Paz,68397,Si,5
+Magdalena,Algarrobo,47030,No,27
+Tolima,Alpujarra,73024,No,30
+Antioquia,Yarumal,05887,Si,8
+Chocó,Carmen del Darién,27150,No,97
+Magdalena,Remolino,47605,Si,45
+Cundinamarca,Pandi,25524,No,14
+Antioquia,Salgar,05642,Si,22
+Nariño,Aldana,52022,No,1

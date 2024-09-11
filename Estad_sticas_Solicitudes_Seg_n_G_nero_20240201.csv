@@ -1,0 +1,2155 @@
+DepartamentoDePredio,MunicipioDelPredio,CodigoDANE,GrupoEtarioSelSolicitante,NumeroDeSolicitantes
+Antioquia,Zaragoza,5895,Mujer,117
+Putumayo,Orito,86320,Hombre,577
+Antioquia,El Bagre,5250,Mujer,442
+Putumayo,Orito,86320,NoReporta,1
+Amazonas,La Pedrera,91407,Mujer,0
+Amazonas,El Encanto,91263,Hombre,0
+Amazonas,El Encanto,91263,Mujer,4
+Amazonas,La Chorrera,91405,Hombre,1
+Amazonas,La Pedrera,91407,Hombre,2
+Amazonas,La Victoria,91430,Hombre,4
+Amazonas,La Victoria,91430,Mujer,1
+Amazonas,Leticia,91001,Hombre,1
+Amazonas,Leticia,91001,Mujer,8
+Amazonas,Miriti - Paraná,91460,Hombre,1
+Amazonas,Puerto Alegría,91530,Mujer,5
+Amazonas,Puerto Arica,91536,Hombre,0
+Amazonas,Puerto Arica,91536,Mujer,2
+Amazonas,Puerto Santander,91669,Hombre,10
+Amazonas,Puerto Santander,91669,Mujer,6
+Amazonas,Tarapacá,91798,Hombre,1
+Antioquia,Abejorral,5002,Hombre,41
+Antioquia,Abejorral,5002,Mujer,21
+Antioquia,Abejorral,5002,Privada,11
+Antioquia,Abriaquí,5004,Hombre,12
+Antioquia,Abriaquí,5004,Mujer,3
+Antioquia,Alejandría,5021,Hombre,25
+Antioquia,Alejandría,5021,Mujer,8
+Antioquia,Amagá,5030,Hombre,10
+Antioquia,Amagá,5030,Mujer,9
+Antioquia,Amalfi,5031,Hombre,71
+Antioquia,Amalfi,5031,Mujer,44
+Antioquia,Andes,5034,Hombre,16
+Antioquia,Andes,5034,Mujer,15
+Antioquia,Angelópolis,5036,Hombre,9
+Antioquia,Angelópolis,5036,Mujer,7
+Antioquia,Angostura,5038,Hombre,21
+Antioquia,Angostura,5038,Mujer,30
+Antioquia,Anorí,5040,Hombre,75
+Antioquia,Anorí,5040,Mujer,49
+Antioquia,Anza,5044,Hombre,10
+Antioquia,Anza,5044,Mujer,11
+Antioquia,Apartadó,5045,Hombre,375
+Antioquia,Apartadó,5045,Mujer,380
+Antioquia,Apartadó,5045,Privada,1
+Antioquia,Arboletes,5051,Hombre,309
+Antioquia,Arboletes,5051,Mujer,207
+Antioquia,Arboletes,5051,Privada,1
+Antioquia,Argelia,5055,Hombre,216
+Antioquia,Argelia,5055,Mujer,161
+Antioquia,Argelia,5055,Privada,1
+Antioquia,Armenia,5059,Hombre,6
+Antioquia,Armenia,5059,Mujer,11
+Antioquia,Barbosa,5079,Hombre,25
+Antioquia,Barbosa,5079,Mujer,26
+Antioquia,Bello,5088,Hombre,76
+Antioquia,Bello,5088,Mujer,95
+Antioquia,Belmira,5086,Hombre,7
+Antioquia,Betania,5091,Hombre,35
+Antioquia,Betania,5091,Mujer,21
+Antioquia,Betulia,5093,Hombre,36
+Antioquia,Betulia,5093,Mujer,29
+Antioquia,Briceño,5107,Hombre,51
+Antioquia,Briceño,5107,Mujer,50
+Antioquia,Buriticá,5113,Hombre,14
+Antioquia,Buriticá,5113,Mujer,10
+Antioquia,Cáceres,5120,Hombre,515
+Antioquia,Cáceres,5120,Mujer,549
+Antioquia,Cáceres,5120,NoReporta,3
+Antioquia,Caicedo,5125,Hombre,4
+Antioquia,Caicedo,5125,Mujer,7
+Antioquia,Caldas,5129,Hombre,13
+Antioquia,Caldas,5129,Mujer,13
+Antioquia,Campamento,5134,Hombre,27
+Antioquia,Campamento,5134,Mujer,13
+Antioquia,Cañasgordas,5138,Hombre,52
+Antioquia,Cañasgordas,5138,Mujer,68
+Antioquia,Caracolí,5142,Hombre,2
+Antioquia,Caracolí,5142,Mujer,4
+Antioquia,Caramanta,5145,Hombre,12
+Antioquia,Caramanta,5145,Mujer,9
+Antioquia,Carepa,5147,Hombre,150
+Antioquia,Carepa,5147,Mujer,90
+Antioquia,Carepa,5147,NoReporta,1
+Antioquia,Carepa,5147,Privada,4
+Antioquia,Carolina,5150,Hombre,1
+Antioquia,Caucasia,5154,Hombre,182
+Antioquia,Caucasia,5154,Mujer,226
+Antioquia,Caucasia,5154,NoReporta,3
+Antioquia,Caucasia,5154,Privada,2
+Antioquia,Chigorodó,5172,Hombre,267
+Antioquia,Chigorodó,5172,Mujer,204
+Antioquia,Chigorodó,5172,Privada,0
+Antioquia,Cisneros,5190,Hombre,1
+Antioquia,Cisneros,5190,Mujer,2
+Antioquia,Ciudad Bolívar,5101,Hombre,24
+Antioquia,Ciudad Bolívar,5101,Mujer,21
+Antioquia,Cocorná,5197,Hombre,139
+Antioquia,Cocorná,5197,Mujer,152
+Antioquia,Concepción,5206,Hombre,25
+Antioquia,Concepción,5206,Mujer,2
+Antioquia,Concordia,5209,Hombre,23
+Antioquia,Concordia,5209,Mujer,11
+Antioquia,Copacabana,5212,Hombre,11
+Antioquia,Copacabana,5212,Mujer,10
+Antioquia,Dabeiba,5234,Hombre,284
+Antioquia,Dabeiba,5234,Mujer,240
+Antioquia,Don Matías,5237,Hombre,1
+Antioquia,Don Matías,5237,Mujer,5
+Antioquia,Ebéjico,5240,Hombre,5
+Antioquia,Ebéjico,5240,Mujer,2
+Antioquia,El Bagre,5250,Hombre,474
+Antioquia,El Carmen De Viboral,5148,Hombre,90
+Antioquia,El Carmen De Viboral,5148,Mujer,63
+Antioquia,El Carmen De Viboral,5148,Privada,1
+Antioquia,El Santuario,5697,Hombre,11
+Antioquia,El Santuario,5697,Mujer,9
+Antioquia,Entrerrios,5264,Hombre,7
+Antioquia,Entrerrios,5264,Mujer,3
+Antioquia,Envigado,5266,Hombre,11
+Antioquia,Envigado,5266,Mujer,3
+Antioquia,Fredonia,5282,Hombre,12
+Antioquia,Fredonia,5282,Mujer,2
+Antioquia,Frontino,5284,Hombre,97
+Antioquia,Frontino,5284,Mujer,80
+Antioquia,Giraldo,5306,Hombre,10
+Antioquia,Giraldo,5306,Mujer,10
+Antioquia,Girardota,5308,Hombre,32
+Antioquia,Girardota,5308,Mujer,16
+Antioquia,Gómez Plata,5310,Hombre,11
+Antioquia,Gómez Plata,5310,Mujer,12
+Antioquia,Granada,5313,Hombre,575
+Antioquia,Granada,5313,Mujer,447
+Antioquia,Granada,5313,NoReporta,2
+Antioquia,Guadalupe,5315,Hombre,5
+Antioquia,Guadalupe,5315,Mujer,3
+Antioquia,Guarne,5318,Hombre,18
+Antioquia,Guarne,5318,Mujer,23
+Antioquia,Guatapé,5321,Hombre,14
+Antioquia,Guatapé,5321,Mujer,6
+Antioquia,Heliconia,5347,Hombre,37
+Antioquia,Heliconia,5347,Mujer,38
+Antioquia,Hispania,5353,Hombre,2
+Antioquia,Itaguí,5360,Hombre,12
+Antioquia,Itaguí,5360,Mujer,12
+Antioquia,Ituango,5361,Hombre,183
+Antioquia,Ituango,5361,Mujer,144
+Antioquia,Ituango,5361,NoReporta,1
+Antioquia,Jardín,5364,Hombre,5
+Antioquia,Jardín,5364,Mujer,1
+Antioquia,Jericó,5368,Hombre,6
+Antioquia,Jericó,5368,Mujer,2
+Antioquia,La Ceja,5376,Hombre,3
+Antioquia,La Ceja,5376,Mujer,4
+Antioquia,La Estrella,5380,Hombre,4
+Antioquia,La Estrella,5380,Mujer,5
+Antioquia,La Pintada,5390,Hombre,5
+Antioquia,La Pintada,5390,Mujer,2
+Antioquia,La Unión,5400,Hombre,22
+Antioquia,La Unión,5400,Mujer,14
+Antioquia,Liborina,5411,Hombre,7
+Antioquia,Liborina,5411,Mujer,1
+Antioquia,Maceo,5425,Hombre,55
+Antioquia,Maceo,5425,Mujer,35
+Antioquia,Marinilla,5440,Hombre,5
+Antioquia,Marinilla,5440,Mujer,5
+Antioquia,Marinilla,5440,NoReporta,1
+Antioquia,MEDELLÍN,5001,Hombre,400
+Antioquia,MEDELLÍN,5001,Mujer,650
+Antioquia,MEDELLÍN,5001,NoReporta,2
+Antioquia,MEDELLÍN,5001,Privada,2
+Antioquia,Montebello,5467,Hombre,261
+Antioquia,Montebello,5467,Mujer,205
+Antioquia,Montebello,5467,Privada,1
+Antioquia,Murindó,5475,Hombre,7
+Antioquia,Murindó,5475,Mujer,5
+Antioquia,Mutatá,5480,Hombre,361
+Antioquia,Mutatá,5480,Mujer,276
+Antioquia,Mutatá,5480,Privada,5
+Antioquia,Nariño,5483,Hombre,108
+Antioquia,Nariño,5483,Mujer,93
+Antioquia,Nechí,5495,Hombre,223
+Antioquia,Nechí,5495,Mujer,165
+Antioquia,Necoclí,5490,Hombre,457
+Antioquia,Necoclí,5490,Mujer,274
+Antioquia,Olaya,5501,Hombre,2
+Antioquia,Olaya,5501,Mujer,3
+Antioquia,Peñol,5541,Hombre,14
+Antioquia,Peñol,5541,Mujer,18
+Antioquia,Peque,5543,Hombre,17
+Antioquia,Peque,5543,Mujer,27
+Antioquia,Pueblorrico,5576,Hombre,9
+Antioquia,Pueblorrico,5576,Mujer,8
+Antioquia,Puerto Berrío,5579,Hombre,36
+Antioquia,Puerto Berrío,5579,Mujer,38
+Antioquia,Puerto Berrío,5579,Privada,1
+Antioquia,Puerto Nare,5585,Hombre,35
+Antioquia,Puerto Nare,5585,Mujer,19
+Antioquia,Puerto Nare,5585,NoReporta,1
+Antioquia,Puerto Triunfo,5591,Hombre,57
+Antioquia,Puerto Triunfo,5591,Mujer,14
+Antioquia,Puerto Triunfo,5591,NoReporta,1
+Antioquia,Remedios,5604,Hombre,109
+Antioquia,Remedios,5604,Mujer,99
+Antioquia,Remedios,5604,NoReporta,1
+Antioquia,Remedios,5604,Privada,1
+Antioquia,Retiro,5607,Hombre,9
+Antioquia,Retiro,5607,Mujer,4
+Antioquia,Rionegro,5615,Hombre,12
+Antioquia,Rionegro,5615,Mujer,10
+Antioquia,Sabanalarga,5628,Hombre,18
+Antioquia,Sabanalarga,5628,Mujer,17
+Antioquia,Salgar,5642,Hombre,56
+Antioquia,Salgar,5642,Mujer,42
+Antioquia,San Andrés,5647,Hombre,30
+Antioquia,San Andrés,5647,Mujer,32
+Antioquia,San Carlos,5649,Hombre,932
+Antioquia,San Carlos,5649,Mujer,690
+Antioquia,San Carlos,5649,NoReporta,1
+Antioquia,San Carlos,5649,Privada,3
+Antioquia,San Francisco,5652,Hombre,102
+Antioquia,San Francisco,5652,Mujer,106
+Antioquia,San Jerónimo,5656,Hombre,13
+Antioquia,San Jerónimo,5656,Mujer,7
+Antioquia,San Jerónimo,5656,NoReporta,1
+Antioquia,San José De La Montaña,5658,Hombre,1
+Antioquia,San José De La Montaña,5658,Mujer,1
+Antioquia,San Juan De Urabá,5659,Hombre,16
+Antioquia,San Juan De Urabá,5659,Mujer,18
+Antioquia,San Luis,5660,Hombre,187
+Antioquia,San Luis,5660,Mujer,164
+Antioquia,San Pedro,5664,Hombre,3
+Antioquia,San Pedro,5664,Mujer,3
+Antioquia,San Pedro de Urabá,5665,Hombre,197
+Antioquia,San Pedro de Urabá,5665,Mujer,166
+Antioquia,San Pedro de Urabá,5665,NoReporta,1
+Antioquia,San Rafael,5667,Hombre,131
+Antioquia,San Rafael,5667,Mujer,98
+Antioquia,San Roque,5670,Hombre,123
+Antioquia,San Roque,5670,Mujer,112
+Antioquia,San Roque,5670,Privada,1
+Antioquia,San Vicente,5674,Hombre,12
+Antioquia,San Vicente,5674,Mujer,9
+Antioquia,Santa Bárbara,5679,Hombre,15
+Antioquia,Santa Bárbara,5679,Mujer,15
+Antioquia,Santa Rosa De Osos,5686,Hombre,16
+Antioquia,Santa Rosa De Osos,5686,Mujer,5
+Antioquia,Santafé De Antioquia,5042,Hombre,14
+Antioquia,Santafé De Antioquia,5042,Mujer,12
+Antioquia,Santo Domingo,5690,Hombre,34
+Antioquia,Santo Domingo,5690,Mujer,40
+Antioquia,Segovia,5736,Hombre,79
+Antioquia,Segovia,5736,Mujer,60
+Antioquia,Sonsón,5756,Hombre,252
+Antioquia,Sonsón,5756,Mujer,232
+Antioquia,Sopetrán,5761,Hombre,6
+Antioquia,Sopetrán,5761,Mujer,4
+Antioquia,Támesis,5789,Hombre,32
+Antioquia,Támesis,5789,Mujer,41
+Antioquia,Tarazá,5790,Hombre,277
+Antioquia,Tarazá,5790,Mujer,307
+Antioquia,Tarso,5792,Hombre,10
+Antioquia,Tarso,5792,Mujer,6
+Antioquia,Titiribí,5809,Hombre,2
+Antioquia,Titiribí,5809,Mujer,1
+Antioquia,Toledo,5819,Hombre,19
+Antioquia,Toledo,5819,Mujer,9
+Antioquia,Toledo,5819,NoReporta,1
+Antioquia,Turbo,5837,Hombre,1480
+Antioquia,Turbo,5837,Lgbti,1
+Antioquia,Turbo,5837,Mujer,953
+Antioquia,Turbo,5837,NoReporta,6
+Antioquia,Turbo,5837,Privada,4
+Antioquia,Uramita,5842,Hombre,26
+Antioquia,Uramita,5842,Mujer,13
+Antioquia,Urrao,5847,Hombre,118
+Antioquia,Urrao,5847,Mujer,81
+Antioquia,Valdivia,5854,Hombre,63
+Antioquia,Valdivia,5854,Mujer,62
+Antioquia,Valdivia,5854,Privada,2
+Antioquia,Valparaíso,5856,Hombre,2
+Antioquia,Valparaíso,5856,Mujer,3
+Antioquia,Vegachí,5858,Hombre,45
+Antioquia,Vegachí,5858,Mujer,57
+Antioquia,Venecia,5861,Hombre,6
+Antioquia,Venecia,5861,Mujer,7
+Antioquia,Vigía Del Fuerte,5873,Hombre,24
+Antioquia,Vigía Del Fuerte,5873,Mujer,11
+Antioquia,Vigía Del Fuerte,5873,NoReporta,1
+Antioquia,Yalí,5885,Hombre,24
+Antioquia,Yalí,5885,Mujer,18
+Antioquia,Yarumal,5887,Hombre,42
+Antioquia,Yarumal,5887,Mujer,45
+Antioquia,Yolombó,5890,Hombre,65
+Antioquia,Yolombó,5890,Mujer,58
+Antioquia,Yondó,5893,Hombre,157
+Antioquia,Yondó,5893,Mujer,86
+Antioquia,Yondó,5893,NoReporta,2
+Antioquia,Zaragoza,5895,Hombre,110
+Antioquia,Zaragoza,5895,NoReporta,1
+Arauca,Arauca,81001,Hombre,80
+Arauca,Arauca,81001,Mujer,63
+Arauca,Arauquita,81065,Hombre,245
+Arauca,Arauquita,81065,Mujer,152
+Arauca,Arauquita,81065,NoReporta,1
+Arauca,Cravo Norte,81220,Hombre,38
+Arauca,Cravo Norte,81220,Mujer,33
+Arauca,Cravo Norte,81220,NoReporta,1
+Arauca,Fortul,81300,Hombre,28
+Arauca,Fortul,81300,Mujer,37
+Arauca,Puerto Rondón,81591,Hombre,45
+Arauca,Puerto Rondón,81591,Mujer,27
+Arauca,Saravena,81736,Hombre,98
+Arauca,Saravena,81736,Mujer,79
+Arauca,Tame,81794,Hombre,279
+Arauca,Tame,81794,Mujer,231
+Arauca,Tame,81794,Privada,3
+Atlántico,Baranoa,8078,Hombre,5
+Atlántico,Baranoa,8078,Mujer,1
+Atlántico,Barranquilla,8001,Hombre,100
+Atlántico,Barranquilla,8001,Mujer,54
+Atlántico,Campo De La Cruz,8137,Mujer,1
+Atlántico,Candelaria,8141,Mujer,1
+Atlántico,Galapa,8296,Hombre,2
+Atlántico,Galapa,8296,Mujer,6
+Atlántico,Juan De Acosta,8372,Hombre,2
+Atlántico,Juan De Acosta,8372,Mujer,3
+Atlántico,Luruaco,8421,Hombre,8
+Atlántico,Luruaco,8421,Mujer,3
+Atlántico,Malambo,8433,Hombre,6
+Atlántico,Malambo,8433,Mujer,3
+Atlántico,Manatí,8436,Hombre,12
+Atlántico,Palmar De Varela,8520,Hombre,2
+Atlántico,Piojó,8549,Hombre,50
+Atlántico,Piojó,8549,Mujer,37
+Atlántico,Piojó,8549,Privada,1
+Atlántico,Polonuevo,8558,Hombre,4
+Atlántico,Polonuevo,8558,Mujer,1
+Atlántico,Ponedera,8560,Hombre,48
+Atlántico,Ponedera,8560,Mujer,46
+Atlántico,Puerto Colombia,8573,Hombre,2
+Atlántico,Puerto Colombia,8573,Mujer,7
+Atlántico,Repelón,8606,Hombre,20
+Atlántico,Repelón,8606,Mujer,18
+Atlántico,Sabanagrande,8634,Hombre,2
+Atlántico,Sabanagrande,8634,Mujer,2
+Atlántico,Sabanalarga,8638,Hombre,11
+Atlántico,Sabanalarga,8638,Mujer,10
+Atlántico,Santo Tomás,8685,Mujer,2
+Atlántico,Soledad,8758,Hombre,7
+Atlántico,Soledad,8758,Mujer,16
+Atlántico,Suan,8770,Hombre,1
+Atlántico,Suan,8770,Mujer,1
+Atlántico,Tubará,8832,Hombre,28
+Atlántico,Tubará,8832,Mujer,39
+Atlántico,Tubará,8832,NoReporta,1
+Atlántico,Usiacurí,8849,Hombre,1
+Bogotá D.C.,Bogotá,11001,Hombre,188
+Bogotá D.C.,Bogotá,11001,Mujer,157
+Bogotá D.C.,Bogotá,11001,NoReporta,3
+Bogotá D.C.,Bogotá,11001,Privada,3
+Bolívar,Achí,13006,Hombre,78
+Bolívar,Achí,13006,Mujer,35
+Bolívar,Altos Del Rosario,13030,Hombre,24
+Bolívar,Altos Del Rosario,13030,Mujer,19
+Bolívar,Arenal,13042,Hombre,18
+Bolívar,Arenal,13042,Mujer,17
+Bolívar,Arjona,13052,Hombre,92
+Bolívar,Arjona,13052,Mujer,32
+Bolívar,Arroyohondo,13062,Hombre,11
+Bolívar,Arroyohondo,13062,Mujer,3
+Bolívar,Barranco De Loba,13074,Hombre,34
+Bolívar,Barranco De Loba,13074,Mujer,26
+Bolívar,Calamar,13140,Hombre,94
+Bolívar,Calamar,13140,Mujer,25
+Bolívar,Calamar,13140,NoReporta,1
+Bolívar,Cantagallo,13160,Hombre,70
+Bolívar,Cantagallo,13160,Mujer,46
+Bolívar,Cartagena,13001,Hombre,79
+Bolívar,Cartagena,13001,Mujer,23
+Bolívar,Cartagena,13001,NoReporta,99
+Bolívar,Cicuco,13188,Hombre,1
+Bolívar,Clemencia,13222,Hombre,18
+Bolívar,Clemencia,13222,Mujer,12
+Bolívar,Córdoba,13212,Hombre,195
+Bolívar,Córdoba,13212,Mujer,67
+Bolívar,El Carmen De Bolívar,13244,Hombre,1677
+Bolívar,El Carmen De Bolívar,13244,Mujer,771
+Bolívar,El Carmen De Bolívar,13244,NoReporta,1
+Bolívar,El Carmen De Bolívar,13244,Privada,1
+Bolívar,El Guamo,13248,Hombre,31
+Bolívar,El Guamo,13248,Mujer,21
+Bolívar,El Guamo,13248,NoReporta,1
+Bolívar,El Peñón,13268,Hombre,2
+Bolívar,El Peñón,13268,Mujer,4
+Bolívar,Hatillo De Loba,13300,Hombre,30
+Bolívar,Hatillo De Loba,13300,Mujer,1
+Bolívar,Magangué,13430,Hombre,14
+Bolívar,Magangué,13430,Mujer,12
+Bolívar,Mahates,13433,Hombre,30
+Bolívar,Mahates,13433,Mujer,16
+Bolívar,María La Baja,13442,Hombre,280
+Bolívar,María La Baja,13442,Mujer,153
+Bolívar,María La Baja,13442,NoReporta,1
+Bolívar,Mompós,13468,Hombre,13
+Bolívar,Mompós,13468,Mujer,3
+Bolívar,Montecristo,13458,Hombre,54
+Bolívar,Montecristo,13458,Mujer,38
+Bolívar,Morales,13473,Hombre,70
+Bolívar,Morales,13473,Mujer,41
+Bolívar,Morales,13473,Privada,1
+Bolívar,Norosí,13490,Hombre,22
+Bolívar,Norosí,13490,Mujer,10
+Bolívar,Pinillos,13549,Hombre,14
+Bolívar,Pinillos,13549,Mujer,9
+Bolívar,Regidor,13580,Hombre,23
+Bolívar,Regidor,13580,Mujer,15
+Bolívar,Río Viejo,13600,Hombre,27
+Bolívar,Río Viejo,13600,Mujer,24
+Bolívar,San Cristóbal,13620,Hombre,8
+Bolívar,San Cristóbal,13620,Mujer,4
+Bolívar,San Estanislao,13647,Hombre,39
+Bolívar,San Estanislao,13647,Mujer,12
+Bolívar,San Fernando,13650,Hombre,1
+Bolívar,San Jacinto,13654,Hombre,693
+Bolívar,San Jacinto,13654,Mujer,355
+Bolívar,San Jacinto Del Cauca,13655,Hombre,37
+Bolívar,San Jacinto Del Cauca,13655,Mujer,17
+Bolívar,San Jacinto Del Cauca,13655,Privada,2
+Bolívar,San Juan Nepomuceno,13657,Hombre,430
+Bolívar,San Juan Nepomuceno,13657,Mujer,128
+Bolívar,San Juan Nepomuceno,13657,NoReporta,1
+Bolívar,San Juan Nepomuceno,13657,Privada,1
+Bolívar,San Martín De Loba,13667,Hombre,63
+Bolívar,San Martín De Loba,13667,Mujer,31
+Bolívar,San Pablo,13670,Hombre,140
+Bolívar,San Pablo,13670,Mujer,184
+Bolívar,San Pablo,13670,NoReporta,1
+Bolívar,Santa Catalina,13673,Hombre,8
+Bolívar,Santa Catalina,13673,Mujer,3
+Bolívar,Santa Rosa,13683,Hombre,8
+Bolívar,Santa Rosa,13683,Mujer,10
+Bolívar,Santa Rosa,13683,NoReporta,1
+Bolívar,Santa Rosa Del Sur,13688,Hombre,71
+Bolívar,Santa Rosa Del Sur,13688,Mujer,54
+Bolívar,Simití,13744,Hombre,97
+Bolívar,Simití,13744,Mujer,93
+Bolívar,Simití,13744,Privada,1
+Bolívar,Soplaviento,13760,Hombre,2
+Bolívar,Soplaviento,13760,Mujer,1
+Bolívar,Talaigua Nuevo,13780,Hombre,2
+Bolívar,Talaigua Nuevo,13780,Mujer,3
+Bolívar,Tiquisio,13810,Hombre,75
+Bolívar,Tiquisio,13810,Mujer,34
+Bolívar,Turbaco,13836,Hombre,46
+Bolívar,Turbaco,13836,Mujer,18
+Bolívar,Turbaná,13838,Hombre,20
+Bolívar,Turbaná,13838,Mujer,14
+Bolívar,Villanueva,13873,Hombre,83
+Bolívar,Villanueva,13873,Mujer,26
+Bolívar,Villanueva,13873,NoReporta,1
+Bolívar,Zambrano,13894,Hombre,241
+Bolívar,Zambrano,13894,Mujer,100
+Boyacá,Almeida,15022,Hombre,2
+Boyacá,Aquitania,15047,Hombre,19
+Boyacá,Aquitania,15047,Mujer,23
+Boyacá,Arcabuco,15051,Hombre,1
+Boyacá,Belén,15087,Hombre,1
+Boyacá,Berbeo,15090,Hombre,8
+Boyacá,Boavita,15097,Hombre,1
+Boyacá,Briceño,15106,Hombre,2
+Boyacá,Briceño,15106,Mujer,4
+Boyacá,Buenavista,15109,Mujer,1
+Boyacá,Caldas,15131,Hombre,1
+Boyacá,Caldas,15131,Mujer,1
+Boyacá,Campohermoso,15135,Hombre,2
+Boyacá,Campohermoso,15135,Mujer,2
+Boyacá,Chiquinquirá,15176,Hombre,1
+Boyacá,Chiquinquirá,15176,Mujer,2
+Boyacá,Chiscas,15180,Hombre,7
+Boyacá,Chiscas,15180,Mujer,7
+Boyacá,Chita,15183,Hombre,4
+Boyacá,Chita,15183,Mujer,18
+Boyacá,Chitaraque,15185,Mujer,1
+Boyacá,Chivor,15236,Hombre,15
+Boyacá,Chivor,15236,Mujer,4
+Boyacá,Covarachía,15218,Mujer,1
+Boyacá,Cubará,15223,Hombre,13
+Boyacá,Cubará,15223,Mujer,12
+Boyacá,Cuítiva,15226,Hombre,8
+Boyacá,El Cocuy,15244,Hombre,2
+Boyacá,El Cocuy,15244,Mujer,4
+Boyacá,El Espino,15248,Hombre,4
+Boyacá,El Espino,15248,Mujer,4
+Boyacá,Floresta,15276,Hombre,1
+Boyacá,Gachantivá,15293,Hombre,1
+Boyacá,Gachantivá,15293,Mujer,1
+Boyacá,Guacamayas,15317,Mujer,1
+Boyacá,Guateque,15322,Hombre,7
+Boyacá,Guateque,15322,Mujer,1
+Boyacá,Guayatá,15325,Mujer,4
+Boyacá,Guouicán,15332,Hombre,13
+Boyacá,Guouicán,15332,Mujer,1
+Boyacá,Jenesano,15367,Hombre,0
+Boyacá,Jericó,15368,Hombre,3
+Boyacá,Jericó,15368,Mujer,1
+Boyacá,La Victoria,15401,Hombre,3
+Boyacá,La Victoria,15401,Mujer,1
+Boyacá,Labranzagrande,15377,Hombre,24
+Boyacá,Labranzagrande,15377,Mujer,26
+Boyacá,Macanal,15425,Hombre,1
+Boyacá,Macanal,15425,Mujer,3
+Boyacá,Maripí,15442,Hombre,4
+Boyacá,Maripí,15442,Mujer,2
+Boyacá,Miraflores,15455,Hombre,6
+Boyacá,Miraflores,15455,Mujer,8
+Boyacá,Mongua,15464,Hombre,6
+Boyacá,Mongua,15464,Mujer,1
+Boyacá,Moniquirá,15469,Hombre,1
+Boyacá,Muzo,15480,Hombre,10
+Boyacá,Muzo,15480,Mujer,9
+Boyacá,Otanche,15507,Hombre,24
+Boyacá,Otanche,15507,Mujer,18
+Boyacá,Páez,15514,Hombre,46
+Boyacá,Páez,15514,Mujer,31
+Boyacá,Paipa,15516,Hombre,6
+Boyacá,Paipa,15516,Mujer,0
+Boyacá,Pajarito,15518,Hombre,33
+Boyacá,Pajarito,15518,Mujer,8
+Boyacá,Panqueba,15522,Hombre,1
+Boyacá,Pauna,15531,Hombre,7
+Boyacá,Pauna,15531,Mujer,10
+Boyacá,Paya,15533,Hombre,12
+Boyacá,Paya,15533,Mujer,22
+Boyacá,Pesca,15542,Hombre,4
+Boyacá,Pesca,15542,Mujer,2
+Boyacá,Pisba,15550,Hombre,2
+Boyacá,Pisba,15550,Mujer,7
+Boyacá,Puerto Boyacá,15572,Hombre,41
+Boyacá,Puerto Boyacá,15572,Mujer,34
+Boyacá,Quípama,15580,Hombre,9
+Boyacá,Quípama,15580,Mujer,18
+Boyacá,Ramiriquí,15599,Hombre,1
+Boyacá,Samacá,15646,Mujer,1
+Boyacá,San Eduardo,15660,Hombre,2
+Boyacá,San Luis De Gaceno,15667,Hombre,10
+Boyacá,San Luis De Gaceno,15667,Mujer,4
+Boyacá,San Mateo,15673,Hombre,8
+Boyacá,San Pablo De Borbur,15681,Hombre,8
+Boyacá,San Pablo De Borbur,15681,Mujer,12
+Boyacá,Santa María,15690,Hombre,1
+Boyacá,Santa María,15690,Mujer,1
+Boyacá,Santa Sofía,15696,Hombre,1
+Boyacá,Soatá,15753,Hombre,1
+Boyacá,Socotá,15755,Hombre,33
+Boyacá,Socotá,15755,Mujer,18
+Boyacá,Sogamoso,15759,Hombre,3
+Boyacá,Sogamoso,15759,Mujer,1
+Boyacá,Sotaquirá,15763,Mujer,5
+Boyacá,Susacón,15774,Hombre,4
+Boyacá,Tipacoque,15810,Hombre,1
+Boyacá,Toguouí,15816,Hombre,1
+Boyacá,Tota,15822,Mujer,1
+Boyacá,Tunja,15001,Hombre,2
+Boyacá,Tununguá,15832,Hombre,1
+Boyacá,Turmequé,15835,Mujer,1
+Boyacá,Tutazá,15839,Mujer,1
+Boyacá,Umbita,15842,Hombre,1
+Boyacá,Umbita,15842,Mujer,2
+Boyacá,Villa De Leyva,15407,Hombre,3
+Boyacá,Viracachá,15879,Hombre,1
+Boyacá,Zetaquira,15897,Hombre,3
+Caldas,Aguadas,17013,Hombre,32
+Caldas,Aguadas,17013,Mujer,25
+Caldas,Aguadas,17013,Privada,1
+Caldas,Anserma,17042,Hombre,40
+Caldas,Anserma,17042,Mujer,31
+Caldas,Anserma,17042,Privada,1
+Caldas,Aranzazu,17050,Mujer,6
+Caldas,Belalcázar,17088,Hombre,10
+Caldas,Belalcázar,17088,Mujer,1
+Caldas,Chinchiná,17174,Hombre,2
+Caldas,Chinchiná,17174,Mujer,3
+Caldas,Chinchiná,17174,NoReporta,0
+Caldas,Filadelfia,17272,Hombre,15
+Caldas,Filadelfia,17272,Mujer,5
+Caldas,La Dorada,17380,Hombre,23
+Caldas,La Dorada,17380,Mujer,36
+Caldas,La Dorada,17380,NoReporta,0
+Caldas,La Merced,17388,Hombre,8
+Caldas,La Merced,17388,Mujer,6
+Caldas,Manizales,17001,Hombre,30
+Caldas,Manizales,17001,Mujer,21
+Caldas,Manzanares,17433,Hombre,22
+Caldas,Manzanares,17433,Mujer,13
+Caldas,Marmato,17442,Hombre,4
+Caldas,Marmato,17442,Mujer,2
+Caldas,Marmato,17442,NoReporta,3
+Caldas,Marquetalia,17444,Hombre,16
+Caldas,Marquetalia,17444,Mujer,12
+Caldas,Marulanda,17446,Hombre,18
+Caldas,Marulanda,17446,Mujer,8
+Caldas,Neira,17486,Hombre,4
+Caldas,Neira,17486,Mujer,6
+Caldas,Norcasia,17495,Hombre,27
+Caldas,Norcasia,17495,Mujer,18
+Caldas,Pácora,17513,Hombre,14
+Caldas,Pácora,17513,Mujer,19
+Caldas,Palestina,17524,Hombre,2
+Caldas,Palestina,17524,Mujer,2
+Caldas,Pensilvania,17541,Hombre,279
+Caldas,Pensilvania,17541,Mujer,154
+Caldas,Riosucio,17614,Hombre,46
+Caldas,Riosucio,17614,Mujer,26
+Caldas,Risaralda,17616,Hombre,7
+Caldas,Risaralda,17616,Mujer,8
+Caldas,Salamina,17653,Hombre,50
+Caldas,Salamina,17653,Mujer,27
+Caldas,Samaná,17662,Hombre,690
+Caldas,Samaná,17662,Mujer,383
+Caldas,Samaná,17662,NoReporta,1
+Caldas,San José,17665,Hombre,5
+Caldas,Supía,17777,Hombre,10
+Caldas,Supía,17777,Lgbti,1
+Caldas,Supía,17777,Mujer,12
+Caldas,Supía,17777,NoReporta,1
+Caldas,Victoria,17867,Hombre,30
+Caldas,Victoria,17867,Mujer,24
+Caldas,Villamaría,17873,Hombre,14
+Caldas,Villamaría,17873,Mujer,5
+Caldas,Viterbo,17877,Hombre,6
+Caldas,Viterbo,17877,NoReporta,1
+Caquetá,Albania,18029,Hombre,22
+Caquetá,Albania,18029,Mujer,17
+Caquetá,Belén De Los Andaquies,18094,Hombre,105
+Caquetá,Belén De Los Andaquies,18094,Mujer,51
+Caquetá,Cartagena Del Chairá,18150,Hombre,631
+Caquetá,Cartagena Del Chairá,18150,Mujer,380
+Caquetá,Cartagena Del Chairá,18150,NoReporta,1
+Caquetá,Curillo,18205,Hombre,137
+Caquetá,Curillo,18205,Mujer,111
+Caquetá,El Doncello,18247,Hombre,83
+Caquetá,El Doncello,18247,Mujer,53
+Caquetá,El Paujil,18256,Hombre,51
+Caquetá,El Paujil,18256,Mujer,62
+Caquetá,Florencia,18001,Hombre,335
+Caquetá,Florencia,18001,Mujer,236
+Caquetá,Florencia,18001,Privada,5
+Caquetá,La Montañita,18410,Hombre,286
+Cauca,El Tambo,19256,Mujer,367
+Caquetá,La Montañita,18410,Mujer,175
+Caquetá,Milán,18460,Hombre,114
+Caquetá,Milán,18460,Mujer,73
+Caquetá,Morelia,18479,Hombre,51
+Caquetá,Morelia,18479,Mujer,31
+Caquetá,Puerto Rico,18592,Hombre,361
+Caquetá,Puerto Rico,18592,Mujer,196
+Caquetá,San José Del Fragua,18610,Hombre,127
+Caquetá,San José Del Fragua,18610,Mujer,75
+Caquetá,San Vicente Del Caguán,18753,Hombre,575
+Caquetá,San Vicente Del Caguán,18753,Mujer,354
+Caquetá,San Vicente Del Caguán,18753,NoReporta,1
+Caquetá,Solano,18756,Hombre,140
+Caquetá,Solano,18756,Mujer,94
+Caquetá,Solita,18785,Hombre,80
+Caquetá,Solita,18785,Mujer,56
+Caquetá,Valparaíso,18860,Hombre,184
+Caquetá,Valparaíso,18860,Mujer,96
+Caquetá,Valparaíso,18860,NoReporta,4
+Casanare,Aguazul,85010,Hombre,71
+Casanare,Aguazul,85010,Mujer,64
+Casanare,Chameza,85015,Hombre,17
+Casanare,Chameza,85015,Mujer,4
+Casanare,Hato Corozal,85125,Hombre,67
+Casanare,Hato Corozal,85125,Mujer,70
+Casanare,La Salina,85136,Hombre,2
+Casanare,La Salina,85136,Mujer,5
+Casanare,Maní,85139,Hombre,71
+Casanare,Maní,85139,Mujer,67
+Casanare,Monterrey,85162,Hombre,34
+Casanare,Monterrey,85162,Mujer,57
+Casanare,Nunchía,85225,Hombre,42
+Casanare,Nunchía,85225,Mujer,32
+Casanare,Orocué,85230,Hombre,82
+Casanare,Orocué,85230,Mujer,41
+Casanare,Paz De Ariporo,85250,Hombre,52
+Casanare,Paz De Ariporo,85250,Mujer,51
+Casanare,Pore,85263,Hombre,59
+Casanare,Pore,85263,Mujer,45
+Casanare,Recetor,85279,Hombre,10
+Casanare,Recetor,85279,Mujer,6
+Casanare,Sabanalarga,85300,Hombre,20
+Casanare,Sabanalarga,85300,Mujer,16
+Casanare,Sácama,85315,Hombre,10
+Casanare,Sácama,85315,Mujer,8
+Casanare,San Luis De Palenque,85325,Hombre,29
+Casanare,San Luis De Palenque,85325,Mujer,38
+Casanare,Támara,85400,Hombre,23
+Casanare,Támara,85400,Mujer,17
+Casanare,Tauramena,85410,Hombre,88
+Casanare,Tauramena,85410,Mujer,51
+Casanare,Trinidad,85430,Hombre,34
+Casanare,Trinidad,85430,Mujer,37
+Casanare,Villanueva,85440,Hombre,18
+Casanare,Villanueva,85440,Mujer,13
+Casanare,Yopal,85001,Hombre,80
+Casanare,Yopal,85001,Mujer,82
+Casanare,Yopal,85001,Privada,1
+Cauca,Almaguer,19022,Hombre,43
+Cauca,Almaguer,19022,Mujer,39
+Cauca,Argelia,19050,Hombre,178
+Cauca,Argelia,19050,Mujer,208
+Cauca,Argelia,19050,NoReporta,0
+Cauca,Balboa,19075,Hombre,62
+Cauca,Balboa,19075,Mujer,80
+Cauca,Bolívar,19100,Hombre,114
+Cauca,Bolívar,19100,Mujer,149
+Cauca,Bolívar,19100,NoReporta,2
+Cauca,Buenos Aires,19110,Hombre,103
+Cauca,Buenos Aires,19110,Mujer,79
+Cauca,Cajibío,19130,Hombre,348
+Cauca,Cajibío,19130,Mujer,354
+Cauca,Cajibío,19130,NoReporta,3
+Cauca,Caldono,19137,Hombre,36
+Cauca,Caldono,19137,Mujer,22
+Cauca,Caloto,19142,Hombre,38
+Cauca,Caloto,19142,Mujer,30
+Cauca,Corinto,19212,Hombre,53
+Cauca,Corinto,19212,Mujer,47
+Cauca,El Tambo,19256,Hombre,455
+Cauca,El Tambo,19256,NoReporta,2
+Cauca,Florencia,19290,Hombre,7
+Cauca,Florencia,19290,Mujer,6
+Cauca,Guachené,19300,Hombre,2
+Cauca,Guachené,19300,Mujer,4
+Cauca,Guapí,19318,Hombre,44
+Cauca,Guapí,19318,Mujer,54
+Cauca,Inzá,19355,Hombre,60
+Cauca,Inzá,19355,Mujer,29
+Cauca,Jambaló,19364,Hombre,11
+Cauca,Jambaló,19364,Mujer,9
+Cauca,La Sierra,19392,Hombre,54
+Cauca,La Sierra,19392,Mujer,46
+Cauca,La Vega,19397,Hombre,183
+Cauca,La Vega,19397,Mujer,133
+Cauca,La Vega,19397,NoReporta,1
+Cauca,López,19418,Hombre,67
+Cauca,López,19418,Mujer,59
+Cauca,Mercaderes,19450,Hombre,45
+Cauca,Mercaderes,19450,Mujer,52
+Cauca,Miranda,19455,Hombre,33
+Cauca,Miranda,19455,Mujer,33
+Cauca,Morales,19473,Hombre,113
+Cauca,Morales,19473,Mujer,67
+Cauca,Padilla,19513,Hombre,5
+Cauca,Padilla,19513,Mujer,3
+Cauca,Paez,19517,Hombre,97
+Cauca,Paez,19517,Mujer,49
+Cauca,Patía,19532,Hombre,157
+Cauca,Patía,19532,Mujer,99
+Cauca,Patía,19532,Privada,1
+Cauca,Piamonte,19533,Hombre,237
+Cauca,Piamonte,19533,Mujer,190
+Cauca,Piamonte,19533,NoReporta,2
+Cauca,Piendamó,19548,Hombre,26
+Cauca,Piendamó,19548,Mujer,16
+Cauca,Popayán,19001,Hombre,51
+Cauca,Popayán,19001,Mujer,390
+Cauca,Puerto Tejada,19573,Hombre,11
+Cauca,Puerto Tejada,19573,Mujer,4
+Cauca,Puracé,19585,Hombre,58
+Cauca,Puracé,19585,Mujer,22
+Cauca,Rosas,19622,Hombre,61
+Cauca,Rosas,19622,Mujer,68
+Cauca,San Sebastián,19693,Hombre,47
+Cauca,San Sebastián,19693,Mujer,23
+Cauca,Santa Rosa,19701,Hombre,222
+Cauca,Santa Rosa,19701,Mujer,135
+Cauca,Santander De Quilichao,19698,Hombre,114
+Cauca,Santander De Quilichao,19698,Mujer,100
+Cauca,Santander De Quilichao,19698,NoReporta,1
+Cauca,Silvia,19743,Hombre,29
+Cauca,Silvia,19743,Mujer,25
+Cauca,Sotará,19760,Hombre,18
+Cauca,Sotará,19760,Mujer,27
+Cauca,Suárez,19780,Hombre,63
+Cauca,Suárez,19780,Lgbti,1
+Cauca,Suárez,19780,Mujer,43
+Cauca,Sucre,19785,Hombre,29
+Cauca,Sucre,19785,Mujer,30
+Cauca,Timbío,19807,Hombre,118
+Cauca,Timbío,19807,Mujer,77
+Cauca,Timbío,19807,Privada,1
+Cauca,Timbiquí,19809,Hombre,44
+Cauca,Timbiquí,19809,Mujer,38
+Cauca,Toribio,19821,Hombre,16
+Cauca,Toribio,19821,Mujer,41
+Cauca,Totoró,19824,Hombre,19
+Cauca,Totoró,19824,Mujer,66
+Cauca,Villa Rica,19845,Hombre,4
+Cauca,Villa Rica,19845,Mujer,3
+Cesar,Aguachica,20011,Hombre,134
+Cesar,Aguachica,20011,Mujer,84
+Cesar,Agustín Codazzi,20013,Hombre,353
+Cesar,Agustín Codazzi,20013,Mujer,250
+Cesar,Agustín Codazzi,20013,Privada,3
+Cesar,Astrea,20032,Hombre,39
+Cesar,Astrea,20032,Mujer,43
+Cesar,Becerril,20045,Hombre,291
+Cesar,Becerril,20045,Mujer,236
+Cesar,Bosconia,20060,Hombre,38
+Cesar,Bosconia,20060,Mujer,34
+Cesar,Bosconia,20060,Privada,1
+Cesar,Chimichagua,20175,Hombre,118
+Cesar,Chimichagua,20175,Mujer,65
+Cesar,Chiriguaná,20178,Hombre,169
+Cesar,Chiriguaná,20178,Mujer,78
+Cesar,Curumaní,20228,Hombre,208
+Cesar,Curumaní,20228,Mujer,165
+Cesar,Curumaní,20228,Privada,1
+Cesar,El Copey,20238,Hombre,369
+Cesar,El Copey,20238,Mujer,255
+Cesar,El Paso,20250,Hombre,57
+Cesar,El Paso,20250,Mujer,38
+Cesar,Gamarra,20295,Hombre,22
+Cesar,Gamarra,20295,Mujer,20
+Cesar,González,20310,Hombre,3
+Cesar,La Gloria,20383,Hombre,385
+Cesar,La Gloria,20383,Mujer,147
+Cesar,La Jagua De Ibirico,20400,Hombre,310
+Cesar,La Jagua De Ibirico,20400,Mujer,233
+Cesar,La Paz,20621,Hombre,123
+Cesar,La Paz,20621,Mujer,109
+Cesar,La Paz,20621,Privada,2
+Cesar,Manaure,20443,Hombre,49
+Cesar,Manaure,20443,Mujer,17
+Cesar,Pailitas,20517,Hombre,209
+Cesar,Pailitas,20517,Mujer,157
+Cesar,Pelaya,20550,Hombre,223
+Cesar,Pelaya,20550,Mujer,174
+Cesar,Pelaya,20550,NoReporta,1
+Cesar,Pelaya,20550,Privada,1
+Cesar,Pueblo Bello,20570,Hombre,129
+Cesar,Pueblo Bello,20570,Mujer,79
+Cesar,Río De Oro,20614,Hombre,108
+Cesar,Río De Oro,20614,Mujer,57
+Cesar,San Alberto,20710,Hombre,250
+Cesar,San Alberto,20710,Mujer,182
+Cesar,San Diego,20750,Hombre,176
+Cesar,San Diego,20750,Mujer,125
+Cesar,San Diego,20750,Privada,1
+Cesar,San Martín,20770,Hombre,132
+Cesar,San Martín,20770,Mujer,70
+Cesar,Tamalameque,20787,Hombre,105
+Cesar,Tamalameque,20787,Mujer,47
+Cesar,Valledupar,20001,Hombre,702
+Cesar,Valledupar,20001,Mujer,472
+Cesar,Valledupar,20001,Privada,6
+Chocó,Acandí,27006,Hombre,106
+Chocó,Acandí,27006,Mujer,57
+Chocó,Acandí,27006,NoReporta,1
+Chocó,Alto Baudó,27025,Hombre,19
+Chocó,Alto Baudó,27025,Mujer,12
+Chocó,Atrato,27050,Hombre,6
+Chocó,Atrato,27050,Mujer,5
+Chocó,Bagadó,27073,Hombre,57
+Chocó,Bagadó,27073,Mujer,36
+Chocó,Bagadó,27073,NoReporta,1
+Chocó,Bahía Solano,27075,Hombre,25
+Chocó,Bahía Solano,27075,Mujer,12
+Chocó,Bajo Baudó,27077,Hombre,8
+Chocó,Bajo Baudó,27077,Mujer,9
+Chocó,Bojayá,27099,Hombre,43
+Chocó,Bojayá,27099,Mujer,17
+Chocó,Carmen del Darién,27150,Hombre,80
+Chocó,Carmen del Darién,27150,Mujer,25
+Chocó,Carmen del Darién,27150,NoReporta,2
+Chocó,Cértegui,27160,Hombre,7
+Chocó,Cértegui,27160,Mujer,7
+Chocó,Condoto,27205,Hombre,11
+Chocó,Condoto,27205,Mujer,15
+Chocó,El Cantón Del San Pablo,27135,Hombre,2
+Chocó,El Cantón Del San Pablo,27135,Mujer,5
+Chocó,El Carmen De Atrato,27245,Hombre,113
+Chocó,El Carmen De Atrato,27245,Mujer,62
+Chocó,El Litoral Del San Juan,27250,Hombre,16
+Chocó,El Litoral Del San Juan,27250,Mujer,11
+Chocó,Istmina,27361,Hombre,17
+Chocó,Istmina,27361,Mujer,35
+Chocó,Juradó,27372,Hombre,22
+Chocó,Juradó,27372,Mujer,33
+Chocó,Lloró,27413,Hombre,6
+Chocó,Lloró,27413,Mujer,15
+Chocó,Medio Atrato,27425,Hombre,19
+Chocó,Medio Atrato,27425,Mujer,20
+Chocó,Medio Baudó,27430,Hombre,11
+Chocó,Medio Baudó,27430,Mujer,31
+Chocó,Medio San Juan,27450,Hombre,7
+Chocó,Medio San Juan,27450,Mujer,17
+Chocó,Nóvita,27491,Hombre,18
+Chocó,Nóvita,27491,Mujer,24
+Chocó,Nuquí,27495,Hombre,12
+Chocó,Nuquí,27495,Mujer,7
+Chocó,Quibdó,27001,Hombre,78
+Chocó,Quibdó,27001,Mujer,78
+Chocó,Río Iro,27580,Hombre,24
+Chocó,Río Iro,27580,Mujer,41
+Chocó,Río Iro,27580,NoReporta,2
+Chocó,Río Quito,27600,Hombre,9
+Chocó,Río Quito,27600,Mujer,8
+Chocó,Riosucio,27615,Hombre,880
+Chocó,Riosucio,27615,Mujer,460
+Chocó,Riosucio,27615,NoReporta,10
+Chocó,Riosucio,27615,Privada,1
+Chocó,San José Del Palmar,27660,Hombre,112
+Chocó,San José Del Palmar,27660,Mujer,66
+Chocó,San José Del Palmar,27660,Privada,1
+Chocó,Sipí,27745,Hombre,9
+Chocó,Sipí,27745,Mujer,10
+Chocó,Tadó,27787,Hombre,95
+Chocó,Tadó,27787,Mujer,115
+Chocó,Tadó,27787,NoReporta,2
+Chocó,Unguía,27800,Hombre,117
+Chocó,Unguía,27800,Mujer,102
+Chocó,Unión Panamericana,27810,Hombre,10
+Chocó,Unión Panamericana,27810,Mujer,1
+Córdoba,Ayapel,23068,Hombre,77
+Córdoba,Ayapel,23068,Mujer,49
+Córdoba,Ayapel,23068,NoReporta,2
+Córdoba,Buenavista,23079,Hombre,18
+Córdoba,Buenavista,23079,Mujer,16
+Córdoba,Canalete,23090,Hombre,61
+Córdoba,Canalete,23090,Mujer,52
+Córdoba,Canalete,23090,NoReporta,2
+Córdoba,Cereté,23162,Hombre,10
+Córdoba,Cereté,23162,Mujer,1
+Córdoba,Chimá,23168,Hombre,4
+Córdoba,Chimá,23168,Mujer,4
+Córdoba,Chinú,23182,Hombre,5
+Córdoba,Chinú,23182,Mujer,11
+Córdoba,Ciénaga De Oro,23189,Hombre,7
+Córdoba,Ciénaga De Oro,23189,Mujer,1
+Córdoba,Cotorra,23300,Hombre,3
+Córdoba,Cotorra,23300,Mujer,0
+Córdoba,La Apartada,23350,Hombre,7
+Córdoba,La Apartada,23350,Mujer,8
+Córdoba,Lorica,23417,Hombre,12
+Córdoba,Lorica,23417,Mujer,10
+Córdoba,Los Córdobas,23419,Hombre,9
+Córdoba,Los Córdobas,23419,Mujer,11
+Córdoba,Momil,23464,Mujer,1
+Córdoba,Montelíbano,23466,Hombre,174
+Córdoba,Montelíbano,23466,Mujer,97
+Córdoba,Montería,23001,Hombre,822
+Córdoba,Montería,23001,Mujer,386
+Córdoba,Montería,23001,NoReporta,3
+Córdoba,Moñitos,23500,Hombre,8
+Córdoba,Moñitos,23500,Mujer,8
+Córdoba,Planeta Rica,23555,Hombre,28
+Córdoba,Planeta Rica,23555,Mujer,11
+Córdoba,Pueblo Nuevo,23570,Hombre,189
+Córdoba,Pueblo Nuevo,23570,Mujer,95
+Córdoba,Puerto Escondido,23574,Hombre,17
+Córdoba,Puerto Escondido,23574,Mujer,12
+Córdoba,Puerto Libertador,23580,Hombre,123
+Córdoba,Puerto Libertador,23580,Mujer,77
+Córdoba,Purísima,23586,Hombre,3
+Córdoba,Sahagún,23660,Hombre,3
+Córdoba,Sahagún,23660,Mujer,3
+Córdoba,San Andrés Sotavento,23670,Hombre,1
+Córdoba,San Andrés Sotavento,23670,Mujer,3
+Córdoba,San Andrés Sotavento,23670,Privada,0
+Córdoba,San Antero,23672,Hombre,2
+Córdoba,San Antero,23672,Mujer,3
+Córdoba,San Bernardo Del Viento,23675,Hombre,11
+Córdoba,San Bernardo Del Viento,23675,Mujer,4
+Córdoba,San Carlos,23678,Hombre,4
+Córdoba,San Carlos,23678,Mujer,2
+Córdoba,San Pelayo,23686,Hombre,4
+Córdoba,San Pelayo,23686,Mujer,1
+Córdoba,Tierralta,23807,Hombre,610
+Córdoba,Tierralta,23807,Mujer,375
+Córdoba,Tierralta,23807,NoReporta,10
+Córdoba,Tuchín,23815,Hombre,0
+Córdoba,Ure,23682,Hombre,193
+Córdoba,Ure,23682,Mujer,181
+Córdoba,Valencia,23855,Hombre,664
+Córdoba,Valencia,23855,Mujer,312
+Cundinamarca,Agua De Dios,25001,Hombre,5
+Cundinamarca,Albán,25019,Hombre,3
+Cundinamarca,Albán,25019,Mujer,9
+Cundinamarca,Anapoima,25035,Hombre,1
+Cundinamarca,Anapoima,25035,Mujer,5
+Cundinamarca,Anolaima,25040,Hombre,5
+Cundinamarca,Anolaima,25040,Mujer,2
+Cundinamarca,Apulo,25599,Hombre,4
+Cundinamarca,Apulo,25599,Mujer,5
+Cundinamarca,Arbeláez,25053,Hombre,40
+Cundinamarca,Arbeláez,25053,Mujer,17
+Cundinamarca,Beltrán,25086,Hombre,3
+Cundinamarca,Beltrán,25086,Mujer,3
+Cundinamarca,Beltrán,25086,Privada,2
+Cundinamarca,Bituima,25095,Hombre,8
+Cundinamarca,Bituima,25095,Mujer,2
+Cundinamarca,Cabrera,25120,Hombre,11
+Cundinamarca,Cabrera,25120,Mujer,17
+Cundinamarca,Cachipay,25123,Hombre,2
+Cundinamarca,Cajicá,25126,Hombre,1
+Cundinamarca,Cajicá,25126,Mujer,2
+Cundinamarca,Caparrapí,25148,Hombre,38
+Cundinamarca,Caparrapí,25148,Mujer,35
+Cundinamarca,Caqueza,25151,Hombre,4
+Cundinamarca,Caqueza,25151,Mujer,2
+Cundinamarca,Carmen De Carupa,25154,Mujer,1
+Cundinamarca,Chaguaní,25168,Hombre,33
+Cundinamarca,Chaguaní,25168,Mujer,21
+Cundinamarca,Chía,25175,Hombre,6
+Cundinamarca,Chía,25175,Mujer,2
+Cundinamarca,Chipaque,25178,Hombre,7
+Cundinamarca,Chipaque,25178,Mujer,1
+Cundinamarca,Choachí,25181,Hombre,2
+Cundinamarca,Choachí,25181,Mujer,2
+Cundinamarca,Chocontá,25183,Hombre,1
+Cundinamarca,Cogua,25200,Hombre,1
+Cundinamarca,Cota,25214,Hombre,1
+Cundinamarca,Cota,25214,Mujer,1
+Cundinamarca,Cota,25214,Privada,2
+Cundinamarca,El Colegio,25245,Hombre,4
+Cundinamarca,El Colegio,25245,Mujer,3
+Cundinamarca,El Peñón,25258,Hombre,31
+Cundinamarca,El Peñón,25258,Mujer,33
+Cundinamarca,El Rosal,25260,Hombre,1
+Cundinamarca,Facatativá,25269,Mujer,2
+Cundinamarca,Fomeque,25279,Hombre,2
+Cundinamarca,Fomeque,25279,Mujer,6
+Cundinamarca,Fosca,25281,Hombre,4
+Cundinamarca,Fosca,25281,Mujer,2
+Cundinamarca,Funza,25286,Hombre,1
+Cundinamarca,Funza,25286,Mujer,2
+Cundinamarca,Fusagasugá,25290,Hombre,19
+Cundinamarca,Fusagasugá,25290,Mujer,11
+Cundinamarca,Fusagasugá,25290,NoReporta,1
+Cundinamarca,Gachalá,25293,Hombre,15
+Cundinamarca,Gachalá,25293,Mujer,5
+Cundinamarca,Gachetá,25297,Mujer,4
+Cundinamarca,Gama,25299,Hombre,2
+Cundinamarca,Girardot,25307,Hombre,1
+Cundinamarca,Girardot,25307,Mujer,8
+Cundinamarca,Granada,25312,Hombre,3
+Cundinamarca,Granada,25312,Mujer,7
+Cundinamarca,Guachetá,25317,Hombre,1
+Cundinamarca,Guaduas,25320,Hombre,12
+Cundinamarca,Guaduas,25320,Mujer,9
+Cundinamarca,Guaduas,25320,Privada,1
+Cundinamarca,Guasca,25322,Hombre,1
+Cundinamarca,Guasca,25322,Mujer,4
+Cundinamarca,Guataquí,25324,Hombre,7
+Cundinamarca,Guataquí,25324,Mujer,4
+Cundinamarca,Guatavita,25326,Hombre,0
+Cundinamarca,Guayabal De Siquima,25328,Hombre,16
+Cundinamarca,Guayabal De Siquima,25328,Mujer,3
+Cundinamarca,Guayabetal,25335,Hombre,11
+Cundinamarca,Guayabetal,25335,Mujer,7
+Cundinamarca,Gutiérrez,25339,Hombre,3
+Cundinamarca,Gutiérrez,25339,Mujer,4
+Cundinamarca,Jerusalén,25368,Hombre,6
+Cundinamarca,Jerusalén,25368,Mujer,3
+Cundinamarca,Junín,25372,Hombre,2
+Cundinamarca,Junín,25372,Mujer,4
+Cundinamarca,La Calera,25377,Hombre,3
+Cundinamarca,La Mesa,25386,Hombre,6
+Cundinamarca,La Mesa,25386,Mujer,3
+Cundinamarca,La Palma,25394,Hombre,380
+Cundinamarca,La Palma,25394,Mujer,393
+Cundinamarca,La Peña,25398,Hombre,18
+Cundinamarca,La Peña,25398,Mujer,13
+Cundinamarca,La Vega,25402,Hombre,1
+Cundinamarca,La Vega,25402,Mujer,2
+Cundinamarca,Manta,25436,Mujer,2
+Cundinamarca,Medina,25438,Hombre,72
+Cundinamarca,Medina,25438,Mujer,66
+Cundinamarca,Mosquera,25473,Mujer,1
+Cundinamarca,Nariño,25483,Hombre,1
+Cundinamarca,Nariño,25483,Mujer,2
+Cundinamarca,Nilo,25488,Hombre,3
+Cundinamarca,Nilo,25488,Mujer,1
+Cundinamarca,Nimaima,25489,Hombre,6
+Cundinamarca,Nimaima,25489,Mujer,3
+Cundinamarca,Nocaima,25491,Hombre,1
+Cundinamarca,Nocaima,25491,Mujer,1
+Cundinamarca,Pacho,25513,Hombre,34
+Cundinamarca,Pacho,25513,Mujer,36
+Cundinamarca,Paime,25518,Hombre,4
+Cundinamarca,Paime,25518,Mujer,10
+Cundinamarca,Pandi,25524,Hombre,12
+Cundinamarca,Pandi,25524,Mujer,2
+Cundinamarca,Paratebueno,25530,Hombre,30
+Cundinamarca,Paratebueno,25530,Mujer,14
+Cundinamarca,Pasca,25535,Hombre,18
+Cundinamarca,Pasca,25535,Mujer,6
+Cundinamarca,Puerto Salgar,25572,Hombre,24
+Cundinamarca,Puerto Salgar,25572,Mujer,6
+Cundinamarca,Puerto Salgar,25572,NoReporta,1
+Cundinamarca,Pulí,25580,Hombre,24
+Cundinamarca,Pulí,25580,Mujer,19
+Cundinamarca,Quebradanegra,25592,Hombre,3
+Cundinamarca,Quebradanegra,25592,Mujer,5
+Cundinamarca,Quetame,25594,Hombre,2
+Cundinamarca,Quetame,25594,Mujer,5
+Cundinamarca,Quipile,25596,Hombre,25
+Cundinamarca,Quipile,25596,Mujer,17
+Cundinamarca,Ricaurte,25612,Hombre,2
+Cundinamarca,Ricaurte,25612,Mujer,1
+Cundinamarca,San Antonio Del Tequendama,25645,Hombre,1
+Cundinamarca,San Antonio Del Tequendama,25645,Mujer,1
+Cundinamarca,San Bernardo,25649,Hombre,9
+Cundinamarca,San Bernardo,25649,Mujer,2
+Cundinamarca,San Cayetano,25653,Hombre,6
+Cundinamarca,San Cayetano,25653,Mujer,5
+Cundinamarca,San Francisco,25658,Hombre,3
+Cundinamarca,San Francisco,25658,Mujer,3
+Cundinamarca,San Juan De Río Seco,25662,Hombre,25
+Cundinamarca,San Juan De Río Seco,25662,Mujer,16
+Cundinamarca,Sasaima,25718,Hombre,17
+Cundinamarca,Sasaima,25718,Mujer,7
+Cundinamarca,Sasaima,25718,NoReporta,1
+Cundinamarca,Sesquilé,25736,Hombre,1
+Cundinamarca,Sesquilé,25736,Mujer,2
+Cundinamarca,Sibaté,25740,Hombre,0
+Cundinamarca,Sibaté,25740,Mujer,6
+Cundinamarca,Silvania,25743,Hombre,36
+Cundinamarca,Silvania,25743,Mujer,29
+Cundinamarca,Silvania,25743,NoReporta,2
+Cundinamarca,Simijaca,25745,Hombre,1
+Cundinamarca,Simijaca,25745,Mujer,2
+Cundinamarca,Soacha,25754,Hombre,20
+Cundinamarca,Soacha,25754,Mujer,33
+Cundinamarca,Supatá,25777,Mujer,2
+Cundinamarca,Sutatausa,25781,Hombre,1
+Cundinamarca,Sutatausa,25781,Mujer,1
+Cundinamarca,Tabio,25785,Hombre,1
+Cundinamarca,Tena,25797,Hombre,1
+Cundinamarca,Tena,25797,Mujer,3
+Cundinamarca,Tenjo,25799,Hombre,0
+Cundinamarca,Tenjo,25799,Mujer,1
+Cundinamarca,Tibacuy,25805,Hombre,14
+Cundinamarca,Tibacuy,25805,Mujer,10
+Cundinamarca,Tocaima,25815,Hombre,6
+Cundinamarca,Tocaima,25815,Mujer,3
+Cundinamarca,Tocancipá,25817,Hombre,1
+Cundinamarca,Topaipí,25823,Hombre,32
+Cundinamarca,Topaipí,25823,Mujer,24
+Cundinamarca,Ubalá,25839,Hombre,26
+Cundinamarca,Ubalá,25839,Mujer,5
+Cundinamarca,Ubaque,25841,Hombre,2
+Cundinamarca,Ubaque,25841,Mujer,3
+Cundinamarca,Une,25845,Hombre,2
+Cundinamarca,Uutica,25851,Hombre,3
+Cundinamarca,Uutica,25851,Mujer,1
+Cundinamarca,Venecia,25506,Hombre,26
+Cundinamarca,Venecia,25506,Mujer,18
+Cundinamarca,Vergara,25862,Hombre,9
+Cundinamarca,Vergara,25862,Mujer,11
+Cundinamarca,Vianí,25867,Hombre,4
+Cundinamarca,Vianí,25867,Mujer,3
+Cundinamarca,Villa De San Diego De Ubaté,25843,Hombre,2
+Cundinamarca,Villagómez,25871,Hombre,3
+Cundinamarca,Villagómez,25871,Mujer,3
+Cundinamarca,Villapinzón,25873,Hombre,1
+Cundinamarca,Villapinzón,25873,Mujer,3
+Cundinamarca,Villeta,25875,Hombre,5
+Cundinamarca,Villeta,25875,Mujer,2
+Cundinamarca,Viotá,25878,Hombre,62
+Cundinamarca,Viotá,25878,Mujer,77
+Cundinamarca,Viotá,25878,Privada,1
+Cundinamarca,Yacopí,25885,Hombre,148
+Cundinamarca,Yacopí,25885,Mujer,134
+Cundinamarca,Yacopí,25885,NoReporta,1
+Cundinamarca,Zipaquirá,25899,Hombre,6
+Guainía,Barranco Minas,94343,Hombre,24
+Guainía,Barranco Minas,94343,Mujer,21
+Guainía,Inírida,94001,Hombre,7
+Guainía,Inírida,94001,Mujer,9
+Guainía,Mapiripana,94663,Hombre,12
+Guainía,Mapiripana,94663,Mujer,2
+Guainía,Morichal,94888,Mujer,1
+Guainía,Puerto Colombia,94884,Mujer,1
+Guainía,San Felipe,94883,Hombre,3
+Guaviare,Calamar,95015,Hombre,116
+Guaviare,Calamar,95015,Mujer,76
+Guaviare,El Retorno,95025,Hombre,146
+Guaviare,El Retorno,95025,Mujer,105
+Guaviare,Miraflores,95200,Hombre,408
+Guaviare,Miraflores,95200,Mujer,350
+Guaviare,San José Del Guaviare,95001,Hombre,502
+Guaviare,San José Del Guaviare,95001,Mujer,352
+Huila,Acevedo,41006,Hombre,58
+Huila,Acevedo,41006,Mujer,42
+Huila,Agrado,41013,Hombre,3
+Huila,Agrado,41013,Mujer,2
+Huila,Aipe,41016,Hombre,22
+Huila,Aipe,41016,Mujer,10
+Huila,Algeciras,41020,Hombre,147
+Huila,Algeciras,41020,Mujer,94
+Huila,Altamira,41026,Hombre,1
+Huila,Altamira,41026,Mujer,3
+Huila,Baraya,41078,Hombre,136
+Huila,Baraya,41078,Mujer,73
+Huila,Baraya,41078,NoReporta,4
+Huila,Campoalegre,41132,Hombre,32
+Huila,Campoalegre,41132,Mujer,20
+Huila,Colombia,41206,Hombre,78
+Huila,Colombia,41206,Mujer,37
+Huila,Elías,41244,Mujer,1
+Huila,Garzón,41298,Hombre,51
+Huila,Garzón,41298,Mujer,50
+Huila,Gigante,41306,Hombre,53
+Huila,Gigante,41306,Mujer,35
+Huila,Guadalupe,41319,Hombre,20
+Huila,Guadalupe,41319,Mujer,12
+Huila,Hobo,41349,Hombre,8
+Huila,Hobo,41349,Mujer,5
+Huila,Iquira,41357,Hombre,49
+Huila,Iquira,41357,Mujer,26
+Huila,Isnos,41359,Hombre,31
+Huila,Isnos,41359,Mujer,21
+Huila,La Argentina,41378,Hombre,12
+Huila,La Argentina,41378,Mujer,7
+Huila,La Plata,41396,Hombre,63
+Huila,La Plata,41396,Mujer,40
+Huila,Nátaga,41483,Hombre,23
+Huila,Nátaga,41483,Mujer,20
+Huila,Neiva,41001,Hombre,141
+Huila,Neiva,41001,Mujer,78
+Huila,Oporapa,41503,Hombre,13
+Huila,Oporapa,41503,Mujer,5
+Huila,Paicol,41518,Hombre,2
+Huila,Paicol,41518,Mujer,2
+Huila,Palermo,41524,Hombre,27
+Huila,Palermo,41524,Mujer,19
+Huila,Palestina,41530,Hombre,5
+Huila,Palestina,41530,Mujer,12
+Huila,Pital,41548,Hombre,1
+Huila,Pital,41548,Mujer,1
+Huila,Pital,41548,NoReporta,1
+Huila,Pitalito,41551,Hombre,46
+Huila,Pitalito,41551,Mujer,44
+Huila,Rivera,41615,Hombre,14
+Huila,Rivera,41615,Mujer,10
+Huila,Saladoblanco,41660,Hombre,18
+Huila,Saladoblanco,41660,Mujer,24
+Huila,San Agustín,41668,Hombre,48
+Huila,San Agustín,41668,Mujer,22
+Huila,Santa María,41676,Hombre,20
+Huila,Santa María,41676,Mujer,17
+Huila,Suaza,41770,Hombre,27
+Huila,Suaza,41770,Mujer,8
+Huila,Tarqui,41791,Hombre,6
+Huila,Tarqui,41791,Mujer,3
+Huila,Tello,41799,Hombre,64
+Huila,Tello,41799,Mujer,31
+Huila,Teruel,41801,Hombre,12
+Huila,Teruel,41801,Mujer,1
+Huila,Tesalia,41797,Hombre,2
+Huila,Tesalia,41797,Mujer,4
+Huila,Tesalia,41797,NoReporta,1
+Huila,Timaná,41807,Hombre,2
+Huila,Timaná,41807,Mujer,2
+Huila,Villavieja,41872,Hombre,27
+Huila,Villavieja,41872,Mujer,13
+Huila,Yaguará,41885,Mujer,1
+La Guajira,Albania,44035,Hombre,14
+La Guajira,Albania,44035,Mujer,13
+La Guajira,Barrancas,44078,Hombre,78
+La Guajira,Barrancas,44078,Mujer,51
+La Guajira,Dibulla,44090,Hombre,177
+La Guajira,Dibulla,44090,Mujer,121
+La Guajira,Distracción,44098,Hombre,38
+La Guajira,Distracción,44098,Mujer,16
+La Guajira,El Molino,44110,Hombre,39
+La Guajira,El Molino,44110,Mujer,25
+La Guajira,Fonseca,44279,Hombre,30
+La Guajira,Fonseca,44279,Mujer,16
+La Guajira,Hatonuevo,44378,Hombre,2
+La Guajira,Hatonuevo,44378,Mujer,3
+La Guajira,La Jagua Del Pilar,44420,Hombre,7
+La Guajira,La Jagua Del Pilar,44420,Mujer,6
+La Guajira,Maicao,44430,Hombre,30
+La Guajira,Maicao,44430,Mujer,31
+La Guajira,Maicao,44430,Privada,1
+La Guajira,Manaure,44560,Mujer,1
+La Guajira,Riohacha,44001,Hombre,156
+La Guajira,Riohacha,44001,Mujer,140
+La Guajira,San Juan Del Cesar,44650,Hombre,41
+La Guajira,San Juan Del Cesar,44650,Mujer,30
+La Guajira,San Juan Del Cesar,44650,NoReporta,1
+La Guajira,Uribia,44847,Hombre,2
+La Guajira,Uribia,44847,Mujer,1
+La Guajira,Urumita,44855,Hombre,18
+La Guajira,Urumita,44855,Mujer,7
+La Guajira,Urumita,44855,Privada,1
+La Guajira,Villanueva,44874,Hombre,53
+La Guajira,Villanueva,44874,Mujer,22
+Magdalena,Algarrobo,47030,Hombre,18
+Magdalena,Algarrobo,47030,Mujer,16
+Magdalena,Aracataca,47053,Hombre,314
+Magdalena,Aracataca,47053,Mujer,181
+Magdalena,Aracataca,47053,NoReporta,1
+Magdalena,Ariguaní,47058,Hombre,61
+Magdalena,Ariguaní,47058,Mujer,40
+Magdalena,Cerro San Antonio,47161,Hombre,11
+Magdalena,Cerro San Antonio,47161,Mujer,7
+Magdalena,Chibolo,47170,Hombre,298
+Magdalena,Chibolo,47170,Mujer,103
+Magdalena,Chibolo,47170,NoReporta,1
+Magdalena,Chibolo,47170,Privada,1
+Magdalena,Ciénaga,47189,Hombre,558
+Magdalena,Ciénaga,47189,Mujer,320
+Magdalena,Ciénaga,47189,Privada,1
+Magdalena,Concordia,47205,Hombre,4
+Magdalena,Concordia,47205,Mujer,1
+Magdalena,El Banco,47245,Hombre,22
+Magdalena,El Banco,47245,Mujer,24
+Magdalena,El Piñon,47258,Hombre,70
+Magdalena,El Piñon,47258,Mujer,87
+Magdalena,El Retén,47268,Hombre,17
+Magdalena,El Retén,47268,Mujer,3
+Magdalena,Fundación,47288,Hombre,241
+Magdalena,Fundación,47288,Mujer,153
+Magdalena,Guamal,47318,Hombre,10
+Magdalena,Guamal,47318,Mujer,5
+Magdalena,Nueva Granada,47460,Hombre,19
+Magdalena,Nueva Granada,47460,Mujer,9
+Magdalena,Pedraza,47541,Hombre,10
+Magdalena,Pedraza,47541,Mujer,3
+Magdalena,Pedraza,47541,Privada,1
+Magdalena,Pijiño Del Carmen,47545,Hombre,14
+Magdalena,Pijiño Del Carmen,47545,Mujer,8
+Magdalena,Pivijay,47551,Hombre,368
+Magdalena,Pivijay,47551,Mujer,383
+Magdalena,Pivijay,47551,Privada,1
+Magdalena,Plato,47555,Hombre,161
+Magdalena,Plato,47555,Mujer,84
+Magdalena,Puebloviejo,47570,Hombre,184
+Magdalena,Puebloviejo,47570,Mujer,79
+Magdalena,Puebloviejo,47570,Privada,1
+Magdalena,Remolino,47605,Hombre,311
+Magdalena,Remolino,47605,Mujer,344
+Magdalena,Sabanas de San Ángel,47660,Hombre,309
+Magdalena,Sabanas de San Ángel,47660,Mujer,153
+Magdalena,Salamina,47675,Hombre,105
+Magdalena,Salamina,47675,Mujer,31
+Magdalena,San Sebastián De Buenavista,47692,Hombre,5
+Magdalena,San Sebastián De Buenavista,47692,Mujer,6
+Magdalena,San Sebastián De Buenavista,47692,Privada,2
+Magdalena,San Zenón,47703,Hombre,3
+Magdalena,San Zenón,47703,Mujer,1
+Magdalena,Santa Ana,47707,Hombre,77
+Magdalena,Santa Ana,47707,Mujer,38
+Magdalena,Santa Bárbara De Pinto,47720,Hombre,2
+Magdalena,Santa Bárbara De Pinto,47720,Mujer,2
+Magdalena,Santa Marta,47001,Hombre,312
+Magdalena,Santa Marta,47001,Mujer,275
+Magdalena,Santa Marta,47001,NoReporta,20
+Magdalena,Santa Marta,47001,Privada,2
+Magdalena,Sitionuevo,47745,Hombre,249
+Magdalena,Sitionuevo,47745,Mujer,238
+Magdalena,Tenerife,47798,Hombre,122
+Magdalena,Tenerife,47798,Mujer,50
+Magdalena,Zapayán,47960,Hombre,24
+Magdalena,Zapayán,47960,Mujer,12
+Magdalena,Zona Bananera,47980,Hombre,271
+Magdalena,Zona Bananera,47980,Mujer,127
+Meta,Acacías,50006,Hombre,145
+Meta,Acacías,50006,Mujer,96
+Meta,Barranca De Upía,50110,Hombre,23
+Meta,Barranca De Upía,50110,Mujer,12
+Meta,Cabuyaro,50124,Hombre,34
+Meta,Cabuyaro,50124,Mujer,18
+Meta,Castilla La Nueva,50150,Hombre,8
+Meta,Castilla La Nueva,50150,Mujer,4
+Meta,Cubarral,50223,Hombre,38
+Meta,Cubarral,50223,Mujer,16
+Meta,Cumaral,50226,Hombre,17
+Meta,Cumaral,50226,Mujer,15
+Meta,El Calvario,50245,Hombre,16
+Meta,El Calvario,50245,Mujer,10
+Meta,El Castillo,50251,Hombre,258
+Meta,El Castillo,50251,Mujer,225
+Meta,El Castillo,50251,Privada,0
+Meta,El Dorado,50270,Hombre,116
+Meta,El Dorado,50270,Mujer,105
+Meta,Fuente De Oro,50287,Hombre,58
+Meta,Fuente De Oro,50287,Mujer,41
+Meta,Granada,50313,Hombre,45
+Meta,Granada,50313,Mujer,53
+Meta,Guamal,50318,Hombre,21
+Meta,Guamal,50318,Mujer,8
+Meta,La Macarena,50350,Hombre,351
+Meta,La Macarena,50350,Mujer,201
+Meta,La Macarena,50350,NoReporta,2
+Meta,Lejanías,50400,Hombre,86
+Meta,Lejanías,50400,Mujer,83
+Meta,Mapiripán,50325,Hombre,817
+Meta,Mapiripán,50325,Mujer,554
+Meta,Mapiripán,50325,NoReporta,2
+Meta,Mapiripán,50325,Privada,2
+Meta,Mesetas,50330,Hombre,287
+Meta,Mesetas,50330,Mujer,205
+Meta,Puerto Concordia,50450,Hombre,131
+Meta,Puerto Concordia,50450,Mujer,101
+Meta,Puerto Gaitán,50568,Hombre,318
+Meta,Puerto Gaitán,50568,Mujer,246
+Meta,Puerto Gaitán,50568,Privada,5
+Meta,Puerto Lleras,50577,Hombre,219
+Meta,Puerto Lleras,50577,Mujer,161
+Meta,Puerto Lleras,50577,Privada,1
+Meta,Puerto López,50573,Hombre,138
+Meta,Puerto López,50573,Mujer,102
+Meta,Puerto López,50573,NoReporta,1
+Meta,Puerto López,50573,Privada,3
+Meta,Puerto Rico,50590,Hombre,391
+Meta,Puerto Rico,50590,Mujer,321
+Meta,Puerto Rico,50590,NoReporta,1
+Meta,Restrepo,50606,Hombre,11
+Meta,Restrepo,50606,Mujer,10
+Meta,San Carlos De Guaroa,50680,Hombre,8
+Meta,San Carlos De Guaroa,50680,Mujer,15
+Meta,San Juan De Arama,50683,Hombre,129
+Meta,San Juan De Arama,50683,Mujer,80
+Meta,San Juanito,50686,Hombre,12
+Meta,San Juanito,50686,Mujer,1
+Meta,San Martín,50689,Hombre,107
+Meta,San Martín,50689,Lgbti,1
+Meta,San Martín,50689,Mujer,91
+Meta,San Martín,50689,Privada,1
+Meta,Uribe,50370,Hombre,319
+Meta,Uribe,50370,Mujer,168
+Meta,Uribe,50370,NoReporta,1
+Meta,Villavicencio,50001,Hombre,141
+Meta,Villavicencio,50001,Mujer,88
+Meta,Villavicencio,50001,Privada,1
+Meta,Vistahermosa,50711,Hombre,500
+Meta,Vistahermosa,50711,Mujer,364
+Meta,Vistahermosa,50711,NoReporta,3
+Nariño,Albán,52019,Hombre,89
+Nariño,Albán,52019,Mujer,92
+Nariño,Aldana,52022,Hombre,2
+Nariño,Ancuyá,52036,Hombre,14
+Nariño,Ancuyá,52036,Mujer,5
+Nariño,Arboleda,52051,Hombre,0
+Nariño,Arboleda,52051,Mujer,2
+Nariño,Barbacoas,52079,Hombre,134
+Nariño,Barbacoas,52079,Mujer,132
+Nariño,Belén,52083,Hombre,8
+Nariño,Belén,52083,Mujer,9
+Nariño,Buesaco,52110,Hombre,42
+Nariño,Buesaco,52110,Mujer,36
+Nariño,Buesaco,52110,Privada,1
+Nariño,Chachagüí,52240,Hombre,1
+Nariño,Chachagüí,52240,Mujer,4
+Nariño,Colón,52203,Hombre,30
+Nariño,Colón,52203,Mujer,39
+Nariño,Consaca,52207,Hombre,9
+Nariño,Consaca,52207,Mujer,10
+Nariño,Contadero,52210,Hombre,1
+Nariño,Contadero,52210,Mujer,1
+Nariño,Córdoba,52215,Hombre,6
+Nariño,Córdoba,52215,Mujer,1
+Nariño,Cuaspud,52224,Hombre,1
+Nariño,Cuaspud,52224,Mujer,2
+Nariño,Cumbal,52227,Hombre,21
+Nariño,Cumbal,52227,Mujer,14
+Nariño,Cumbal,52227,NoReporta,3
+Nariño,Cumbal,52227,Privada,3
+Nariño,Cumbitara,52233,Hombre,106
+Nariño,Cumbitara,52233,Mujer,92
+Nariño,El Charco,52250,Hombre,66
+Nariño,El Charco,52250,Mujer,39
+Nariño,El Peñol,52254,Hombre,15
+Nariño,El Peñol,52254,Mujer,4
+Nariño,El Rosario,52256,Hombre,211
+Nariño,El Rosario,52256,Mujer,169
+Nariño,El Tablón De Gómez,52258,Hombre,607
+Nariño,El Tablón De Gómez,52258,Mujer,537
+Nariño,El Tablón De Gómez,52258,NoReporta,1
+Nariño,El Tambo,52260,Hombre,12
+Nariño,El Tambo,52260,Mujer,9
+Nariño,Francisco Pizarro,52520,Hombre,25
+Nariño,Francisco Pizarro,52520,Mujer,14
+Nariño,Francisco Pizarro,52520,Privada,1
+Nariño,Funes,52287,Hombre,5
+Nariño,Funes,52287,Mujer,8
+Nariño,Guachucal,52317,Hombre,2
+Nariño,Guaitarilla,52320,Hombre,4
+Nariño,Guaitarilla,52320,Mujer,2
+Nariño,Iles,52352,Mujer,1
+Nariño,Ipiales,52356,Hombre,133
+Nariño,Ipiales,52356,Mujer,108
+Nariño,La Cruz,52378,Hombre,12
+Nariño,La Cruz,52378,Mujer,11
+Nariño,La Florida,52381,Hombre,6
+Nariño,La Florida,52381,Mujer,20
+Nariño,La Llanada,52385,Hombre,58
+Nariño,La Llanada,52385,Mujer,27
+Nariño,La Tola,52390,Hombre,20
+Nariño,La Tola,52390,Mujer,13
+Nariño,La Unión,52399,Hombre,183
+Nariño,La Unión,52399,Mujer,154
+Nariño,Leiva,52405,Hombre,64
+Nariño,Leiva,52405,Mujer,53
+Nariño,Linares,52411,Hombre,21
+Nariño,Linares,52411,Mujer,21
+Nariño,Los Andes,52418,Hombre,267
+Nariño,Los Andes,52418,Mujer,239
+Nariño,Magüi,52427,Hombre,75
+Nariño,Magüi,52427,Mujer,49
+Nariño,Mallama,52435,Hombre,36
+Nariño,Mallama,52435,Mujer,18
+Nariño,Mosquera,52473,Hombre,19
+Nariño,Mosquera,52473,Mujer,27
+Nariño,Nariño,52480,Mujer,1
+Nariño,Olaya Herrera,52490,Hombre,60
+Nariño,Olaya Herrera,52490,Mujer,38
+Nariño,Pasto,52001,Hombre,219
+Nariño,Pasto,52001,Mujer,180
+Nariño,Policarpa,52540,Hombre,266
+Nariño,Policarpa,52540,Mujer,246
+Nariño,Policarpa,52540,NoReporta,4
+Nariño,Potosí,52560,Hombre,7
+Nariño,Potosí,52560,Mujer,5
+Nariño,Puerres,52573,Hombre,7
+Nariño,Puerres,52573,Mujer,6
+Nariño,Pupiales,52585,Mujer,1
+Nariño,Ricaurte,52612,Hombre,60
+Nariño,Ricaurte,52612,Mujer,43
+Nariño,Roberto Payán,52621,Hombre,87
+Nariño,Roberto Payán,52621,Mujer,57
+Nariño,Samaniego,52678,Hombre,66
+Nariño,Samaniego,52678,Mujer,43
+Nariño,San Bernardo,52685,Hombre,2
+Nariño,San Bernardo,52685,Mujer,7
+Nariño,San Lorenzo,52687,Hombre,27
+Nariño,San Lorenzo,52687,Mujer,11
+Nariño,San Pablo,52693,Hombre,29
+Nariño,San Pablo,52693,Mujer,38
+Nariño,San Pedro De Cartago,52694,Hombre,1
+Nariño,San Pedro De Cartago,52694,Mujer,3
+Nariño,Sandoná,52683,Hombre,6
+Nariño,Sandoná,52683,Mujer,9
+Nariño,Santa Bárbara,52696,Hombre,165
+Nariño,Santa Bárbara,52696,Mujer,218
+Nariño,Santacruz,52699,Hombre,44
+Nariño,Santacruz,52699,Mujer,34
+Nariño,Taminango,52786,Hombre,5
+Nariño,Taminango,52786,Mujer,7
+Nariño,Tangua,52788,Hombre,112
+Nariño,Tangua,52788,Mujer,64
+Nariño,Tumaco,52835,Hombre,817
+Nariño,Tumaco,52835,Mujer,763
+Nariño,Tumaco,52835,NoReporta,2
+Nariño,Tumaco,52835,Privada,3
+Nariño,Túquerres,52838,Hombre,3
+Nariño,Túquerres,52838,Mujer,3
+Nariño,Yacuanquer,52885,Mujer,2
+Norte Santander,Abrego,54003,Hombre,138
+Norte Santander,Abrego,54003,Mujer,107
+Norte Santander,Arboledas,54051,Hombre,30
+Norte Santander,Arboledas,54051,Mujer,24
+Norte Santander,Bochalema,54099,Hombre,4
+Norte Santander,Bochalema,54099,Mujer,1
+Norte Santander,Bucarasica,54109,Hombre,18
+Norte Santander,Bucarasica,54109,Mujer,10
+Norte Santander,Cachirá,54128,Hombre,33
+Norte Santander,Cachirá,54128,Mujer,37
+Norte Santander,Chinácota,54172,Hombre,3
+Norte Santander,Chinácota,54172,Mujer,4
+Norte Santander,Chitagá,54174,Hombre,32
+Norte Santander,Chitagá,54174,Mujer,19
+Norte Santander,Convención,54206,Hombre,72
+Norte Santander,Convención,54206,Mujer,45
+Norte Santander,Cúcuta,54001,Hombre,344
+Norte Santander,Cúcuta,54001,Mujer,306
+Norte Santander,Cúcuta,54001,Privada,0
+Norte Santander,Cucutilla,54223,Hombre,6
+Norte Santander,Cucutilla,54223,Mujer,8
+Norte Santander,Durania,54239,Hombre,4
+Norte Santander,Durania,54239,Mujer,7
+Norte Santander,El Carmen,54245,Hombre,102
+Norte Santander,El Carmen,54245,Mujer,49
+Norte Santander,El Carmen,54245,Privada,1
+Norte Santander,El Tarra,54250,Hombre,130
+Norte Santander,El Tarra,54250,Mujer,55
+Norte Santander,El Zulia,54261,Hombre,95
+Norte Santander,El Zulia,54261,Mujer,112
+Norte Santander,El Zulia,54261,Privada,1
+Norte Santander,Gramalote,54313,Hombre,1
+Norte Santander,Gramalote,54313,Mujer,2
+Norte Santander,Hacarí,54344,Hombre,45
+Norte Santander,Hacarí,54344,Mujer,26
+Norte Santander,Herrán,54347,Hombre,1
+Norte Santander,Herrán,54347,Mujer,1
+Norte Santander,La Esperanza,54385,Hombre,69
+Norte Santander,La Esperanza,54385,Mujer,69
+Norte Santander,La Playa,54398,Hombre,18
+Norte Santander,La Playa,54398,Mujer,13
+Norte Santander,Labateca,54377,Hombre,5
+Norte Santander,Labateca,54377,Mujer,1
+Norte Santander,Los Patios,54405,Hombre,20
+Norte Santander,Los Patios,54405,Mujer,14
+Norte Santander,Lourdes,54418,Hombre,2
+Norte Santander,Lourdes,54418,Mujer,2
+Norte Santander,Ocaña,54498,Hombre,137
+Norte Santander,Ocaña,54498,Mujer,80
+Norte Santander,Ocaña,54498,Privada,14
+Norte Santander,Pamplona,54518,Hombre,3
+Norte Santander,Pamplona,54518,Mujer,3
+Norte Santander,Pamplonita,54520,Hombre,2
+Norte Santander,Puerto Santander,54553,Hombre,3
+Norte Santander,Puerto Santander,54553,Mujer,5
+Norte Santander,Ragonvalia,54599,Hombre,7
+Norte Santander,Ragonvalia,54599,Mujer,2
+Norte Santander,Salazar,54660,Hombre,15
+Norte Santander,Salazar,54660,Mujer,9
+Norte Santander,San Calixto,54670,Hombre,60
+Norte Santander,San Calixto,54670,Mujer,32
+Norte Santander,San Cayetano,54673,Hombre,4
+Norte Santander,San Cayetano,54673,Mujer,3
+Norte Santander,Santiago,54680,Hombre,4
+Norte Santander,Santiago,54680,Mujer,3
+Norte Santander,Santiago,54680,Privada,1
+Norte Santander,Sardinata,54720,Hombre,185
+Norte Santander,Sardinata,54720,Mujer,126
+Norte Santander,Sardinata,54720,NoReporta,1
+Norte Santander,Silos,54743,Hombre,1
+Norte Santander,Silos,54743,Mujer,1
+Norte Santander,Teorama,54800,Hombre,69
+Norte Santander,Teorama,54800,Mujer,26
+Norte Santander,Tibú,54810,Hombre,937
+Norte Santander,Tibú,54810,Mujer,699
+Norte Santander,Tibú,54810,NoReporta,11
+Norte Santander,Toledo,54820,Hombre,24
+Norte Santander,Toledo,54820,Mujer,14
+Norte Santander,Villa Del Rosario,54874,Hombre,26
+Norte Santander,Villa Del Rosario,54874,Mujer,31
+Putumayo,Colón,86219,Hombre,3
+Putumayo,Colón,86219,Mujer,2
+Putumayo,Mocoa,86001,Hombre,92
+Putumayo,Mocoa,86001,Mujer,89
+Putumayo,Orito,86320,Mujer,549
+Putumayo,Puerto Asís,86568,Hombre,451
+Putumayo,Puerto Asís,86568,Mujer,452
+Putumayo,Puerto Asís,86568,Privada,0
+Putumayo,Puerto Caicedo,86569,Hombre,402
+Putumayo,Puerto Caicedo,86569,Mujer,309
+Putumayo,Puerto Guzmán,86571,Hombre,844
+Putumayo,Puerto Guzmán,86571,Mujer,557
+Putumayo,Puerto Guzmán,86571,NoReporta,1
+Putumayo,Puerto Leguízamo,86573,Hombre,265
+Putumayo,Puerto Leguízamo,86573,Mujer,248
+Putumayo,San Francisco,86755,Hombre,33
+Putumayo,San Francisco,86755,Mujer,31
+Putumayo,San Miguel,86757,Hombre,428
+Putumayo,San Miguel,86757,Mujer,453
+Putumayo,San Miguel,86757,NoReporta,3
+Putumayo,Santiago,86760,Hombre,53
+Putumayo,Santiago,86760,Mujer,62
+Putumayo,Sibundoy,86749,Hombre,4
+Putumayo,Sibundoy,86749,Mujer,6
+Putumayo,Valle Del Guamuez,86865,Hombre,917
+Putumayo,Valle Del Guamuez,86865,Mujer,1054
+Putumayo,Valle Del Guamuez,86865,NoReporta,3
+Putumayo,Villa Garzón,86885,Hombre,368
+Putumayo,Villa Garzón,86885,Mujer,279
+Quindío,Armenia,63001,Hombre,9
+Quindío,Armenia,63001,Lgbti,0
+Quindío,Armenia,63001,Mujer,20
+Quindío,Buenavista,63111,Hombre,1
+Quindío,Buenavista,63111,Mujer,1
+Quindío,Calarcá,63130,Hombre,16
+Quindío,Calarcá,63130,Mujer,14
+Quindío,Circasia,63190,Hombre,3
+Quindío,Circasia,63190,Mujer,3
+Quindío,Córdoba,63212,Hombre,12
+Quindío,Córdoba,63212,Mujer,8
+Quindío,Filandia,63272,Hombre,2
+Quindío,Génova,63302,Hombre,19
+Quindío,Génova,63302,Mujer,13
+Quindío,La Tebaida,63401,Hombre,3
+Quindío,La Tebaida,63401,Mujer,5
+Quindío,Montenegro,63470,Hombre,3
+Quindío,Montenegro,63470,Mujer,3
+Quindío,Pijao,63548,Hombre,6
+Quindío,Pijao,63548,Mujer,3
+Quindío,Quimbaya,63594,Mujer,3
+Quindío,Salento,63690,Hombre,7
+Quindío,Salento,63690,Mujer,1
+Risaralda,Apía,66045,Hombre,17
+Risaralda,Apía,66045,Mujer,19
+Risaralda,Balboa,66075,Hombre,3
+Risaralda,Balboa,66075,Mujer,2
+Risaralda,Belén De Umbría,66088,Hombre,22
+Risaralda,Belén De Umbría,66088,Mujer,29
+Risaralda,Dosquebradas,66170,Hombre,18
+Risaralda,Dosquebradas,66170,Mujer,6
+Risaralda,Guática,66318,Hombre,23
+Risaralda,Guática,66318,Mujer,32
+Risaralda,Guática,66318,NoReporta,1
+Risaralda,La Celia,66383,Hombre,19
+Risaralda,La Celia,66383,Mujer,12
+Risaralda,La Virginia,66400,Hombre,3
+Risaralda,La Virginia,66400,Mujer,3
+Risaralda,Marsella,66440,Hombre,2
+Risaralda,Marsella,66440,Mujer,2
+Risaralda,Mistrató,66456,Hombre,63
+Risaralda,Mistrató,66456,Mujer,32
+Risaralda,Pereira,66001,Hombre,31
+Risaralda,Pereira,66001,Mujer,28
+Risaralda,Pueblo Rico,66572,Hombre,183
+Risaralda,Pueblo Rico,66572,Mujer,108
+Risaralda,Quinchía,66594,Hombre,182
+Risaralda,Quinchía,66594,Mujer,126
+Risaralda,Santa Rosa De Cabal,66682,Hombre,7
+Risaralda,Santa Rosa De Cabal,66682,Mujer,3
+Risaralda,Santuario,66687,Hombre,33
+Risaralda,Santuario,66687,Mujer,20
+San Andrés,San Andrés,88001,Hombre,1
+San Andrés,San Andrés,88001,Mujer,0
+Santander,Aguada,68013,Hombre,4
+Santander,Aguada,68013,Mujer,1
+Santander,Albania,68020,Hombre,4
+Santander,Albania,68020,Mujer,8
+Santander,Aratoca,68051,Hombre,1
+Santander,Barbosa,68077,Hombre,6
+Santander,Barbosa,68077,Mujer,2
+Santander,Barrancabermeja,68081,Hombre,339
+Santander,Barrancabermeja,68081,Mujer,373
+Santander,Betulia,68092,Hombre,57
+Santander,Betulia,68092,Mujer,52
+Santander,Bolívar,68101,Hombre,54
+Santander,Bolívar,68101,Mujer,44
+Santander,Bolívar,68101,NoReporta,1
+Santander,Bucaramanga,68001,Hombre,33
+Santander,Bucaramanga,68001,Mujer,23
+Santander,Cabrera,68121,Hombre,1
+Santander,California,68132,Hombre,5
+Santander,California,68132,Mujer,1
+Santander,Capitanejo,68147,Hombre,7
+Santander,Capitanejo,68147,Mujer,3
+Santander,Carcasí,68152,Hombre,2
+Santander,Carcasí,68152,Mujer,1
+Santander,Cepitá,68160,Hombre,1
+Santander,Cepitá,68160,Mujer,0
+Santander,Cerrito,68162,Hombre,3
+Santander,Cerrito,68162,Mujer,7
+Santander,Charalá,68167,Hombre,5
+Santander,Charalá,68167,Mujer,1
+Santander,Charalá,68167,NoReporta,1
+Santander,Charta,68169,Hombre,13
+Santander,Charta,68169,Mujer,6
+Santander,Chima,68176,Hombre,6
+Santander,Chima,68176,Mujer,4
+Santander,Chipatá,68179,Hombre,1
+Santander,Chipatá,68179,Mujer,1
+Santander,Cimitarra,68190,Hombre,203
+Santander,Cimitarra,68190,Mujer,156
+Santander,Cimitarra,68190,NoReporta,3
+Santander,Concepción,68207,Hombre,10
+Santander,Concepción,68207,Mujer,12
+Santander,Confines,68209,Mujer,1
+Santander,Contratación,68211,Mujer,1
+Santander,Coromoro,68217,Hombre,1
+Santander,Coromoro,68217,Mujer,3
+Santander,Curití,68229,Mujer,0
+Santander,El Carmen De Chucurí,68235,Hombre,193
+Santander,El Carmen De Chucurí,68235,Mujer,147
+Santander,El Guacamayo,68245,Hombre,1
+Santander,El Guacamayo,68245,Mujer,1
+Santander,El Peñón,68250,Hombre,30
+Santander,El Peñón,68250,Mujer,30
+Santander,El Playón,68255,Hombre,64
+Santander,El Playón,68255,Mujer,48
+Santander,Encino,68264,Hombre,2
+Santander,Encino,68264,Mujer,1
+Santander,Enciso,68266,Mujer,2
+Santander,Florián,68271,Hombre,4
+Santander,Florián,68271,Mujer,3
+Santander,Floridablanca,68276,Hombre,9
+Santander,Floridablanca,68276,Mujer,7
+Santander,Galán,68296,Hombre,4
+Santander,Galán,68296,Mujer,4
+Santander,Gambita,68298,Hombre,5
+Santander,Gambita,68298,Mujer,1
+Santander,Girón,68307,Hombre,48
+Santander,Girón,68307,Mujer,43
+Santander,Girón,68307,NoReporta,1
+Santander,Guaca,68318,Hombre,7
+Santander,Guaca,68318,Mujer,4
+Santander,Guadalupe,68320,Hombre,2
+Santander,Guavatá,68324,Hombre,1
+Santander,Guavatá,68324,Mujer,2
+Santander,Guouepsa,68327,Hombre,1
+Santander,Hato,68344,Hombre,7
+Santander,Hato,68344,Mujer,2
+Santander,Jesús María,68368,Hombre,2
+Santander,Jesús María,68368,Mujer,2
+Santander,La Belleza,68377,Hombre,12
+Santander,La Belleza,68377,Mujer,7
+Santander,La Paz,68397,Hombre,10
+Santander,La Paz,68397,Mujer,5
+Santander,Landázuri,68385,Hombre,71
+Santander,Landázuri,68385,Mujer,55
+Santander,Lebríja,68406,Hombre,85
+Santander,Lebríja,68406,Mujer,66
+Santander,Los Santos,68418,Hombre,2
+Santander,Los Santos,68418,Mujer,3
+Santander,Macaravita,68425,Hombre,16
+Santander,Macaravita,68425,Mujer,11
+Santander,Málaga,68432,Hombre,4
+Santander,Málaga,68432,Mujer,7
+Santander,Matanza,68444,Hombre,43
+Santander,Matanza,68444,Mujer,25
+Santander,Mogotes,68464,Hombre,6
+Santander,Mogotes,68464,Mujer,6
+Santander,Molagavita,68468,Hombre,3
+Santander,Molagavita,68468,Mujer,3
+Santander,Oiba,68500,Hombre,5
+Santander,Oiba,68500,Mujer,2
+Santander,Onzaga,68502,Hombre,3
+Santander,Onzaga,68502,Mujer,3
+Santander,Páramo,68533,Mujer,1
+Santander,Piedecuesta,68547,Hombre,23
+Santander,Piedecuesta,68547,Mujer,9
+Santander,Puente Nacional,68572,Hombre,1
+Santander,Puente Nacional,68572,Mujer,4
+Santander,Puerto Parra,68573,Hombre,98
+Santander,Puerto Parra,68573,Mujer,65
+Santander,Puerto Wilches,68575,Hombre,157
+Santander,Puerto Wilches,68575,Mujer,84
+Santander,Puerto Wilches,68575,NoReporta,4
+Santander,Rionegro,68615,Hombre,164
+Santander,Rionegro,68615,Mujer,91
+Santander,Sabana De Torres,68655,Hombre,282
+Santander,Sabana De Torres,68655,Mujer,204
+Santander,San Andrés,68669,Hombre,2
+Santander,San Andrés,68669,Mujer,10
+Santander,San Benito,68673,Hombre,2
+Santander,San Gil,68679,Hombre,3
+Santander,San Gil,68679,Mujer,1
+Santander,San Joaquín,68682,Hombre,2
+Santander,San Joaquín,68682,Mujer,1
+Santander,San José De Miranda,68684,Hombre,1
+Santander,San Miguel,68686,Hombre,17
+Santander,San Miguel,68686,Mujer,9
+Santander,San Vicente De Chucurí,68689,Hombre,204
+Santander,San Vicente De Chucurí,68689,Mujer,131
+Santander,San Vicente De Chucurí,68689,NoReporta,1
+Santander,San Vicente De Chucurí,68689,Privada,1
+Santander,Santa Bárbara,68705,Hombre,2
+Santander,Santa Helena Del Opón,68720,Hombre,15
+Santander,Santa Helena Del Opón,68720,Mujer,9
+Santander,Simacota,68745,Hombre,141
+Santander,Simacota,68745,Mujer,115
+Santander,Socorro,68755,Hombre,1
+Santander,Socorro,68755,Mujer,1
+Santander,Suaita,68770,Hombre,6
+Santander,Suaita,68770,Mujer,11
+Santander,Sucre,68773,Hombre,16
+Santander,Sucre,68773,Mujer,18
+Santander,Suratá,68780,Hombre,24
+Santander,Suratá,68780,Mujer,9
+Santander,Tona,68820,Hombre,7
+Santander,Valle De San José,68855,Hombre,1
+Santander,Vélez,68861,Hombre,13
+Santander,Vélez,68861,Mujer,4
+Santander,Villanueva,68872,Hombre,2
+Santander,Zapatoca,68895,Hombre,24
+Santander,Zapatoca,68895,Mujer,15
+Sucre,Buenavista,70110,Hombre,20
+Sucre,Buenavista,70110,Mujer,4
+Sucre,Caimito,70124,Hombre,4
+Sucre,Caimito,70124,Mujer,1
+Sucre,Chalán,70230,Hombre,89
+Sucre,Chalán,70230,Mujer,55
+Sucre,Coloso,70204,Hombre,159
+Sucre,Coloso,70204,Mujer,70
+Sucre,Corozal,70215,Hombre,32
+Sucre,Corozal,70215,Mujer,5
+Sucre,Coveñas,70221,Hombre,1
+Sucre,Coveñas,70221,Mujer,5
+Sucre,El Roble,70233,Hombre,16
+Sucre,El Roble,70233,Mujer,16
+Sucre,Galeras,70235,Hombre,50
+Sucre,Galeras,70235,Mujer,78
+Sucre,Guaranda,70265,Hombre,17
+Sucre,Guaranda,70265,Mujer,14
+Sucre,La Unión,70400,Hombre,2
+Sucre,La Unión,70400,Mujer,3
+Sucre,Los Palmitos,70418,Hombre,118
+Sucre,Los Palmitos,70418,Mujer,39
+Sucre,Majagual,70429,Hombre,56
+Sucre,Majagual,70429,Mujer,29
+Sucre,Morroa,70473,Hombre,325
+Sucre,Morroa,70473,Mujer,120
+Sucre,Ovejas,70508,Hombre,628
+Sucre,Ovejas,70508,Mujer,248
+Sucre,Ovejas,70508,NoReporta,1
+Sucre,Palmito,70523,Hombre,9
+Sucre,Palmito,70523,Mujer,3
+Sucre,Sampués,70670,Hombre,5
+Sucre,Sampués,70670,Mujer,1
+Sucre,Sampués,70670,Privada,2
+Sucre,San Benito Abad,70678,Hombre,63
+Sucre,San Benito Abad,70678,Mujer,23
+Sucre,San Juan De Betulia,70702,Hombre,12
+Sucre,San Juan De Betulia,70702,Mujer,6
+Sucre,San Marcos,70708,Hombre,16
+Sucre,San Marcos,70708,Mujer,12
+Sucre,San Onofre,70713,Hombre,205
+Sucre,San Onofre,70713,Mujer,117
+Sucre,San Onofre,70713,NoReporta,2
+Sucre,San Pedro,70717,Hombre,72
+Sucre,San Pedro,70717,Mujer,30
+Sucre,Santiago De Tolú,70820,Hombre,22
+Sucre,Santiago De Tolú,70820,Mujer,13
+Sucre,Sincé,70742,Hombre,28
+Sucre,Sincé,70742,Mujer,10
+Sucre,Sincelejo,70001,Hombre,57
+Sucre,Sincelejo,70001,Mujer,26
+Sucre,Sucre,70771,Hombre,38
+Sucre,Sucre,70771,Mujer,22
+Sucre,Tolú Viejo,70823,Hombre,87
+Sucre,Tolú Viejo,70823,Mujer,36
+Tolima,Alpujarra,73024,Hombre,19
+Tolima,Alpujarra,73024,Mujer,17
+Tolima,Alvarado,73026,Hombre,52
+Tolima,Alvarado,73026,Mujer,31
+Tolima,Ambalema,73030,Hombre,46
+Tolima,Ambalema,73030,Mujer,26
+Tolima,Anzoátegui,73043,Hombre,95
+Tolima,Anzoátegui,73043,Mujer,72
+Tolima,Armero,73055,Hombre,40
+Tolima,Armero,73055,Mujer,19
+Tolima,Ataco,73067,Hombre,701
+Tolima,Ataco,73067,Mujer,529
+Tolima,Cajamarca,73124,Hombre,51
+Tolima,Cajamarca,73124,Mujer,24
+Tolima,Carmen De Apicalá,73148,Hombre,2
+Tolima,Carmen De Apicalá,73148,Mujer,1
+Tolima,Casabianca,73152,Hombre,38
+Tolima,Casabianca,73152,Mujer,31
+Tolima,Chaparral,73168,Hombre,317
+Tolima,Chaparral,73168,Mujer,182
+Tolima,Coello,73200,Mujer,2
+Tolima,Coyaima,73217,Hombre,137
+Tolima,Coyaima,73217,Mujer,101
+Tolima,Cunday,73226,Hombre,79
+Tolima,Cunday,73226,Mujer,58
+Tolima,Cunday,73226,Privada,2
+Tolima,Dolores,73236,Hombre,106
+Tolima,Dolores,73236,Mujer,71
+Tolima,Espinal,73268,Hombre,2
+Tolima,Espinal,73268,Mujer,0
+Tolima,Falán,73270,Hombre,24
+Tolima,Falán,73270,Mujer,18
+Tolima,Flandes,73275,Hombre,1
+Tolima,Flandes,73275,Mujer,1
+Tolima,Flandes,73275,NoReporta,1
+Tolima,Fresno,73283,Hombre,42
+Tolima,Fresno,73283,Mujer,29
+Tolima,Guamo,73319,Hombre,9
+Tolima,Guamo,73319,Mujer,5
+Tolima,Herveo,73347,Hombre,31
+Tolima,Herveo,73347,Mujer,24
+Tolima,Herveo,73347,NoReporta,1
+Tolima,Honda,73349,Hombre,7
+Tolima,Honda,73349,Mujer,8
+Tolima,Ibagué,73001,Hombre,200
+Tolima,Ibagué,73001,Mujer,122
+Tolima,Ibagué,73001,NoReporta,1
+Tolima,Icononzo,73352,Hombre,72
+Tolima,Icononzo,73352,Mujer,46
+Tolima,Lérida,73408,Hombre,111
+Tolima,Lérida,73408,Mujer,58
+Tolima,Líbano,73411,Hombre,226
+Tolima,Líbano,73411,Mujer,193
+Tolima,Mariquita,73443,Hombre,33
+Tolima,Mariquita,73443,Mujer,24
+Tolima,Melgar,73449,Hombre,6
+Tolima,Melgar,73449,Mujer,4
+Tolima,Murillo,73461,Hombre,11
+Tolima,Murillo,73461,Mujer,27
+Tolima,Natagaima,73483,Hombre,153
+Tolima,Natagaima,73483,Mujer,111
+Tolima,Ortega,73504,Hombre,146
+Tolima,Ortega,73504,Mujer,114
+Tolima,Ortega,73504,NoReporta,1
+Tolima,Palocabildo,73520,Hombre,28
+Tolima,Palocabildo,73520,Mujer,21
+Tolima,Piedras,73547,Hombre,8
+Tolima,Piedras,73547,Mujer,17
+Tolima,Planadas,73555,Hombre,254
+Tolima,Planadas,73555,Mujer,157
+Tolima,Prado,73563,Hombre,80
+Tolima,Prado,73563,Mujer,56
+Tolima,Purificación,73585,Hombre,32
+Tolima,Purificación,73585,Mujer,18
+Tolima,Rioblanco,73616,Hombre,457
+Tolima,Rioblanco,73616,Mujer,307
+Tolima,Roncesvalles,73622,Hombre,95
+Tolima,Roncesvalles,73622,Mujer,54
+Tolima,Rovira,73624,Hombre,146
+Tolima,Rovira,73624,Mujer,104
+Tolima,Saldaña,73671,Hombre,8
+Tolima,Saldaña,73671,Mujer,2
+Tolima,Saldaña,73671,NoReporta,1
+Tolima,San Antonio,73675,Hombre,126
+Tolima,San Antonio,73675,Mujer,132
+Tolima,San Antonio,73675,Privada,4
+Tolima,San Luis,73678,Hombre,56
+Tolima,San Luis,73678,Mujer,26
+Tolima,Santa Isabel,73686,Hombre,26
+Tolima,Santa Isabel,73686,Mujer,20
+Tolima,Suárez,73770,Hombre,2
+Tolima,Suárez,73770,Mujer,5
+Tolima,Valle De San Juan,73854,Hombre,71
+Tolima,Valle De San Juan,73854,Mujer,88
+Tolima,Venadillo,73861,Hombre,77
+Tolima,Venadillo,73861,Mujer,55
+Tolima,Villahermosa,73870,Hombre,81
+Tolima,Villahermosa,73870,Mujer,64
+Tolima,Villarrica,73873,Hombre,84
+Tolima,Villarrica,73873,Mujer,51
+Tolima,Villarrica,73873,NoReporta,1
+Valle Del Cauca,Alcalá,76020,Hombre,3
+Valle Del Cauca,Alcalá,76020,Mujer,6
+Valle Del Cauca,Andalucía,76036,Hombre,10
+Valle Del Cauca,Andalucía,76036,Mujer,4
+Valle Del Cauca,Ansermanuevo,76041,Hombre,5
+Valle Del Cauca,Ansermanuevo,76041,Mujer,10
+Valle Del Cauca,Argelia,76054,Hombre,5
+Valle Del Cauca,Argelia,76054,Mujer,2
+Valle Del Cauca,Bolívar,76100,Hombre,139
+Valle Del Cauca,Bolívar,76100,Mujer,162
+Valle Del Cauca,Buenaventura,76109,Hombre,376
+Valle Del Cauca,Buenaventura,76109,Lgbti,1
+Valle Del Cauca,Buenaventura,76109,Mujer,448
+Valle Del Cauca,Bugalagrande,76113,Hombre,178
+Valle Del Cauca,Bugalagrande,76113,Mujer,115
+Valle Del Cauca,Caicedonia,76122,Hombre,5
+Valle Del Cauca,Caicedonia,76122,Mujer,0
+Valle Del Cauca,Cali,76001,Hombre,143
+Valle Del Cauca,Cali,76001,Mujer,136
+Valle Del Cauca,Cali,76001,NoReporta,34
+Valle Del Cauca,Cali,76001,Privada,2
+Valle Del Cauca,Calima,76126,Hombre,70
+Valle Del Cauca,Calima,76126,Mujer,49
+Valle Del Cauca,Calima,76126,Privada,1
+Valle Del Cauca,Candelaria,76130,Hombre,4
+Valle Del Cauca,Candelaria,76130,Mujer,7
+Valle Del Cauca,Cartago,76147,Hombre,12
+Valle Del Cauca,Cartago,76147,Mujer,6
+Valle Del Cauca,Cartago,76147,NoReporta,4
+Valle Del Cauca,Dagua,76233,Hombre,176
+Valle Del Cauca,Dagua,76233,Mujer,115
+Valle Del Cauca,Dagua,76233,NoReporta,3
+Valle Del Cauca,El Aguila,76243,Hombre,15
+Valle Del Cauca,El Aguila,76243,Mujer,15
+Valle Del Cauca,El Cairo,76246,Hombre,25
+Valle Del Cauca,El Cairo,76246,Mujer,17
+Valle Del Cauca,El Cerrito,76248,Hombre,18
+Valle Del Cauca,El Cerrito,76248,Mujer,11
+Valle Del Cauca,El Dovio,76250,Hombre,71
+Valle Del Cauca,El Dovio,76250,Mujer,56
+Valle Del Cauca,Florida,76275,Hombre,39
+Valle Del Cauca,Florida,76275,Mujer,23
+Valle Del Cauca,Florida,76275,Privada,1
+Valle Del Cauca,Ginebra,76306,Hombre,30
+Valle Del Cauca,Ginebra,76306,Mujer,14
+Valle Del Cauca,Ginebra,76306,Privada,0
+Valle Del Cauca,Guacarí,76318,Hombre,11
+Valle Del Cauca,Guacarí,76318,Mujer,9
+Valle Del Cauca,Guadalajara De Buga,76111,Hombre,132
+Valle Del Cauca,Guadalajara De Buga,76111,Mujer,88
+Valle Del Cauca,Guadalajara De Buga,76111,Privada,3
+Valle Del Cauca,Jamundí,76364,Hombre,149
+Valle Del Cauca,Jamundí,76364,Mujer,122
+Valle Del Cauca,Jamundí,76364,NoReporta,3
+Valle Del Cauca,Jamundí,76364,Privada,3
+Valle Del Cauca,La Cumbre,76377,Hombre,27
+Valle Del Cauca,La Cumbre,76377,Mujer,22
+Valle Del Cauca,La Unión,76400,Hombre,14
+Valle Del Cauca,La Unión,76400,Mujer,5
+Valle Del Cauca,La Victoria,76403,Hombre,1
+Valle Del Cauca,La Victoria,76403,Mujer,4
+Valle Del Cauca,Obando,76497,Hombre,11
+Valle Del Cauca,Obando,76497,Mujer,16
+Valle Del Cauca,Palmira,76520,Hombre,87
+Valle Del Cauca,Palmira,76520,Mujer,46
+Valle Del Cauca,Pradera,76563,Hombre,62
+Valle Del Cauca,Pradera,76563,Mujer,65
+Valle Del Cauca,Pradera,76563,NoReporta,3
+Valle Del Cauca,Restrepo,76606,Hombre,11
+Valle Del Cauca,Restrepo,76606,Mujer,9
+Valle Del Cauca,Restrepo,76606,NoReporta,1
+Valle Del Cauca,Riofrío,76616,Hombre,73
+Valle Del Cauca,Riofrío,76616,Mujer,52
+Valle Del Cauca,Roldanillo,76622,Hombre,16
+Valle Del Cauca,Roldanillo,76622,Mujer,25
+Valle Del Cauca,San Pedro,76670,Hombre,34
+Valle Del Cauca,San Pedro,76670,Mujer,39
+Valle Del Cauca,Sevilla,76736,Hombre,51
+Valle Del Cauca,Sevilla,76736,Mujer,27
+Valle Del Cauca,Sevilla,76736,NoReporta,1
+Valle Del Cauca,Toro,76823,Hombre,2
+Valle Del Cauca,Toro,76823,Mujer,13
+Valle Del Cauca,Trujillo,76828,Hombre,203
+Valle Del Cauca,Trujillo,76828,Mujer,106
+Valle Del Cauca,Tuluá,76834,Hombre,293
+Valle Del Cauca,Tuluá,76834,Mujer,216
+Valle Del Cauca,Ulloa,76845,Hombre,3
+Valle Del Cauca,Ulloa,76845,Mujer,4
+Valle Del Cauca,Versalles,76863,Hombre,8
+Valle Del Cauca,Versalles,76863,Mujer,8
+Valle Del Cauca,Vijes,76869,Hombre,9
+Valle Del Cauca,Vijes,76869,Mujer,7
+Valle Del Cauca,Yotoco,76890,Hombre,9
+Valle Del Cauca,Yotoco,76890,Mujer,8
+Valle Del Cauca,Yumbo,76892,Hombre,5
+Valle Del Cauca,Yumbo,76892,Mujer,4
+Valle Del Cauca,Zarzal,76895,Hombre,14
+Valle Del Cauca,Zarzal,76895,Mujer,9
+Vaupés,Carurú,97161,Hombre,27
+Vaupés,Carurú,97161,Mujer,22
+Vaupés,Mitú,97001,Hombre,27
+Vaupés,Mitú,97001,Mujer,33
+Vaupés,Pacoa,97511,Hombre,5
+Vaupés,Pacoa,97511,Mujer,8
+Vaupés,Taraira,97666,Hombre,1
+Vaupés,Taraira,97666,Mujer,1
+Vaupés,Yavaraté,97889,Hombre,1
+Vichada,Cumaribo,99773,Hombre,504
+Vichada,Cumaribo,99773,Mujer,362
+Vichada,Cumaribo,99773,NoReporta,1
+Vichada,Cumaribo,99773,Privada,1
+Vichada,La Primavera,99524,Hombre,74
+Vichada,La Primavera,99524,Mujer,53
+Vichada,La Primavera,99524,NoReporta,1
+Vichada,La Primavera,99524,Privada,1
+Vichada,Puerto Carreño,99001,Hombre,40
+Vichada,Puerto Carreño,99001,Mujer,22
+Vichada,Puerto Carreño,99001,NoReporta,4
+Vichada,Puerto Carreño,99001,Privada,1
+Vichada,Santa Rosalía,99624,Hombre,27
+Vichada,Santa Rosalía,99624,Mujer,20
